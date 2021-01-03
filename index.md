@@ -5,15 +5,21 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 
 ### Recommendations
-- [Coffee](coffee.md)
-- [Espresso Machines](machines.md)
-- [Espresso Grinders](grinders.md)
+- [Coffee](reccs/coffee.md)
+- [Espresso Machines](reccs/machines.md)
+- [Espresso Grinders](reccs/grinders.md)
 
-### Guides and Info
-- [New Machine Accessory Chesklist](accessories.md)
-- [Lever Machines](levers.md)
-- [Living the Bripe Life](bripe.md)
+### Guides
+- [Espresso Profiling](guides/profiling.md)
+- [Water](guides/water.md)
+- [New Machine Accessory Chesklist](guides/accessories.md)
 
-### Just changing a bit of text here to tease Lund.
+### Useful Info
+- [Lever Machines](info/levers.md)
+- [Living the Bripe Life](info/bripe.md)
 
-4realz paddles are the superior control system.
+### Baratza
+- [Burr Alignment "hyperaligned](baratza/alignment.md)
+
+### Useful Links
+- [Useful Links](links.md)
