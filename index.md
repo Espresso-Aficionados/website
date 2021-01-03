@@ -3,13 +3,14 @@ This is a collection of information from the Espresso Aficionados discord server
 
 Please come join the server if you have any questions! [Espresso Aficionados Discord](https://discord.gg/FckG4CBKQt)
 
-[Coffee Recommendations](coffee.md)
 
-[Machine Recommendations](machines.md)
+### Recommendations
+- [Coffee](coffee.md)
+- [Machines](machines.md)
 
-[Lever Machines](levers.md)
-
-[Living the Bripe Life](bripe.md)
+### Guides and Info
+- [Lever Machines](levers.md)
+- [Living the Bripe Life](bripe.md)
 
 
 
