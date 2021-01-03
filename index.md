@@ -8,14 +8,11 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Coffee](coffee.md)
 - [Espresso Machines](machines.md)
 - [Espresso Grinders](grinders.md)
-- [Accessories](accessories.md)
 
 ### Guides and Info
+- [New Machine Accessory Chesklist](accessories.md)
 - [Lever Machines](levers.md)
 - [Living the Bripe Life](bripe.md)
-
-
-
 
 ### Just changing a bit of text here to tease Lund.
 
