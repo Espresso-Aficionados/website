@@ -14,10 +14,17 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Water](guides/water.md)
 - [New Machine Accessory Chesklist](guides/accessories.md)
 - [Machine Maintenance](guides/maintenance.md)
+- [Coffee Storage](guides/storage.md)
+- [Burr Alignment](guides/alignment.md)
 
 ### Useful Info
 - [Lever Machines](info/levers.md)
 - [Living the Bripe Life](info/bripe.md)
+
+### Breville
+- [BDB Slayer Mod](breville/slayermod.md)
+
+
 
 ### Baratza
 - [Burr Alignment "hyperaligned](baratza/alignment.md)
