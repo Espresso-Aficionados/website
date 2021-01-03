@@ -23,8 +23,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 ### Breville
 - [BDB Slayer Mod](breville/slayermod.md)
-
-
+- [BDB Needle Valve Upgrades](breville/needle.md)
 
 ### Baratza
 - [Burr Alignment "hyperaligned](baratza/alignment.md)
