@@ -13,6 +13,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Espresso Profiling](guides/profiling.md)
 - [Water](guides/water.md)
 - [New Machine Accessory Chesklist](guides/accessories.md)
+- [Machine Maintenance](guides/maintenance.md)
 
 ### Useful Info
 - [Lever Machines](info/levers.md)
