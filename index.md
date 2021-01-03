@@ -6,7 +6,9 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 ### Recommendations
 - [Coffee](coffee.md)
-- [Machines](machines.md)
+- [Espresso Machines](machines.md)
+- [Espresso Grinders](grinders.md)
+- [Accessories](accessories.md)
 
 ### Guides and Info
 - [Lever Machines](levers.md)
