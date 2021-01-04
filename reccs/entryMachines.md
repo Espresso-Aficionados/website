@@ -21,6 +21,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 - Large modding community
 - Can add flow control with a dimmer
 - Well built, common to have machines 20+ years old
+
 #### Cons:
 - Needs modifications to shine:
   - PID
@@ -34,6 +35,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 #### Pros:
 - Large community
 - Been around a long time, common to find
+
 #### Cons:
 - Doesn’t come with a PID
 - Depreacates in price immediately
@@ -41,6 +43,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 ### **Lelit Anna** ([$499[No PID]](https://espresso.lelit.com/product/1) - [$629[With PID]](https://espresso.lelit.com/product/33))
 #### Pros:
 - Larger boiler compared to the GCP, creating better temperature stability during a shot
+
 #### Cons:
 - 57mm portafilter
 - Difficulty in finding accessories
@@ -51,6 +54,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 - 58mm version of the Anna
 - Easy to find accessories, especially better baskets
 - Larger boiler for better temperature stability in shots
+
 #### Cons:
 - Upcharge compared to the Anna, but comparable to the Silvia with mods already added
 
@@ -62,6 +66,7 @@ Breville machines come packed with features out of the box at a range of prices.
 #### Pros:
 - Very affordable; lowest cost for a new machine to produce great espresso
 - PID Controlled temp (single setting, 200F)
+
 #### Cons:
 - Single wall basket not included
 - High pressure shots out of the box with single wall baskets (~15 bar)
@@ -69,6 +74,7 @@ Breville machines come packed with features out of the box at a range of prices.
 ### **Breville Bambino Plus** ([$500](https://www.breville.com/us/en/products/espresso/bes500.html))
 #### Pros:
 - Has a robust automatic steaming wand, making steaming a foolproof process.
+
 #### Cons:
 - Higher cost than the regular bambino.
 
@@ -79,6 +85,7 @@ Breville machines come packed with features out of the box at a range of prices.
 - Widely available, new or used
 - Huge community of users
 - Manual preinfusion
+
 #### Cons:
 - 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort)
 
@@ -94,6 +101,7 @@ Most affordable entry point to unpressurized espresso
 - Durable
 - No need to worry about scaling or backflushing
 - Fun(?)
+
 #### Cons:
 - Tedious workflow for multiple shots
 - No ability to steam milk built in
@@ -106,6 +114,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 - Preheating somewhat optional with medium-dark roasts due to low thermal mass
 - 58mm basket* (still needs proprietary accessories)
 - Looks cool with googly eyes
+
 #### Cons:
 - Similar to the Flair
 - A bit more expensive than the Flair
@@ -119,6 +128,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 - Indestructible
 - Can be had for relatively cheap
 - Repairable with aftermarket
+
 #### Cons:
 - Very difficult to use, lot’s of quirks
 - Overpriced atm because of Hoffmann Bump
@@ -139,6 +149,7 @@ Breville infuser, but with a grinder
 - Widely available, new or used
 - Huge community of users
 - Manual preinfusion
+
 #### Cons:
 - 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort)
 - Grinder is unreliable and not that great
