@@ -12,7 +12,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 ### Guides
 - [Espresso Profiling](guides/profiling.md)
 - [Water](guides/water.md)
-- [New Machine Accessory Chesklist](guides/accessories.md)
+- [New Machine Accessory Checklist](guides/accessories.md)
 - [Machine Maintenance](guides/maintenance.md)
 - [Coffee Storage](guides/storage.md)
 - [Burr Alignment](guides/alignment.md)
@@ -20,13 +20,14 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 ### Useful Info
 - [Lever Machines](info/levers.md)
 - [Living the Bripe Life](info/bripe.md)
+- [Types of Espresso Machines](info/machineTypes.md)
 
 ### Breville
 - [BDB Slayer Mod](breville/slayermod.md)
 - [BDB Needle Valve Upgrades](breville/needle.md)
 
 ### Baratza
-- [Burr Alignment "hyperaligned](baratza/alignment.md)
+- [Burr Alignment "Hyperaligned Vario"](baratza/alignment.md)
 
 ### Useful Links
 - [Useful Links](links.md)
