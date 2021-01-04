@@ -11,6 +11,9 @@ There are now a number of machines and mods that allow a ton of control for the 
 ### Computer Control
 # How to Profile
 ## Some quick definitions
+* Water Debit
+
+In a pump machine, the amount of water that comes out of the group without restriction from coffee or a basket. Commonly expressed as (X)ml/s. Variable in flow profiling systems.
 ## Understanding extraction
 ## Setting Recipes 
 ## Components of a profile
@@ -28,14 +31,18 @@ Simply put, I recommend 4 base profiles that are fairly adaptable. They're liste
 
    Recommended for ultra light coffees, especially nordic style filter roasts. I use an ultra fine or turkish grind. My current method is to use my known debit and a timer to add a little less than twice the dry weight of the puck in water as quickly as is reasonable (7ish ml/s) before closing the valve. I leave the valve closed for 30 seconds, and generally see about 4-10g in the cup at this point. I ramp to a debit of about 4.5 ml/s quite quickly and hold. Pressure rarely exceeds 6 bar and should taper naturally.
    
+   This profile is best used for coffees that can't withstand the challenging preinfusion and main extraction phase of the blooming profile. If you find yourself with a gusher after your first attempt at blooming a coffee, can't grind finer, and still want more extraction this is a good profile to try.
+   
    1:4 ratios and up are the norm here, and extractions should be very high. Vibrant and juicy at ultra high extraction levels. Keep in mind that this profile will not produce thick shots.
    
 2. Blooming espresso
    
    Recommended for light to medium light coffees. This shot requires an ultra fine, or turkish grind. My current method is to use my known debit and a timer to add roughly twice the dry weight of the puck in water as quickly as is reasonable (7ish ml/s) before closing the valve. I leave the valve closed for 30 seconds, which is generally where i see first drip. Getting drips or even a small amount of flow sooner is ok if you can’t grind finer. I relatively smoothly ramp to 9 bar and hold after, though a taper could be useful if you’re prone to channeling.
    
-      If the blooming is extracting too high for what you are thinking of as medium light, it’s probably more developed than you realize. You can cut the ratio shorter if the concentration won’t be a problem or cut shorter and add some water if it is. Otherwise, see the modified dipper suggested profile.
-      This profile is useful up to 1:3, but expect extremely high flavor intensity relative to the ratio.
+   Some coffees will just fall apart after preinfusion using this profile. If you're grinding as fine as you can and managing your puck prep well you may need to switch to a different profile. I'd suggest the blooming allongé if you need more extraction, the allongé or variant if you need about the same, or the modified dipper if you're working with something realtively developed.
+   
+      If the blooming profile is extracting too high for what you are thinking of as medium light, it’s probably more developed than you realize. You can cut the ratio shorter if the concentration won’t be a problem or cut shorter and add some water if it is. Otherwise, see the modified dipper suggested profile.
+      This profile is useful up to 1:3, but expect extremely high flavor intensity relative to the ratio. 
 3. Allonge
     
     A simple profile; grind a little coarser than normal and set debit to 4.5ml/s. Let it rip to a 1:4-1:5 ratio. Best for really light coffees, especially those that don't seem to be cooperating with the blooming version of this shot. This does extract a bit lower but is a great clarity profile.
