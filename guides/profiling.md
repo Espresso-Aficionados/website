@@ -7,6 +7,7 @@
 # How to Profile
 ## Some quick definitions
 ## Understanding extraction
+## Setting Recipes 
 ## Components of a profile
 ### Preinfusion
 ### Infusion
