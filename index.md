@@ -6,7 +6,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 ### Recommendations
 - [Coffee](reccs/coffee.md)
-- [Espresso Machines](reccs/machines.md)
+- [Entry Level Espresso Machines](reccs/entryMachines.md)
 - [Espresso Grinders](reccs/grinders.md)
 
 ### Guides
