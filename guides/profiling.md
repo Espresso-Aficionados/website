@@ -13,13 +13,35 @@ There are now a number of machines and mods that allow a ton of control for the 
 ## Some quick definitions
 * Water Debit
 
-In a pump machine, the amount of water that comes out of the group without restriction from coffee or a basket. Commonly expressed as (X)ml/s. Variable in flow profiling systems.
+   In a pump machine, the amount of water that comes out of the group without restriction from coffee or a basket. Commonly expressed as (X)ml/s. Variable in flow profiling systems.
+
+* Channeling
+
+When water flows through coffee it tries to find the path of least resistance. Channeling is a phenomenon that occurs when the path of least resistance allows the water to form a hole in the puck. This allows the water to flow primarily through one spot, reducing overall extraction and simultaneously contributing negative overextraction flavors to the final beverage. Bitternss, astringency, and sourness all together indicate severe channeling. Unavoidable entirely, but this can be reduced to the minimum without a ton of effort.
 ## Understanding extraction
 ## Setting Recipes 
 ## Components of a profile
 ### Preinfusion
+The first thing that happens in any profile is that the coffee gets wet before pressure starts to build. Depending on the machine, this can be very fast or very slow. Our goal is to maintain puck integrity, so there is probably a reasonable balance between high and low speeds.
+
+Our goal in preinfusion is to get the coffee evenly wet as quickly as possible and to soften the puck to the proper degree so water can flow through at our desired infusion flow rate. There are many schemas for preinfusion, but understanding that we're setting up the next phase is what I consider to be most important here.
 ### Infusion
+The infusion phase is where the magic happens. Water is flowing through the coffee and extracting soluble material. Some general guides exist for understanding a reasonable flow rate during this phase, and most of the time based dialing info you've heard in the past comes from managing the contact time in infusion. Most of my profiles (for my grinder and coffees) wind up spending around 30s in this phase.
+
+* Ristretto ratios (1:1.5 or less)
+
+   <1ml/s in the cup
+* Normale (1:1.5-1:2.5)
+   
+   ~1ml/s in the cup
+* Lungo (1:2.5-1:3.5)
+   
+   2ml/s in the cup
+* Allongé (1:3.5 and up)
+
+   \>2ml/s in the cup
 ### Taper
+Towards the end of many shots, you've lost 20% or more of the original mass of the coffee puck. If your puck integrity is degrading, your flow rate is out of control, and/or channels are forming you can start to reduce flow and allow those problems to be corrected. Channeling is our primary enemy in espresso. All shots channel, and we need to do what we can to reduce the severity and frequency of this phenomenon. 
 ## Picking suitable profiles
 One of the hardest things about making high and even extractions with an adjustable profiler is getting the coffee wetted relatively evenly. The pre-infusion type you pick has a large impact on how extreme the gradient between the top and bottom of the puck is. I'm an advocate for rapid preinfusion schemas; they get the coffee wet from top to bottom quickly and allow the user to move on to the next phase with no ill effects. Because there is a relatively large gradient of wetness in the puck using very slow preinfusion profiles, I tend to avoid recommending this method.
 
