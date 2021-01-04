@@ -41,7 +41,7 @@ These will all do a great job and compete above their weight-class in terms of g
 **Pros:**  quiet, reliable, switchable from brew to espresso  
 **Cons:** no timer, eureka adjustment is hard to switch from espresso to brew, if bought from EspressoCoffeeShop outside Europe this is a grey market unit and may have warranty challenges.
 
-#### 1zpresso JX Pro $300 direct from 1zpresso
+#### 1zpresso JX Pro $159 direct from 1zpresso
 - 48mm Conical burr
 - Manual
 - Near zero retention
