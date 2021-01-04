@@ -6,7 +6,7 @@ For a quick video guide, see:
 
 #### General rules:
 - Coffee can be safely stored in the freezer either in the original bag with valve taped over (ensure it’s a waterproof bag), freezer ziplock bags (double bagged for extra safety), mason jars, centrifuge tubes (for single dosing), or the gold standard - vacuum sealed packs. 
-- Avoid re-freezing the coffee if it has already be thawed once
+- Avoid re-freezing the coffee if it has already been thawed once
 - Freeze in 1-2week portions to maximise freshness 
 - Freeze when beans have sufficiently degassed and are ready to be brewed, as freezing also essentially halts degassing 
 
