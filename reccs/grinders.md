@@ -26,7 +26,7 @@ It won’t be easy or pretty, but you can make it work while you either shop for
 Encores (and the Virtuoso) do not come calibrated to grind fine enough for espresso from the factory, so you can calibrate the grinder to grind finer. 
 Once you do that, if you find yourself in between two steps, you can grind until the machine is clogged, and then you can reduce the dose by 0.5g steps until the shot
 flows. It’s not ideal, but it’s doable.
-https://youtu.be/tvPmA2laBzM
+(https://youtu.be/tvPmA2laBzM "Encore/Virtuoso Espresso Calibration Video")
 
 ## Recommended First Time Espresso Grinders
 These will all do a great job and compete above their weight-class in terms of grind quality.
