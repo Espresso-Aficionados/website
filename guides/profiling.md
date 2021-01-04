@@ -5,7 +5,7 @@ Every machine you have ever used has a profile of some sort. The least flexible 
 
 This section is here because it is important to understand that ANY system can be modified based on the below principles to produce excellent coffee. Some may be too instable or expensive to modify, but many machines have been modified in a simple manner to adjust preinfusion, max pressure, or other parameters.
 ## Adjustable Profiles
-There are now a number of machines and mods that allow a ton of control for the end user. These adjustable profilers have one primary benefit worth considering; they decouple the relationship between grind size and flow rate to a certain degree.
+There are now a number of machines and mods that allow a ton of control for the end user. These adjustable profilers have one primary benefit worth considering; they decouple the relationship between grind size and flow rate to a certain degree. This allows us to make espresso beverages with really finely or coarsely ground coffees. The effective result is that we can boost extraction, clarity, or strength along with some other taste parameters.
 ### Flow Control
 ### Pressure Control
 ### Computer Control
@@ -38,7 +38,7 @@ Simply put, I recommend 4 base profiles that are fairly adaptable. They're liste
       This profile is useful up to 1:3, but expect extremely high flavor intensity relative to the ratio.
 3. Allonge
     
-    A simple profile; grind a little coarser than normal and set debit to 4.5ml/s. Let it rip to a 1:4-1:5 ratio. Best for really light coffees, especially those that don't seem to be cooperating with the blooming version of this shot. This does extract a bit lower.
+    A simple profile; grind a little coarser than normal and set debit to 4.5ml/s. Let it rip to a 1:4-1:5 ratio. Best for really light coffees, especially those that don't seem to be cooperating with the blooming version of this shot. This does extract a bit lower but is a great clarity profile.
     
     There's a modified version of this shot referred to as a turbo lever in the decent community. It can be pulled short (1:2 or so) as well. Set debit as high as possible and cut back as your gauge reads 6bar. You can also set an adjustable pump bypass or OPV to 6bar and just leave your paddle in place. Let it rip to your desired ratio, maintaining pressure as best you can.
 4. Modified Dipper
