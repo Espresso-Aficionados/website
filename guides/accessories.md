@@ -41,7 +41,7 @@ Homebrew mineral mix
         * Third wave water
         * There are some bottled water that can be used without needing to add buffer minerals back in: https://home.lamarzoccousa.com/water-for-home-espresso/
 * E-61 Specific:
-    * Molekote 111
+    * Molykote 111
         * Used to lubricate the camshaft after a cafiza backflush
     * Big adjustable wrenches
         * Group head maintenance 
