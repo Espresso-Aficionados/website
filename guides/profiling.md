@@ -1,6 +1,11 @@
 # What is Profiling?
+The ordinary definition of profiling in espresso seems to be: 'Adjusting the flow, pressure, or temperature in a shot to manipulate the extraction and produce a different result.' There are a number of different ways to accomplish this depending on available equipment.
 ## Fixed Profiles
+Every machine you have ever used has a profile of some sort. The least flexible profiles are those that are controlled by a pump and push out a fixed rate of water with no overpressure valve. We go through various changes to the system to get more complex pump machines that do a slightly better job, but the focus of this section is on adjustable profiling systems.
+
+This section is here because it is important to understand that ANY system can be modified based on the below principles to produce excellent coffee. Some may be too instable or expensive to modify, but many machines have been modified in a simple manner to adjust preinfusion, max pressure, or other parameters.
 ## Adjustable Profiles
+There are now a number of machines and mods that allow a ton of control for the end user. These adjustable profilers have one primary benefit worth considering; they decouple the relationship between grind size and flow rate to a certain degree.
 ### Flow Control
 ### Pressure Control
 ### Computer Control
