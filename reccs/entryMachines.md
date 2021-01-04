@@ -16,7 +16,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 
 > Note from Pham: Within this list, I personally prefer searching for the Rancilio Silvia and Gaggia Classic used, as they are extremely common and essentially haven’t changed for 20 years. A new GCP and Silvia will depreciate just like a car bought off the lot, so buying used means buying a functionally identical machine at the depreciated price. The GCP can be found for as low as $100-$150 depending on locale. The Silvia has a wider range; sub $400 for a working machine is a great deal.
 
-### **Gaggia Classic (~$449)**
+### **Gaggia Classic (~[$449](https://www.gaggia.com/manual-machines/new-classic/))**
 #### Pros:
 - Large modding community
 - Can add flow control with a dimmer
@@ -30,7 +30,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 - If buying used you need to check what year it was made: the european 2015-2018 models are to be avoided
 - Depreacates in price immediately
 
-### **Rancillo Silvia (~$750)**
+### **Rancillo Silvia (~[$750](https://www.ranciliogroup.com/rancilio/silvia/silvia/))**
 #### Pros:
 - Large community
 - Been around a long time, common to find
@@ -38,14 +38,14 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 - Doesn’t come with a PID
 - Depreacates in price immediately
 
-### **Lelit Anna** ($499[No PID] - $629 [With PID])
+### **Lelit Anna** ([$499[No PID]](https://espresso.lelit.com/product/1) - [$629[With PID]](https://espresso.lelit.com/product/33))
 #### Pros:
 - Larger boiler compared to the GCP, creating better temperature stability during a shot
 #### Cons:
 - 57mm portafilter
 - Difficulty in finding accessories
 
-### **Lelit Glenda** ($799) 
+### **Lelit Glenda** ([$799](https://espresso.lelit.com/product/8)) 
 #### Pros:
 - Comes with a PID installed
 - 58mm version of the Anna
@@ -58,7 +58,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 
 Breville machines come packed with features out of the box at a range of prices. No modding is required, but as always there are small improvements that can be made with minimal to moderate effort.
 
-### **Breville Bambino** ($300)
+### **Breville Bambino** ([$300](https://www.breville.com/us/en/products/espresso/bes450.html))
 #### Pros:
 - Very affordable; lowest cost for a new machine to produce great espresso
 - PID Controlled temp (single setting, 200F)
@@ -66,13 +66,13 @@ Breville machines come packed with features out of the box at a range of prices.
 - Single wall basket not included
 - High pressure shots out of the box with single wall baskets (~15 bar)
 
-### **Breville Bambino Plus** ($500)
+### **Breville Bambino Plus** ([$500](https://www.breville.com/us/en/products/espresso/bes500.html))
 #### Pros:
 - Has a robust automatic steaming wand, making steaming a foolproof process.
 #### Cons:
 - Higher cost than the regular bambino.
 
-### **Breville Infuser** ($579.95)
+### **Breville Infuser** ([$579.95](https://www.breville.com/us/en/products/espresso/bes840.html))
 #### Pros:
 - Comes with a grinder
 - Works decently out of the box
@@ -86,7 +86,7 @@ Breville machines come packed with features out of the box at a range of prices.
 
 > Note from Pham: for the manual levers that don’t include a milk steamer, you can froth milk by heating it up in a french press, using a spinny-thingy, or buying the Bellemain stovetop milk steamer. Whether that’s worth the price and effort for your workflow is up to you.
 
-### **Flair** (Neo, Classic, Pro 2) $160 - $319
+### **Flair** (Neo, Classic, Pro 2) ([$160 - $319](https://flairespresso.com/products/espresso-makers/))
 Most affordable entry point to unpressurized espresso
 #### Pros:
 - Highest espresso quality at its price range due to profiling ability
@@ -100,7 +100,7 @@ Most affordable entry point to unpressurized espresso
 - Maximum temperature reaches ~200F and tapers from there, limiting shot time and the ability to pull light roasts
 - Lack of non-proprietary accessories due to portafilter size
 
-### **Cafelat Robot** ($310 - $449)
+### **Cafelat Robot** ([$310 - $449](https://www.cafelatstore.com/products/robotpowdercoating))
 Similar to the Flair but with higher build quality and an easier workflow
 #### Pros:
 - Preheating somewhat optional with medium-dark roasts due to low thermal mass
@@ -131,7 +131,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 
 These machines are similar to the Single Boiler/Dual Use machines listed above but have a grinder built in. They are great for space saving but it is not uncommon to outgrow the grinder quickly. The grinders included with them are good for starting but you will have best results with these with Medium to Dark roasts. 
 
-### **Breville Barista Express** ($699 [Commonly on sale for $599])
+### **Breville Barista Express** ([$699 [Commonly on sale for $599]](https://www.breville.com/us/en/products/espresso/bes870.html))
 Breville infuser, but with a grinder
 #### Pros:
 - Comes with a grinder
