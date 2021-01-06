@@ -1,7 +1,7 @@
 ## Welcome
 This is a collection of information from the Espresso Aficionados discord server!
 
-Please come join the server if you have any questions! [Espresso Aficionados Discord](https://discord.gg/FckG4CBKQt)
+Please come join the server if you have any questions! [Espresso Aficionados Discord](https://discord.gg/gdNdA9xXyS)
 
 
 ### Recommendations
