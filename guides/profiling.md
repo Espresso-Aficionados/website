@@ -88,6 +88,14 @@ Simply put, I recommend 4 base profiles that are fairly adaptable. They're liste
 4. Modified Dipper
     
     We’re going to quickly add water at the same rate we did with the bloom and manipulate the paddle to keep around 2-3 bar of pressure reading on the gauge. Hold here until first drips and then ramp to 7-8 bar. Puck erosion or paddle manipulation can be used for tapering if channels tend to form, but I hold the pressure up if the specific bean isn’t prone to channeling. Use ratio to dial extraction and strength, keeping in mind that you can always add water if your shot is too strong. Darker roasts can be overdosed relative to the basket if you’re a texture lover, but I don’t suggest you do this for mediums.
+## The Slayer Profile
+I used this for a long time and include it here because you have likely heard about it, associate slayer with high quality espresso, and will try it anyway. I don't recommend this recipe because it is not as efficient at soaking the puck evenly, but I do like it for ease of use. Expect a slightly less even tasting extraction that is still reasonably high.
+
+The slayer profile is defined by three flow points; off, pre, and infusion. Off is 0ml/s, pre is traditonally 1-2ml/s, and infusion is the full flow of the pump. For practical purposes, I suggest finding a 1.5ml/s point of reference on your controller and working from there.
+
+Use the slayer profile by setting the flow controller to the preinfusion setpoint and waiting for the gauge to ramp to full pressure. At this point, you can fully open the flow valve to 7+ml/s or set it to any other flow point. I generally put mine a bit lower to let pressure naturally taper so I can prevent some channeling late in the shot. Allow the shot to finish as it will.
+
+The alternative slayer profile is preinfusion, infusion, preinfusion. Basically you would run the machine at the preinfusion mark until brew pressure is reached, open to infusion flow, and then close the needle back to preinfusion flow to taper off and finish. Why you would ever do this with an on the fly flow controller is beyond me, but feel free to try.
 
 ## 	Dialing blooming profiles
 This sounds super tricky, but for the most part you’re going to set a ‘reasonable finest grind’ that is quite small and dial coffees by the amount of water you add before the fill stage ends. For me, grind size is more or less as fine as I can grind but this won't be the case for all grinders. For example, a natural Ethiopian heirloom might need a high pressure fill prior to the bloom(fill for 6 seconds at 7ml/s peaking at 9 bar) and a washed Panamanian Gesha may not be able to handle that. I might try 4-5 seconds at the same fill rate, peaking around 3-4 bar to see what it will resist for the first shot, then dial my fill volume/pressure from there. Adjusting the grinder can be done for either of these profiles, but you're probably not going to be making big adjustments. 
