@@ -81,7 +81,7 @@ this is as good as it gets before you spend on a titan.
 
 ### 64mm Commercials 
 
-#### Mazzer Super Jolly: anything >$350 is a decent used price
+#### Mazzer Super Jolly: anything <$350 is a decent used price
 - *Everywhere*  
 - Old-fashioned  
 - Proven reliability
