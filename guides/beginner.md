@@ -1,5 +1,6 @@
 ## How to Dial In Espresso: The Basics 
-------------------------
+--------------
+
 When dialling in an espresso shot, there are three main variables that you can adjust to affect the taste of your espresso.
 - Dose a.k.a. grams of coffee in
 - Brew ratio a.k.a dose in:espresso out. For example, 40g of espresso extracted from 20g of dry grounds is often expressed as a brew ratio of 1:2
