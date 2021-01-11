@@ -11,6 +11,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Midrange Grinders](reccs/Midrange_grinders.md)
 
 ### Guides
+- [How to Dial In Espresso: Basic](guides/beginner.md)
 - [Espresso Profiling](guides/profiling.md)
 - [Water](guides/water.md)
 - [New Machine Accessory Checklist](guides/accessories.md)
