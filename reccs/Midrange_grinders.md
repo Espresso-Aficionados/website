@@ -124,10 +124,4 @@ Yup, you can get a $1000 hand-grinder. For all the ~~masochists~~ tactilitarians
 
 **Pros:** Tactility, cheapest way to get the Mazzer Robur Burr, looks *awesome*  
 **Cons:** Hand-grinding, potential complains on alignment on the older models, may not fit into everyones workflow  
-**Other Handgrinders:** Kinu m68, Malwani Livi, Orphan Espresso Pharos 1.1 or 2.0 (*Please don't do this to yourself*)
-
-
-
-
-
-
+**Other Handgrinders:** Kinu m68, Malwani Livi, Orphan Espresso Pharos 1.1 or 2.0 (*Please don't do this to yourself*
