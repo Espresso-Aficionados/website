@@ -1,4 +1,4 @@
-### Basic dialling in guide 
+## Basic dialling in guide 
 ------------------------
 When dialling in an espresso shot, there are three main variables that you can adjust to affect the taste of your espresso.
 - Dose a.k.a. grams of coffee in
