@@ -1,7 +1,8 @@
 ### 15bar pump ruining your shots? Pull shots in pre-infusion mode only
 
-This guide is mostly useful for Breville Infuser and Barista Express users as these machines have an in-built gauge. 
-It may be possible to use this technique on the Bambino and Breville Pro machines, however the lack of gauge may be an issue;
+This guide is mostly useful for **Breville Infuser** and **Barista Express** users as these machines have an in-built gauge. 
+It may be possible to use this technique on the **Bambino Plus** and **Breville Pro machines**, however the lack of pressure gauge may be an issue. 
+For base model **Bambinos**, users report that it is not possible to hold a shot in pre-infusion for more than 10 seconds, therefore this technique may not work.
 
 If you are unable to adjust your OPV to <15bar, or do not want to open up your machine, this *pre-infusion mode only* technique can be used as an alternative when having issues maintaining puck integrity throughout the duration of the shot i.e. due to poor grind quality or when pulling light roasts.
 
