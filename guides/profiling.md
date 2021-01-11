@@ -7,7 +7,7 @@ The ordinary definition of profiling in espresso seems to be: 'Adjusting the flo
 
 * Channeling
 
-When water flows through coffee it tries to find the path of least resistance. Channeling is a phenomenon that occurs when the path of least resistance allows the water to form a hole in the puck. This allows the water to flow primarily through one spot, reducing overall extraction and simultaneously contributing negative overextraction flavors to the final beverage. Bitternss, astringency, and sourness all together indicate severe channeling. Unavoidable entirely, but this can be reduced to the minimum without a ton of effort.
+   When water flows through coffee it tries to find the path of least resistance. Channeling is a phenomenon that occurs when the path of least resistance allows the water to form a hole in the puck. This allows the water to flow primarily through one spot, reducing overall extraction and simultaneously contributing negative overextraction flavors to the final beverage. Bitterness, astringency, and sourness all together indicate severe channeling. Unavoidable entirely, but this can be reduced to the minimum without a ton of effort.
 ## Fixed Profiles
 Every machine you have ever used has a profile of some sort. The least flexible profiles are those that are controlled by a pump and push out a fixed rate of water with no overpressure valve. We go through various changes to the system to get more complex pump machines that do a slightly better job, but the focus of this section is on adjustable profiling systems.
 
@@ -55,8 +55,10 @@ The infusion phase is where the magic happens. Water is flowing through the coff
 * Allongé (1:3.5 and up)
 
    \>2ml/s in the cup
+
 ### Taper
 Towards the end of many shots, you've lost 20% or more of the original mass of the coffee puck. If your puck integrity is degrading, your flow rate is out of control, and/or channels are forming you can start to reduce flow and allow those problems to be corrected. Channeling is our primary enemy in espresso. All shots channel, and we need to do what we can to reduce the severity and frequency of this phenomenon. 
+
 ## Picking suitable profiles
 One of the hardest things about making high and even extractions with an adjustable profiler is getting the coffee wetted relatively evenly. The pre-infusion type you pick has a large impact on how extreme the gradient between the top and bottom of the puck is. I'm an advocate for rapid preinfusion schemas; they get the coffee wet from top to bottom quickly and allow the user to move on to the next phase with no ill effects. Because there is a relatively large gradient of wetness in the puck using very slow preinfusion profiles, I tend to avoid recommending this method.
 
@@ -88,6 +90,7 @@ Simply put, I recommend 4 base profiles that are fairly adaptable. They're liste
 4. Modified Dipper
     
     We’re going to quickly add water at the same rate we did with the bloom and manipulate the paddle to keep around 2-3 bar of pressure reading on the gauge. Hold here until first drips and then ramp to 7-8 bar. Puck erosion or paddle manipulation can be used for tapering if channels tend to form, but I hold the pressure up if the specific bean isn’t prone to channeling. Use ratio to dial extraction and strength, keeping in mind that you can always add water if your shot is too strong. Darker roasts can be overdosed relative to the basket if you’re a texture lover, but I don’t suggest you do this for mediums.
+
 ## The Slayer Profile
 I used this for a long time and include it here because you have likely heard about it, associate slayer with high quality espresso, and will try it anyway. I don't recommend this recipe because it is not as efficient at soaking the puck evenly, but I do like it for ease of use. Expect a slightly less even tasting extraction that is still reasonably high.
 
