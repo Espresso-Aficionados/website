@@ -8,6 +8,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Coffee](reccs/coffee.md)
 - [Entry Level Espresso Machines](reccs/entryMachines.md)
 - [Espresso Grinders](reccs/grinders.md)
+- [Midrange Grinders](reccs/Midrange_grinders.md)
 
 ### Guides
 - [Espresso Profiling](guides/profiling.md)
