@@ -73,21 +73,23 @@ Breville machines come packed with features out of the box at a range of prices.
 
 ### **Breville Bambino Plus** ([$500](https://www.breville.com/us/en/products/espresso/bes500.html))
 #### Pros:
-- Has a robust automatic steaming wand, making steaming a foolproof process.
+- PID Controlled temp (single setting, 200F)
+- Has a robust automatic steaming wand, making steaming a foolproof process
+- Manual pre-infusion possible, unlike the basic Bambino
 
 #### Cons:
 - Higher cost than the regular bambino.
 
 ### **Breville Infuser** ([$579.95](https://www.breville.com/us/en/products/espresso/bes840.html))
 #### Pros:
-- Comes with a grinder
 - Works decently out of the box
+- PID Controlled temp (5 settings at 2F increments, 196-204F)
 - Widely available, new or used
 - Huge community of users
 - Manual preinfusion
 
 #### Cons:
-- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort)
+- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort, or using the [Pre-Infusion Mode only](https://espressoaf.com/breville/preinfusion.html) trick)
 
 ## Manual Levers:
 
@@ -151,6 +153,6 @@ Breville infuser, but with a grinder
 - Manual preinfusion
 
 #### Cons:
-- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort)
+- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort, or using the [Pre-Infusion Mode only](https://espressoaf.com/breville/preinfusion.html) trick)
 - Grinder is unreliable and not that great
 - Becomes a bit wasteful if the grinder is upgraded and not being used
