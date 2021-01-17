@@ -12,6 +12,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 ### Guides
 - [How to Dial In Espresso: The Basics](guides/beginner.md)
+- [What is Puck Prep?](guides/puckprep.md)
 - [Espresso Profiling](guides/profiling.md)
 - [Water](guides/water.md)
 - [New Machine Accessory Checklist](guides/accessories.md)
