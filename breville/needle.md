@@ -10,7 +10,7 @@ And 4mm M5 push fit connectors:
 
 [https://www.amazon.com/gp/product/B01N6JF205?psc=1](https://www.amazon.com/gp/product/B01N6JF205?psc=1)
 
-[https://www.amazon.com/gp/product/B0755KMCWJ?psc=1](https://www.amazon.com/gp/product/B0755KMCWJ?psc=1)
+[https://www.amazon.com/gp/product/B07MR1JT34?psc=1](https://www.amazon.com/gp/product/B07MR1JT34?psc=1)
 
 Make sure to wrap the threads with Teflon tape. As long as these have right connector sizes they should work so look around for the best prices. 
 
