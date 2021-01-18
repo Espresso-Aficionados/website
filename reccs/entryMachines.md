@@ -70,6 +70,7 @@ Breville machines come packed with features out of the box at a range of prices.
 #### Cons:
 - Single wall basket not included
 - High pressure shots out of the box with single wall baskets (~15 bar)
+- Pre-infusion is not as flexible as the other Breville machines listed.
 
 ### **Breville Bambino Plus** ([$500](https://www.breville.com/us/en/products/espresso/bes500.html))
 #### Pros:
