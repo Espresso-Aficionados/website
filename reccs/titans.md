@@ -13,11 +13,11 @@ I won't list any of the commercial hopper based grinders that might traditionall
 Most users that step up to a Titan want to single dose for a few reasons. I'll cover briefly here to help you know whether you should look at a slide hopper, a step down, or a true single doser.
 
 * Retention and exchange
-These are generally not worth paying extra for, since a grinder that has even a couple grams of retention and costs less can just be sorted by purging. Saving a thousand dollars makes room for a lot of purging.
+   These are generally not worth paying extra for, since a grinder that has even a couple grams of retention and costs less can just be sorted by purging. Saving a thousand dollars makes room for a lot of purging.
 * Small footprint
-Most single dosers are a little on the compact size, which is nice if you're short on space.
+   Most single dosers are a little on the compact size, which is nice if you're short on space.
 * Ease of swapping
-I change beans multiple times every day. I sometimes make large changes in grind size and want to be able to return repatably to my original size. Few grinders do this well, and I think it is worth paying for if you're not willing to have multiple grinders.
+   I change beans multiple times every day. I sometimes make large changes in grind size and want to be able to return repatably to my original size. Few grinders do this well, and I think it is worth paying for if you're not willing to have multiple grinders.
 
 ## Burr Type
 ### Conical Burrs
