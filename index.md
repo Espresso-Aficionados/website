@@ -9,6 +9,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Entry Level Espresso Machines](reccs/entryMachines.md)
 - [Espresso Grinders](reccs/grinders.md)
 - [Midrange Grinders](reccs/Midrange_grinders.md)
+- [Home Titan Grinders](reccs/titans.md)
 
 ### Guides
 - [How to Dial In Espresso: The Basics](guides/beginner.md)
