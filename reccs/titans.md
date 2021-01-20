@@ -33,10 +33,10 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
    * Now offered by two companies, Weber Workshops and Craig Lyn. Used to be Lyn Weber. Well sorted examples are great, the value is good, and this can be upgraded to motor drive with a WUG2 kit. Runs the big 3 phase robur burr.
 * Kafatek Monolith Conical
    * An excellent value pick for this list. Conical burrs, not the most available. Single phase Mazzer Robur burr. MC4 version has a prebreaking burr for better grind quality. RDT and WDT required, but static reduces after break in. A puffer is a must.
-* Kafatek Monolith Flat 
-   * Also an excellent value. Burr options vary and can't be covered exhaustively here. 74mm Mythos sized burr and has been delivered in OEM Mythos, SSP HU, Kafatek Shuriken MD (medium/dark), LM (light/medium), and SW (sweet, for lights). RDT and WDT absolutely required and a puffer is needed to clear the chamber.
 * Levercraft Ultra
-   * Probably the end of the value class. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. EK43 sized burr and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway.
+   * Another excellent value grinder. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. EK43 sized burr and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway.
+* Kafatek Monolith Flat 
+   * Probably the end of the value class. Burr options vary and can't be covered exhaustively here. 74mm Mythos sized burr and has been delivered in OEM Mythos, SSP HU, Kafatek Shuriken MD (medium/dark), LM (light/medium), and SW (sweet, for lights). RDT and WDT absolutely required and a puffer is needed to clear the chamber.
 * Kafatek Monolith Flat Max
    * The big version of the flat. Integrated motor controller and an EK43 sized burr. Older version came in SSP LU with new grinders shipping with Shuriken MD, LM, or SW. Same regular flat burr annoyance.
 * Titus Nautilus
