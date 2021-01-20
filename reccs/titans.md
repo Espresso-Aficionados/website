@@ -42,7 +42,7 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
 * Kafatek Monolith Flat Max
    * The big version of the flat. Integrated motor controller and an EK43 sized burr. Older version came in SSP LU with new grinders shipping with Shuriken MD, LM, or SW. Same regular flat burr annoyance.
 * Titus Nautilus
-   * A better EK43 redesign with an external motor, clever burr and carrier mounts, no augur, and excellent alignment. Probably the best choice for euros given import costs. Available with any SSP burr in ek43 size. HU, LU, Ultra Low, and Cast. Likely available with a dosing hopper, but you'd have to ask Frank.
+   * A better EK43 redesign with an external motor, clever burr and carrier mounts, no augur, and excellent alignment. Probably the best choice for euros given import costs. Available with any SSP burr in ek43 size. HU, LU, Ultra Low, and Cast. Likely available with a dosing hopper, but you'd have to ask Frank. The power box is also a questionable design choice.
 * EG-1
    * Well designed adjustment mechanism and readily available. One of the only home titans you can buy right now without a major delay. It's a high quality unit but occasional reports of difficult customer service and annoying workflow persist. Not really designed to add a puffer, and has 80mm burrs. The CORE burr is an SSP traditional espresso burr to my eye and the ULTRA appears to be very similar in style to an EK43 size HU burr. I consider this a bit overpriced but appreciate the availability.
    ### DRM Burrs (effectively Bimodal)
