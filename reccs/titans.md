@@ -35,7 +35,7 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
    * An excellent value pick for this list. Conical burrs, not the most available. Single phase Mazzer Robur burr. MC4 version has a prebreaking burr for better grind quality. RDT and WDT required, but static reduces after break in. A puffer is a must.
 
 ### Flat Burrs
- These grinders are available with a wide variety of burrs for espresso and filters.
+ These grinders are available with a wide variety of burrs for espresso and filter.
 * Levercraft Ultra
     * Another excellent value grinder. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. EK43 sized burr and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway.
 * Kafatek Monolith Flat 
