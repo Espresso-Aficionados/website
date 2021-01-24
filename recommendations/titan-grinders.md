@@ -1,15 +1,22 @@
+---
+layout: default
+title: Titan Grinders
+parent: Recommendations
+nav_order: 7
+---
+
 # Titan Grinders
-If you're ready to buy a grinder with a design goal that is simply, 'it grinds things really freaking well' you're reading the right list. I won't call these designs no comprimise since workflow, cost, and size can all be issues. 
+If you're ready to buy a grinder with a design goal that is simply, 'it grinds things really freaking well' you're reading the right list. I won't call these designs 'no compromise' since workflow, cost, and size can all be issues.
 
-This guide is non-exhaustive and isn't designed to make a specific recommendation. It's a simple list of pros and cons that you can use to make a semi informed decision. 
+This guide is non-exhaustive and isn't designed to make a specific recommendation. It's a simple list of pros and cons that you can use to make a semi informed decision.
 
-Because this list is intended to be used as a resource for home users I haven't listed full commercial machines here. A large flat like an ek43 or massive conical like a Robur would perform well but the comprimise is pretty extreme. There are other units around but I haven't spoken to users I trust or I consider the value very poor.
+Because this list is intended to be used as a resource for home users I haven't listed full commercial machines here. A large flat like an ek43 or massive conical like a Robur would perform well but the compromise is pretty extreme. There are other units around but I haven't spoken to users I trust or I consider the value very poor.
 
 ## Dosing
 ### Hopper Grinders
-I won't list any of the commercial hopper based grinders that might traditionally think of as an espresso grinder; I can't think of one that makes sense for the home and is a modern titan. Instead, I'll point out that the Versalab M4, Titus Titus, and a Titus mod to the EK43 can all be outfitted with a volume based single dosing slide hopper. Basically a hopper slides over the opening to the throat, drops a load of beans in, and slides back into the storage position. These are reasonable accuracte and keep partially ground doses from chilling in the burrs.
+I won't list any of the commercial hopper based grinders that might traditionally think of as an espresso grinder; I can't think of one that makes sense for the home and is a modern titan. Instead, I'll point out that the Versalab M4, Titus Titus, and a Titus mod to the EK43 can all be outfitted with a volume based single dosing slide hopper. Basically a hopper slides over the opening to the throat, drops a load of beans in, and slides back into the storage position. These are reasonably accurate and keep partially ground doses from chilling in the burrs.
 
-### Single Dosing 
+### Single Dosing
 Most users that step up to a Titan want to single dose for a few reasons. I'll cover briefly here to help you know whether you should look at a slide hopper, a step down, or a true single doser.
 
 * Retention and exchange
@@ -17,7 +24,7 @@ Most users that step up to a Titan want to single dose for a few reasons. I'll c
 * Small footprint
    * Most single dosers are a little on the compact size, which is nice if you're short on space.
 * Ease of swapping
-   * I change beans multiple times every day. I sometimes make large changes in grind size and want to be able to return repatably to my original size. Few grinders do this well, and I think it is worth paying for if you're not willing to have multiple grinders.
+   * I change beans multiple times every day. I sometimes make large changes in grind size and want to be able to return repeatably to my original size. Few grinders do this well, and I think it is worth paying for if you're not willing to have multiple grinders.
 
 ## Burr Type
 ### Conical Burrs
@@ -38,7 +45,7 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
  These grinders are available with a wide variety of burrs for espresso and filter.
 * Levercraft Ultra
     * Another excellent value grinder. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. EK43 sized burr and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway.
-* Kafatek Monolith Flat 
+* Kafatek Monolith Flat
    * Probably the end of the value class. Burr options vary and can't be covered exhaustively here. 74mm Mythos sized burr and has been delivered in OEM Mythos, SSP HU, Kafatek Shuriken MD (medium/dark), LM (light/medium), and SW (sweet, for lights). RDT and WDT absolutely required and a puffer is needed to clear the chamber.
 * Kafatek Monolith Flat Max
    * The big version of the flat. Integrated motor controller and an EK43 sized burr. Older version came in SSP LU with new grinders shipping with Shuriken MD, LM, or SW. Same regular flat burr annoyance.

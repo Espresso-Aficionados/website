@@ -1,5 +1,13 @@
+---
+layout: default
+title: Recommended Accessories
+parent: Guides
+nav_order: 5
+---
+
 # Recommended Accessories
-The following is a list of things that are either required or good to have as you plan for your first espresso machine purchase. 
+
+The following is a list of things that are either required or good to have as you plan for your first espresso machine purchase.
 
 ## Cleaning:
 * Microfiber towels
@@ -49,32 +57,32 @@ The following is a list of things that are either required or good to have as yo
 * Molykote 111
     * Used to lubricate the camshaft after a cafiza backflush
 * Big adjustable wrenches
-    * Group head maintenance 
+    * Group head maintenance
     * Consider rubber coated wrenches to avoid scratching things
-* Group Head thermometer 
+* Group Head thermometer
     * Reads the temperature of the water about 1.25" above the puck.
-    * Very useful with a Heat Exchanger style machine unless the machine has a PID that is reading the group head temp instead of the boiler temp with its PID. 
+    * Very useful with a Heat Exchanger style machine unless the machine has a PID that is reading the group head temp instead of the boiler temp with its PID.
     * This is a mutually exclusive upgrade with the Flow Control Device
 * Smart Plug/Timer
-    * E61 machines can be safely put on a smartplug/timer since they have an auto fill sensor for the boiler. 
+    * E61 machines can be safely put on a smartplug/timer since they have an auto fill sensor for the boiler.
     * Make sure you buy one that is rated for 15A.
     * Please do research about your machine and safety of doing this. The machine needs to have an auto fill circuit for the boiler.
 * Flow Control Device:
-    * Gain better control over your shots with flow profiling. 
-    * This is a mutually exclusive upgrade that competes with the Group Head thermometer. 
+    * Gain better control over your shots with flow profiling.
+    * This is a mutually exclusive upgrade that competes with the Group Head thermometer.
 
 ## Milk Drinks
 * Thermometer with clip to attach to pitcher
     * Measure milk temp as steaming
 * Steaming Pitcher
     * Pitcher will hold about half the milk as the volume of the pitcher to account for space for vortex + expansion
-    * Multiple sizes can be useful if you do various sizes of drinks. While you can steam smaller quantities of milk in a larger pitcher, it is often more dificult to do so. 
-    * Sizes start at 150ml (great for cortado/flat white) and get larger from there. 
-        * Some machines may have a hard time with larger quantites of milk. 
+    * Multiple sizes can be useful if you do various sizes of drinks. While you can steam smaller quantities of milk in a larger pitcher, it is often more dificult to do so.
+    * Sizes start at 150ml (great for cortado/flat white) and get larger from there.
+        * Some machines may have a hard time with larger quantites of milk.
 * Steam Wand Tips
     * Some steam wands will have replaceable tips to adjust flow rates of steam.
 
-## Nice to haves:	
+## Nice to haves:
 * Knockbox
     * Easy place for grounds disposal if you are not near a trash can.
     * Don’t run coffee grounds down your sink/garbage disposal
@@ -84,12 +92,12 @@ The following is a list of things that are either required or good to have as yo
     * Normcore
         * Least Expensive
         * Most options on sizes
-    * Decent 
+    * Decent
     * Kafatek LevTamp
         * Not often in stock. Will sell out within a few minutes of going on sale
 * Brix Refractometer
     * For Science!
-    * 20% brix refractometer is good for calculating your extraction yield if you really want to fall down the rabbit hole. 
+    * 20% brix refractometer is good for calculating your extraction yield if you really want to fall down the rabbit hole.
 * Bottomless portafilter
     * Helps diagnose problems with puck prep
 * Shot mirror
@@ -99,7 +107,7 @@ The following is a list of things that are either required or good to have as yo
     * Various sizes of cups are nice to have
         * Cortado
         * Demitasse
-        * Cappuccino 
+        * Cappuccino
         * Latte
     * Brands:
         * Higher End (Average price $15/cup)

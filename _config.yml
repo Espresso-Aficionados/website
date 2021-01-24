@@ -1,3 +1,11 @@
-remote_theme: Espresso-Aficionados/slate
+remote_theme: pmarsceill/just-the-docs
 title: Espresso Aficionados
-description: Info from the Espresso Aficionados discord server
+description: Info from the Espresso Aficionados Discord server
+color_scheme: "light"
+aux_links:
+  "r/espresso on Reddit":
+    "//www.reddit.com/r/espresso/"
+  "Espresso Aficionados Discord":
+    "//discord.gg/espresso"
+aux_links_new_tab: true
+footer_content: "Copyright &copy; 2021 Espresso Aficionados"
