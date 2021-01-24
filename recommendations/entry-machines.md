@@ -1,4 +1,11 @@
-# Recommended Entry Level Machines List
+---
+layout: default
+title: Entry Level Espresso Machines
+parent: Recommendations
+nav_order: 2
+---
+
+# Entry Level Machines
 
 We look at entry level machines in 3 categories: manual levers, single boilers, and Brevilles. While it is more complicated down in the details, the easiest way to approach this with no background knowledge is to answer one question: are you okay with modding the machine to bring it up to a high level of performance, or do you want a system packed with features out of the box with potentially lower max capability?
 
@@ -12,7 +19,7 @@ Breville can often be purchased new at Bed Bath and Beyond in the US with a 20% 
 
 Single boilers are a category of espresso machines which use their boiler to maintain water for brewing espresso as well as making steam. Generally cheaper than dual boilers or heat exchangers, they offer a lower price point to enter the world of espresso while still being able to make true espresso. At these price points, SBDU’s often need modding out of the box or complicated workflows (counting time from when heating elements enabled and using the steam knob to control the element; “temp surfing”) to maintain proper temperature. Many of these units are configured poorly for high quality express, so an OPV adjustment is beneficial to avoid excessive pressures during shot pulls. Multiple shots back to back with milk steaming can be tough as the same boiler is used for both operations. The larger the boiler, the easier this process becomes.
 
-The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia Classic Pro and the Rancilio Silvia are two workhorses in this category. The Silvia has a larger boiler and more temp stability, but at a higher cost. The larger boiler of the Silvia makes for a better steaming experience due to that temp stability and power. Both do not come with granular temp control (‘PID’) out of the box. 
+The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia Classic Pro and the Rancilio Silvia are two workhorses in this category. The Silvia has a larger boiler and more temp stability, but at a higher cost. The larger boiler of the Silvia makes for a better steaming experience due to that temp stability and power. Both do not come with granular temp control (‘PID’) out of the box.
 
 > Note from Pham: Within this list, I personally prefer searching for the Rancilio Silvia and Gaggia Classic used, as they are extremely common and essentially haven’t changed for 20 years. A new GCP and Silvia will depreciate just like a car bought off the lot, so buying used means buying a functionally identical machine at the depreciated price. The GCP can be found for as low as $100-$150 depending on locale. The Silvia has a wider range; sub $400 for a working machine is a great deal.
 
@@ -48,7 +55,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 - 57mm portafilter
 - Difficulty in finding accessories
 
-### **Lelit Glenda** ([$799](https://espresso.lelit.com/product/8)) 
+### **Lelit Glenda** ([$799](https://espresso.lelit.com/product/8))
 #### Pros:
 - Comes with a PID installed
 - 58mm version of the Anna
@@ -58,7 +65,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 #### Cons:
 - Upcharge compared to the Anna, but comparable to the Silvia with mods already added
 
-## Thermoblock/thermojet: 
+## Thermoblock/thermojet:
 
 Breville machines come packed with features out of the box at a range of prices. No modding is required, but as always there are small improvements that can be made with minimal to moderate effort.
 
@@ -142,7 +149,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 
 ## Combo Machines (Machine + Grinder All-In-One)
 
-These machines are similar to the Single Boiler/Dual Use machines listed above but have a grinder built in. They are great for space saving but it is not uncommon to outgrow the grinder quickly. The grinders included with them are good for starting but you will have best results with these with Medium to Dark roasts. 
+These machines are similar to the Single Boiler/Dual Use machines listed above but have a grinder built in. They are great for space saving but it is not uncommon to outgrow the grinder quickly. The grinders included with them are good for starting but you will have best results with these with Medium to Dark roasts.
 
 ### **Breville Barista Express** ([$699 [Commonly on sale for $599]](https://www.breville.com/us/en/products/espresso/bes870.html))
 Breville infuser, but with a grinder

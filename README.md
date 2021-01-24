@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub Pages repo for the Espresso Aficionados website
 
-You can find the the webpage [here](https://espressoaf.com).
+You can find the website [here](https://espressoaf.com).
 
-You can use the [editor on GitHub](https://github.com/Espresso-Aficionados/website/edit/main/README.md) to maintain and preview the content for this website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Espresso-Aficionados/website/edit/main/README.md) to maintain and preview the content for this website in Markdown files. Be aware that GitHub's preview isn't always accurate to the formatting used on the website, check out existing pages to see how things are done.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+This website uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme - you can view its documentation [here](https://pmarsceill.github.io/just-the-docs/).
 
 ### Markdown
 
@@ -16,6 +18,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
 
 - Bulleted
 - List
@@ -30,14 +34,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Espresso-Aficionados/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Start by talking to us over in **#resource-development** in the Discord server!
 
+You may also want to check out the GitHub Pages [documentation](https://docs.github.com/categories/github-pages-basics/).
 
 ### Just changing a bit of text here to tease Lund.
 
