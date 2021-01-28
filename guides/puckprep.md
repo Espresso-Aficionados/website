@@ -2,6 +2,10 @@
 
 Puck prepreation is everything you do to your puck after you grind it but before you tamp it. Making sure you have a effective workflow here can help make sure your espresso is evenly extracted and consistent.  
 
+## What About Grooming/Levelers?
+
+Grooming tools, also known as leveler, are tools that you place on top of your basket and rotate in order to flatten the bed of your puck. While these seem to make an even and consistent puck, they actually d not distrubution grinds. Rather, they smooth out the puck and create inconsistent compression. They do not helpremove clumps or create consistency, and have been found to decrease extration. Rather than using one of these, WDT can be used to both evenly distribute and rake the ground to provide a level tamping surface. 
+
 ## Weiss Distrubution Technique (WDT)
 
 One of the most effective techniques one can use in puck preperation is known as the Weiss Distrubtion Technique, created John Weiss on the Home Barista forums. 
