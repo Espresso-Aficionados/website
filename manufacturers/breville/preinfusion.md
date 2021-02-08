@@ -22,7 +22,7 @@ If your machine was able to build at least 9-10bars of pressure in PI mode, this
 
 These are the approximate pressures (in bar) that correspond to marks on the pressure gauge.
 
-![Breville gauge](_images/Breville gauge.jpg)
+![Breville gauge](Breville gauge.jpg)
 
 
 ### To pull a full shot in PI mode:
