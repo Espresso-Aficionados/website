@@ -23,11 +23,13 @@ If your machine was able to build at least 9-10bars of pressure in PI mode, this
 These are the approximate pressures (in bar) that correspond to marks on the pressure gauge.
 ![Breville gauge](https://user-images.githubusercontent.com/76938009/107194501-3a197780-6a44-11eb-8eee-995fde86b975.jpg)
 
+
 ### To pull a full shot in PI mode:
 Press and hold the 1-cup or 2-cup button for the duration of the shot. Do not let go of the button as this will trigger the pump to engage fully, causing puck pressures to exceed desirable levels. When you reach your desired yield, release and then immediately press the button again to stop the shot.
 
 ### Dialling in
 Dial in your shot as you normally would, grinding fine/coarse enough to achieve enough puck pressure while also maintaining adequate flow through the puck to reach your desired yield within 60secs. It is normal for pressure to build to 9-10bars at the start of the shot, then gradually fall to 6-8bars as the puck erodes throughout the shot. 
+
 Note that Breville machines (with the exception of the Breville Dual Boiler) have a 60sec shot time limit.
 
 Good luck!
