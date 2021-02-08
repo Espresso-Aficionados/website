@@ -23,8 +23,7 @@ _For the sake of this example, lets say we are locking in a dose of 18g_
 Note: While dose is a variable that can also be adjusted to affect shot time, for simplicity's sake, it is easier to lock in dose *first* and adjust shot time via changing grind size.
 
 ### 2. Quick grind size adjustment
-Once your dose is locked in, adjust your grind size so that your shot parameters fall within the ballpark of a 1:2 ratio shot taking 25-30s.
-Don't agonize too much over this step, we will refine our grind size later.
+Once your dose is locked in, adjust your grind size so that your shot parameters fall within the ballpark of a 1:2 ratio shot taking 25-30s. Don't agonize too much over this step, we will refine our grind size later.
 
 ### 3. Adjust brew ratio to taste
 Once your shot is pulling in the ballpark of 20-35s, we can now adjust brew ratio based to what the shot tastes like.
@@ -41,8 +40,7 @@ _Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting sh
 {: .text-center }
 
 ### 4. Hone in on your grind
-Once you’ve found the ratio that works best for this particular coffee, we want to work on increasing our extraction potential.
-A finer grind will expose more of the coffee solubles to water and allow more coffee to be extracted. This will generally increase the flavor complexity, body, and texture of the shot. 
+Once you’ve found the ratio that works best for this particular coffee, we want to work on increasing our extraction potential. A finer grind will expose more of the coffee solubles to water and allow more coffee to be extracted. This will generally increase the flavor complexity, body, and texture of the shot. 
 
 As a general rule, you want to grind as fine as you can while still achieving a tasty, balanced shot. At some point, your grind will be too fine, water will struggle to flow evenly through the puck, extraction will diminish, and your shot will start tasting underextracted. It is not uncommon to see shots flow faster when you grind too fine - this is an indication of "channelling", where water has found the path of least resistance.
 
