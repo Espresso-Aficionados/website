@@ -11,7 +11,7 @@ nav_order: 7
 Coffee can be stored in the freezer to slow down (or practically stop) the aging process of the beans.
 
 For a quick video guide, see:
-[![Should You Freeze Coffee? by James Hoffmann](https://user-images.githubusercontent.com/76938009/107201329-f119f100-6a4c-11eb-8713-0f829e4b8308.png)](https://youtu.be/5uT5_IWWb00)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5uT5_IWWb00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### General rules:
 - Coffee can be safely stored in the freezer, either in its original bag with valve taped over (ensure it’s a waterproof bag), freezer ziplock bags (double bagged for extra safety), air tight mason jars, centrifuge tubes (for single dosing), or the gold standard - vacuum sealed packs.
