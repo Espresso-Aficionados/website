@@ -21,6 +21,7 @@ With your cleaning disc/blind disc in the portafilter, hold down either the 1-cu
 If your machine was able to build at least 9-10bars of pressure in PI mode, this technique could work for you.
 
 These are the approximate pressures (in bar) that correspond to marks on the pressure gauge.
+
 ![Breville gauge](_images/Breville gauge.jpg)
 
 
