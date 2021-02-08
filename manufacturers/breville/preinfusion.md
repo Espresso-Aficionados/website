@@ -7,27 +7,26 @@ grand_parent: Manufacturers
 
 # Pulling Shots in Pre-Infusion Mode
 
-## 15bar pump ruining your shots? Pull shots in pre-infusion mode only
+## 15bar pump ruining your shots? Pull shots in pre-infusion mode only!
 
-This guide is mostly useful for **Breville Infuser** and **Barista Express** users as these machines have an in-built gauge.
+This guide is mostly useful for **Breville Infuser** and **Barista Express** users, as these machines have an in-built gauge that will guide your dialling in.
 It may be possible to use this technique on the **Bambino Plus** and **Breville Pro machines**, however the lack of pressure gauge may be an issue.
-For base model **Bambinos**, users report that it is not possible to hold a shot in pre-infusion for more than 10 seconds, therefore this technique may not work.
+For base model **Bambinos**, users report that it is not possible to hold a shot in pre-infusion for more than 10 seconds, therefore this technique will not work with these machines.
 
-If you are unable to adjust your OPV to <15bar, or do not want to open up your machine, this *pre-infusion mode only* technique can be used as an alternative when having issues maintaining puck integrity throughout the duration of the shot i.e. due to poor grind quality or when pulling light roasts.
+If you are having issues maintaining puck integrity throughout the duration of the shot (i.e. due to poor grind quality or when pulling light roasts), this *pre-infusion mode only* technique can be used as an alternative to an OPV adjustment 
 
-### First test that your machine’s pre-infusion (PI) mode is capable of high enough pressures.
-With your cleaning disc/blind disc in the portafilter, hold down either the 1-cup or 2-cup button to keep the pump in PI. Let pressure build until the needle stops moving (this may take around 30s). When the needle stabilises, this is the max PI pressure your machine can achieve. Let go of the button and press it once more to stop the shot.
+### First test your machine’s capability to build enough pressure in pre-infusion (PI) mode.
+With your cleaning disc/blind disc in the portafilter, hold down either the 1-cup or 2-cup button to keep the pump in PI. Let pressure build until the needle stops moving (this may take around 30s). Take note of what pressure is reached when the needle stabilises - this is the max PI pressure your machine can achieve. To stop the shot, let go of the button and press it once more.
 
-If your machine was able to build to at least 9-10bar pressure, this technique could work for you.
+If your machine was able to build at least 9-10bars of pressure in PI, this technique could work for you.
 
 ### Pressure gauge readings:
-The middle line of the grey-shaded “espresso zone” is 10bar. Each line is an increment of 2 bar.
+These are the approximate pressures (in bar) that correspond to marks on the pressure gauge.
+![Breville gauge](https://user-images.githubusercontent.com/76938009/107194501-3a197780-6a44-11eb-8eee-995fde86b975.jpg)
 
-[A video of a Breville Barista Express showing this in more detail](https://youtu.be/wL-StQvhie0 "Breville Barista BES870 9Bar pressure Gauge Measurement")
-
-### To pull in PI mode:
-Press and hold the 1-cup or 2-cup button for the duration of the shot. When you reach your desired yield, quickly release and then immediately press the button again to stop the shot.
+### To pull a full shot in PI mode:
+Press and hold the 1-cup or 2-cup button for the duration of the shot. Do not let go of the button as this will trigger the pump to engage fully, causing puck pressures to exceed desirable pressures. When you reach your desired yield, quickly release and then immediately press the button again to stop the shot.
 
 ### Dialling in
-Dial in your shot as you normally would, grinding fine/coarse enough to achieve enough pressure while also maintaining enough flow to reach your desired yield within 60secs.
+Dial in your shot as you normally would, grinding fine/coarse enough to achieve enough puck pressure while also maintaining adequate flow through the puck to reach your desired yield within 60secs.
 Breville machines (with the exception of the Breville Dual Boiler) have a 60sec shot time limit.
