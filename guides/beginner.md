@@ -35,7 +35,7 @@ Is the shot tasting too sour? Increase your brew ratio and instead try pulling a
 
 Is the shot tasting too bitter? Shorten the ratio and instead try 18g/32g.
 
-If your shot is tasting both bitter and sour at the same time, you’re probably extracting unevenly due to channeling - [work on your puck prep!](https://espressoaf.com/guides/puckprep.html)
+If your shot is tasting both bitter and sour at the same time, you’re probably extracting unevenly due to channeling - [work on your puck prep!](/guides/puckprep)
 
 _Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting shot, with balanced acidity, gentle sweetness, and no astringency_
 {: .text-center }
@@ -64,4 +64,3 @@ If you find that the shot doesn’t taste good no matter what, it could be your 
 
 Check out this video by James Hoffmann on how to cup coffee at home.
 [![How to Cup coffee](https://user-images.githubusercontent.com/76938009/107197015-7ac6c000-6a47-11eb-8e69-1ede8760bf19.png)](https://www.youtube.com/watch?v=cSEgP4VNynQ)
-
