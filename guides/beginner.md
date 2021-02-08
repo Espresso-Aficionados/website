@@ -60,4 +60,6 @@ As a general rule, lower temperatures will extract *less* while higher temperatu
 
 If you find that the shot doesn’t taste good no matter what, it could be your beans, not you! Try cupping your beans to get an overall sense of flavour and an indication of what your shot could taste like. If your beans taste overly sour or bitter during your cupping, chances are you won't be able to get a shot that doesn't taste that way.
 
-[Check out this video by James Hoffmann to learn how to cup coffee at home](https://www.youtube.com/watch?v=cSEgP4VNynQ)
+Check out this video by James Hoffmann on how to cup coffee at home.
+[![How to Cup coffee](https://user-images.githubusercontent.com/76938009/107197015-7ac6c000-6a47-11eb-8e69-1ede8760bf19.png)](https://www.youtube.com/watch?v=cSEgP4VNynQ)
+
