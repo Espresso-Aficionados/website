@@ -29,7 +29,7 @@ Don't agonize too much over this step, we will refine our grind size later.
 ### 3. Adjust brew ratio to taste
 Once your shot is pulling in the ballpark of 20-35s, we can now adjust brew ratio based to what the shot tastes like.
 
-A 1:2 brew ratio with a 18g dosec in would give us a yield of 36g espresso out.
+A 1:2 brew ratio with a 18g dose in would give us a yield of 36g espresso out.
 
 Is the shot tasting too sour? Increase your brew ratio and instead try pulling a 18g/40g, or even 18/44g ratio.
 
@@ -41,16 +41,16 @@ _Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting sh
 {: .text-center }
 
 ### 4. Hone in on your grind
-Once you’ve found the ratio that works best for this particular coffee, we want to work on opening up our extraction potential.
+Once you’ve found the ratio that works best for this particular coffee, we want to work on increasing our extraction potential.
 A finer grind will expose more of the coffee solubles to water and allow more coffee to be extracted. This will generally increase the flavor complexity, body, and texture of the shot. 
 
-As a general rule, you want to grind as fine as you can while still achieving a tasty, balanced shot. At some point, your grind will be too fine, water will struggle to flow evenly through the puck, extraction will diminish, and your shot will start tasting underextracted. It is not uncommon to see shot times decrease when you grind too fine - this is an indication of "channelling", where water has found the path of least resistance.
+As a general rule, you want to grind as fine as you can while still achieving a tasty, balanced shot. At some point, your grind will be too fine, water will struggle to flow evenly through the puck, extraction will diminish, and your shot will start tasting underextracted. It is not uncommon to see shots flow faster when you grind too fine - this is an indication of "channelling", where water has found the path of least resistance.
 
 If you find that flavour starts to drop off, you’ve gone into ‘too fine’ territory. Grind one step coarser, and, as a general rule, this will likely be the best grind size for your current recipe.
 
 Do not worry too much about going over the recommended 25-35seconds that you often see in recipes. While many shots will be tastiest in this range, you will encounter beans that prove the exception to the rule. It is not uncommon to pull a delicious light roast that takes >40secs to reach target yield. Let _taste_ be your guide. 
 
-_Congratulations, you've dialled in your shot!_
+_Congratulations, you've dialled in your shot! Give yourself a pat on the back and enjoy that tasty espresso._
 {: .text-center }
 
 ### Bonus round
