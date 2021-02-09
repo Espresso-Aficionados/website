@@ -23,7 +23,11 @@ _For the sake of this example, lets say we are locking in a dose of 18g_
 Note: While dose is a variable that can also be adjusted to affect shot time, for simplicity's sake, it is easier to lock in dose *first* and adjust shot time via changing grind size.
 
 ### 2. Quick grind size adjustment
-Once your dose is locked in, adjust your grind size so that your shot parameters fall within the ballpark of a 1:2 ratio shot taking 25-30s. Don't agonize too much over this step, we will refine our grind size later.
+Once your dose is locked in, adjust your grind size so that your shot parameters fall within the ballpark of a 1:2 ratio shot taking 25-35s. A finer grind size will _increase_ shot time, while a coarser grind size will _decrease_ shot time. 
+
+For example, if your current grind setting takes 15 seconds to reach your desired espresso yield, adjust your grinder finer to slow down your shot. If it takes 50+ seconds to reach your target yield, coarsen up your grind to get your shot to flow faster.  
+
+Don't agonize too much over this step however, we will refine our grind size after we look closer at brew ratio. For now, a grind size that gives you around a 30 second shot will suffice.
 
 ### 3. Adjust brew ratio to taste
 Once your shot is pulling in the ballpark of 20-35s, we can now adjust brew ratio based to what the shot tastes like.
