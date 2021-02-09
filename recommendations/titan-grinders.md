@@ -52,7 +52,7 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
 * Titus Nautilus
    * An EK43 redesign with an external motor, clever burr and carrier mounts, no augur, and excellent alignment. Probably the best choice for euros given import costs. Available with any SSP burr in 98mm - HU, LU, Ultra Low, and Cast. Likely available with a dosing hopper, but you'd have to ask Frank (owner of Titus). The power box is also a questionable design choice.
 * EG-1
-   * Well designed adjustment mechanism and readily available. One of the only home titans you can buy right now without a major delay. It's a high quality unit but occasional reports of difficult customer service and annoying workflow persist. Not really designed to add a puffer, and has 80mm burrs. The CORE burr is an SSP traditional espresso burr to my eye and the ULTRA appears to be very similar in style to an 98mm HU burr. I consider this a bit overpriced but appreciate the availability.
+   * Well designed adjustment mechanism and readily available. One of the only home titans you can buy right now without a major delay. It's a high quality unit but occasional reports of difficult customer service and annoying workflow persist. Not really designed to add a puffer, and has 80mm burrs. The CORE burr is an SSP traditional espresso burr to my eye and the ULTRA appears to be very similar in style to a 98mm HU burr. I consider this a bit overpriced but appreciate the availability.
 
 ### DRM Burrs (effectively Bimodal)
  I only recommend the DRM based grinders if you insist on having a hopper or love the bimodal flat burr design with a super easy workflow.
