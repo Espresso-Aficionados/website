@@ -38,6 +38,11 @@ Is the shot tasting too sour? Increase your brew ratio and instead try pulling a
 
 Is the shot tasting too bitter? Shorten the ratio and instead try 18g/32g.
 
+For a more detailed guide on how espresso flavour changes with brew ratio, take a look at Barista Hustle's [Espresso Compass](https://www.baristahustle.com/blog/the-espresso-compass/). Increasing brew ratio will make changes along the _Increase Yield_ trajectory, and decreasing brew ratio will _Decrease Yield_. 
+Do not confuse the compass' _Extract More/Less_ arrows with brew ratio. These terms, when used with BH's espresso compass, relates to extracting more/less via grind size (see Step 4). 
+
+![Barista Hustle Espresso Compass](/images/Espresso Compass.png)
+
 If your shot is tasting both bitter and sour at the same time, you’re probably extracting unevenly due to channeling - [work on your puck prep!](/guides/puckprep)
 
 _Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting shot, with balanced acidity, gentle sweetness, and no astringency_
