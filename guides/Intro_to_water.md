@@ -10,6 +10,8 @@ _The Importance of Water_
 
 Many of the chemicals/compounds found in standard city water, or even bottled water, can form scale when repeatedly heated and cooled inside your espresso machine. This can sometimes clog components, or negatively alter the flow of water in your shiny, spiffy coffee machine. To combat this, the solution is to use soft water. However, water with absolutely no mineral content has been found to negatively affect coffee extraction. Additionally, distilled water can also have a mildly corrosive affect on metal components. So, time to strike some sort of a balance. Time to explore... 
 
+
+
 _...The Simple Water Recipe_
 
 A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. A simple way to utilize this ratio is as follows:
@@ -17,6 +19,7 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 <ins>Ingredients</ins>
 
 4L Distilled or Deionized water
+
 0.35g Potassium Bicarbonate
 
 <ins>Method</ins>
@@ -26,9 +29,13 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 
 That's it. Really.
 
+
+
 _The Why_
 
 The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of Potassium (or Sodium) Bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
+
+
 
 _The "But my scale won't measure that accurately"_
 
@@ -37,6 +44,8 @@ A shortcoming of the recipe provided above is the difficulty of consistently mea
 To make a concentrate, mix 25g of Potassium Bicarbonate into 500ml of distilled water. 
 
 To use the concentrate, mix 2ml of concentrate into a litre of water. If you have 4L of water, mix in 8ml of concentrate. It's still just that simple.
+
+
 
 _The More_
 
