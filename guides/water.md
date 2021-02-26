@@ -50,5 +50,5 @@ To use the concentrate, mix 2ml of concentrate into a litre of water. If you hav
 _The More_
 
 Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, allow a better extraction. I will stop short of making any qualitative judgement between this approach and the one outlined above.
-Since there are myriad ways to introduce hardness chemicals into your water, I will suggest looking at (advanced water.md??) for further guidance on the subject.
+Since there are myriad ways to introduce hardness chemicals into your water, we'll continue to add water resources here on the wiki.
 
