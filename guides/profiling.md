@@ -131,7 +131,7 @@ This dialing method quickly nets me really tasty, high, and even extractions. Th
 ## Making filter style coffee (AKA The Sprover)
 If you're considering making filter coffee in your profiling espresso machine the sprover is your best bet. Basically, pick a grind size coarser than the allonge and dose a little under your basket's rated size. I like 15g in a 20g basket to keep the shower screen clean. WDT and tamp as usual, lock in, and pull a shot with an input flow rate between 1.5 and 4.5ml/s. 
 
-When you pick your flow rate, make sure that you're not building a bunch of pressure. You can fast or slow fill (I prefer fast filling) but don't let the gauge climb above 1.5 bar. You might get a little emulsification of the oils which can just be stirred in.
+When you pick your flow rate, make sure that you're not building a bunch of pressure. You can fill the headspace at any speed between 1 and 7ml/s (I prefer fast filling) but don't let the gauge climb above 1.5 bar. Once the needle starts to move adjust flow to your intended rate. It's ok to use a slower flow rate to get things moving if you need to. You might get a little emulsification of the oils which can just be stirred in.
 
 Dial the ratio to match your grind size. I have some timings and sizes that work well for me, but my general guide is aim for something between 1:10 and 1:14. The finer your grind the tighter the ratio should be. If you want to reduce strength after extraction adding clean water will take care of that. Dial extraction by adjusting ratio and grind size.
 
