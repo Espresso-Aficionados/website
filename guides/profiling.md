@@ -128,6 +128,16 @@ The bloom time is the same, just ramp after 30s of bloom with that time starting
 
 This dialing method quickly nets me really tasty, high, and even extractions. This can be done easily with manual levers, manual profilers, and preprogramming on the decent. I don’t think (though I could be wrong) that the group head controller responds quickly enough on the decent but I'd be happy to learn I'm wrong about that!
 
+## Making filter style coffee (AKA The Sprover)
+If you're considering making filter coffee in your profiling espresso machine the sprover is your best bet. Basically, pick a grind size coarser than the allonge and dose a little under your basket's rated size. I like 15g in a 20g basket to keep the shower screen clean. WDT and tamp as usual, lock in, and pull a shot with an input flow rate between 1.5 and 4.5ml/s. 
+
+When you pick your flow rate, make sure that you're not building a bunch of pressure. You can fast or slow fill (I prefer fast filling) don't let the gauge climb above 1.5 bar. You might get a little emulsification of the oils which can just be stirred in.
+
+Dial the ratio to match your grind size. I have some timings and sizes that work well for me, but my general guide is aim for something between 1:10 and 1:14. The finer your grind the tighter the ratio should be. If you want to reduce strength after extraction adding clean water will take care of that. Dial extraction by adjusting ratio and grind size.
+
+A reasonable starting point might look like this: 15g:195g, 2ml/s debit, flow for around 100s. You can dial stronger from here by grinding finer and cutting the output side of the ratio to as low as 150g or weaker by adding water and/or dialing coarser and extending the output ratio to 210g. Infusion speed can be changed with debit adjustments; I like faster flow so long as pressure isn't climbing.
+
+If you want to cut some oils and fines out of the final brew, add a paper or micromesh filter under the puck before prepping. I find the bed filtration to be very good with my setup so I skip this. YMMV.
 ## Getting Help and Moving Forward
 Join the discord through the link on the home page and ask in #advanced-espresso. We can help you calibrate unusual machines, reform flow profiles into pressure driven profiles, or just talk you through finding a good starting point on your grinder.
 
