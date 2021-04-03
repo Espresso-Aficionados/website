@@ -7,13 +7,17 @@ grand_parent: Manufacturers
 
 # Clippard Valve Upgrade for the Breville Dual Boiler
 
-The Breville Dual Boiler can have manual flow profiling easily and quickly added by rerouting the flow to pass through the stock hot water knob. While this requires no additional parts and can be easily undone, the stock needle valve does not work well for this. Namely, the effective range of motion for flow is in radial a radial movement of several millimeters. This page will describe how to install a new and upgraded valve, discovered by Home-Barista forum user Jake_G. This new needle valve usable range is several rotations allowing for great flexibility in flow profiling.  
+The Breville Dual Boiler can have manual flow profiling added by rerouting the flow path to pass through the stock hot water knob (which utilizes a needle valve to control flow). While this requires no additional parts and can be easily undone, the stock needle valve can be difficult to control. Namely, flow goes from 0% to ~99% in a radial movement of several millimeters. 
 
-This installation is not much more difficult than the original mod, however it does require several commercial and 3D printed parts. I have designed the printed parts to fit with the specified commercial parts exactly and I cannot guarantee other options will work, specifically the socket and the printed paddle.
+This page will describe how to install a new and upgraded valve, developed by Home-Barista forum user Jake_G. This new needle valve expands flow control from a few millimeters to several rotations, allowing for greater accuracy in flow profiling. 
+
+This installation is fairly easy, however it does require some purchased parts as well as two 3D-printed parts. I have designed the printed parts to fit with the specified retail parts exactly and I cannot guarantee other options will work, specifically the socket and the printed paddle.
+
+![Plot](https://espressoaf.com/manufacturers/breville/images/plot.jpg)
 
 # DISCLAIMER
 
-This is pretty cutting edge stuff and if you find something here doesn't work for you---let me know! This is collaborative effort and improvements will happen over time. 
+This is pretty cutting edge stuff and if you find something here doesn't work for you---let me (anarcho) know on EAF! This is collaborative effort and improvements will happen over time.  
 
 ## Commercial Parts
 
@@ -34,12 +38,19 @@ These parts need to printed in filaments with some degree of heat resistance. I 
 
 ### Removing Stock Knob and Valve
 
-1. Remove top cover
-2. Remove hot water knob by popping off cover and unscrewing screw in center of knob
-3. Remove two screws holding valve to frame
-4. Remove two screw holding valve mount inside
-5. Disconnect two tubes from valve and remove old valve
-6. Cut or pull out brass ferrule and sleeve from the tubes.
+1. Remove top cover of machine
+2. Remove hot water knob cover - note that the cover is not held on by screws, but must be pulled very hard to remove
+
+![Knob Removal](https://espressoaf.com/manufacturers/breville/images/knob.jpg)
+
+3. Unscrew screw in center of water knob inner assembly
+4. Remove knob inner assembly (grey plastic post) by pulling
+5. Remove two screws holding valve to frame
+6. Remove two screws holding valve mount inside
+7. Disconnect two tubes from valve and remove old valve
+8. Cut or pull out brass ferrule and sleeve from the tubes.
+
+![Brass Ferrule](https://espressoaf.com/manufacturers/breville/images/brass.jpg)
 
 ### Paddle and Mount Assembly
 
@@ -62,7 +73,6 @@ The needle valve and mount can be assembled by first applying teflon tape to the
 3. Slide in the new paddle and make sure the Clippard valve is seated in the socket. 
 
 4. I prefer the valve to be closed at the position shown below. This can be set by closing the valve, removing your paddle and resetting it in at the correct position. 
-
 5. Reassemble the machine and use! I have found the paddle can feel stiff at the start but over time it will smoothen. 
 
 ## Some more images:
@@ -70,3 +80,7 @@ The needle valve and mount can be assembled by first applying teflon tape to the
 ![Front Mount](https://espressoaf.com/manufacturers/breville/images/example1.jpg)
 ![Front Mount](https://espressoaf.com/manufacturers/breville/images/example2.jpg)
 ![Front Mount](https://espressoaf.com/manufacturers/breville/images/example3.jpg)
+
+# Credits and Acknowledgments
+
+This project has absolutely been a collaborative effort, built up on the work of various members on HB such as Pcrusell50, Qporzk, Jake_G and work by various members of the Espresso Aficionados discord.  
