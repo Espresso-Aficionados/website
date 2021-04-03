@@ -1,0 +1,31 @@
+// Colors
+
+$blue: #00A3B7;
+$latte: #e6ccc6;
+$coffee: #35302c;
+$espresso: #2f2b27;
+$greyish: #99AAB5;
+$dark: #2C2F33;
+$very-dark: #23272A;
+$black: #000000;
+
+
+// Actual styles
+
+$body-background-color: lighten($coffee, 5%);
+$sidebar-color: $coffee;
+$border-color: lighten($coffee, 25%);
+
+$body-text-color: $grey-lt-300;
+$body-heading-color: $grey-lt-000;
+$nav-child-link-color: $grey-dk-000;
+$search-result-preview-color: $grey-dk-000;
+
+$link-color: $latte;
+$btn-primary-color: $latte;
+$base-button-color: $espresso;
+
+$code-background-color: $espresso;
+$search-background-color: $coffee;
+$table-background-color: $espresso;
+$feedback-color: darken($sidebar-color, 3%);
