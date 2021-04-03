@@ -13,13 +13,14 @@ This page will describe how to install a new and upgraded valve, developed by Ho
 
 This installation is fairly easy, however it does require some purchased parts as well as two 3D-printed parts. I have designed the printed parts to fit with the specified retail parts exactly and I cannot guarantee other options will work, specifically the socket and the printed paddle.
 
-![Plot](https://espressoaf.com/manufacturers/breville/images/plot.jpg)
+![Plot](https://espressoaf.com/manufacturers/breville/images/plot.png)
 
 # DISCLAIMER
 
 This is pretty cutting edge stuff and if you find something here doesn't work for you---let me (anarcho) know on EAF! This is collaborative effort and improvements will happen over time.  
 
 ## Commercial Parts
+
 
 - [Clippard M-MNV-1K Needle Valve, M5 Ports with Knurled Knob](https://www.amazon.com/gp/product/B01A63RLLQ?psc=1)
 - [Push to Connect Fitting 4mm Tube OD x M5 Female Straight Adapter](https://www.amazon.com/gp/product/B07MR1JT34?psc=1)
@@ -40,9 +41,7 @@ These parts need to printed in filaments with some degree of heat resistance. I 
 
 1. Remove top cover of machine
 2. Remove hot water knob cover - note that the cover is not held on by screws, but must be pulled very hard to remove
-
 ![Knob Removal](https://espressoaf.com/manufacturers/breville/images/knob.jpg)
-
 3. Unscrew screw in center of water knob inner assembly
 4. Remove knob inner assembly (grey plastic post) by pulling
 5. Remove two screws holding valve to frame
@@ -65,9 +64,7 @@ The needle valve and mount can be assembled by first applying teflon tape to the
 ### Attaching the Mount and Final Assembly
 
 1. Attach the new mount by screwing it in through the wall as shown below.
-
 ![Front Mount](https://espressoaf.com/manufacturers/breville/images/front.jpg)
-
 2. Attach tubes by pushing them into the new quick connectors.
 
 3. Slide in the new paddle and make sure the Clippard valve is seated in the socket. 
