@@ -9,9 +9,9 @@ nav_order: 7
 
 ## Coffee degassing
 When it comes to brewing freshly roasted coffee, you will hear people say that beans have to 'degas' before they're ready to be brewed. There is some contention on how long to wait before beans are considered 'sufficiently' degassed, and the reality is that there is no one 'correct' length of time that will work for every roast. That said, below is a general guide on how long to wait before you brew your fresh beans.
-* Light roasts: 14+ days
-* Medium-light to medium roasts: 10-14 days
-* Medium-dark to dark roasts: 7-10 days
+* Light roasts: 14+ days post-roast
+* Medium-light to medium roasts: 10-14 days post-roast
+* Medium-dark to dark roasts: 7-10 days post-roast
 
 ## Freezing coffee
 Coffee can be stored in the freezer to slow down (or practically stop) the aging process of the beans.
