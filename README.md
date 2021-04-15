@@ -34,6 +34,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Test your changes locally
+
+To preview a rendered version of the site locally, you will need a basic [Ruby](https://www.ruby-lang.org/en/downloads/) development setup.
+
+To install the necessary software and run a version of the page locally, navigate to this folder on your local disk and execute the following commands:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+You should then be able to visit a local version of your page at http://localhost:4000. Changes you make to the files will show up after saving the file and reloading the respective page.
+
 ### Support or Contact
 
 Start by talking to us over in **#resource-development** in the Discord server!
