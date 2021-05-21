@@ -97,7 +97,7 @@ Breville machines come packed with features out of the box at a range of prices.
 - Manual preinfusion
 
 #### Cons:
-- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort, or using the [Pre-Infusion Mode only](https://espressoaf.com/breville/preinfusion.html) trick)
+- 15 bar pump can be hard to manage with unforgiving roasts (can be tuned to 9 bar with minimal effort, or using the [Pre-Infusion Mode only](/manufacturers/breville/preinfusion.md) trick)
 
 ## Manual Levers:
 
