@@ -7,4 +7,5 @@ grand_parent: Manufacturers
 
 # Slayer Mod
 
-{: .notice } This page is under development
+{: .notice }
+This page is under development
