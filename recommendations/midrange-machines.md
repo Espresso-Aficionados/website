@@ -7,4 +7,5 @@ nav_order: 3
 
 # Midrange Espresso Machines
 
-{: .notice } This page is under development
+{: .notice }
+This page is under development
