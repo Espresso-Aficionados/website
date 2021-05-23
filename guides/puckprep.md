@@ -13,7 +13,7 @@ Puck preparation is everything you do to your puck after you grind it but before
 
 Grooming tools, also known as leveler, are tools that you place on top of your basket and rotate in order to flatten the bed of your puck. While these seem to make an even and consistent puck, they actually d not distrubution grinds. Rather, they smooth out the puck and create inconsistent compression. They do not help remove clumps or create consistency, and have been found to decrease extraction. Rather than using one of these, WDT can be used to both evenly distribute and rake the ground to provide a level tamping surface. 
 
-## Weiss Distrubution Technique (WDT)
+## Weiss Distribution Technique (WDT)
 
 One of the most effective techniques one can use in puck preparation is known as the Weiss Distribution Technique, created John Weiss on the Home Barista forums.
 
