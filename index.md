@@ -24,4 +24,4 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [Useful Info](info/info)
   - [Lever Machines](info/levers)
   - [Types of Espresso Machines](info/machine-types)
-- [Useful Links](links/links)
+- [Useful Links](links)
