@@ -7,4 +7,3 @@ has_children: true
 
 # Baratza
 
-{: .notice } This page is under development
