@@ -9,3 +9,6 @@ nav_order: 3
 
 {: .notice }
 This page is under development
+
+In the mean time, come find us at the [Espresso Aficionados Discord](https://discord.gg/espresso) and chat to us about your dream machines!
+
