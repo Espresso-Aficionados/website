@@ -6,6 +6,7 @@ nav_order: 5
 
 # Links
 
+r/espresso's [espresso machine list](https://docs.google.com/spreadsheets/d/1vJv2AGJ1ZSm1TSdoixfJADh5z1CAZjzqjmTz5vrKEj4/edit#gid=0)
 
 ## People You May Like		
 Jonathan Gagne @ [Coffee ad Astra](https://t.me/coffeeadastra)
