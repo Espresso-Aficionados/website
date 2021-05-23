@@ -15,13 +15,13 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 ## Featured Pages
 
-- [Recommendations](recommendations/recommendations)
+- [Recommendations](recommendations)
   - [Entry Level Espresso Machines](recommendations/entry-machines)
   - [Entry Level Grinders](recommendations/entry-grinders)
-- [Guides](guides/guides)
+- [Guides](guides)
   - [How to Dial In Espresso: The Basics](guides/beginner)
   - [What is Puck Prep?](guides/puckprep)
-- [Useful Info](info/info)
+- [Useful Info](info)
   - [Lever Machines](info/levers)
   - [Types of Espresso Machines](info/machine-types)
 - [Useful Links](links)
