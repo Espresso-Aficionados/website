@@ -8,7 +8,7 @@ nav_order: 5
 
 r/espresso's [espresso machine list](https://docs.google.com/spreadsheets/d/1vJv2AGJ1ZSm1TSdoixfJADh5z1CAZjzqjmTz5vrKEj4/edit#gid=0)
 
-## People You May Like		
+### People You May Like		
 Jonathan Gagne @ [Coffee ad Astra](https://t.me/coffeeadastra)
 
 Mitch @ [A Waste of Coffee](https://awasteof.coffee/)	
@@ -19,7 +19,7 @@ Mitch @ [A Waste of Coffee](https://awasteof.coffee/)
 
 [Lucia Solis](https://www.luxia.coffee/)			
 			
-## Youtubers	of Espresso Aficionados		
+### Youtubers of Espresso Aficionados		
 [Daniel McG](https://www.youtube.com/channel/UC8wWN4DpfOINKcidzuIqLJQ)		
 
 [Brian Quan](https://www.youtube.com/channel/UCwT72F8AWH-nbQYs-1GUBZQ)
