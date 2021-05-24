@@ -19,9 +19,11 @@ nav_order: 5
 
 - [Lucia Solis](https://www.luxia.coffee/)			
 			
-### **Youtubers of Espresso Aficionados**		
+### **Content Creators of Espresso Aficionados**		
 - [Daniel McG](https://www.youtube.com/channel/UC8wWN4DpfOINKcidzuIqLJQ)		
 
 - [Brian Quan](https://www.youtube.com/channel/UCwT72F8AWH-nbQYs-1GUBZQ)
 
 - [Shotwell Espresso](https://www.youtube.com/channel/UC6-cJlHk2jhquXAMjVQewIw)
+
+- Jase @ [TheJasonPress](https://www.instagram.com/thejasonpress)
