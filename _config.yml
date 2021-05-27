@@ -1,11 +1,24 @@
-remote_theme: pmarsceill/just-the-docs
 title: Espresso Aficionados
 description: Info from the Espresso Aficionados Discord server
-color_scheme: "light"
+
 aux_links:
   "r/espresso on Reddit":
     "//www.reddit.com/r/espresso/"
   "Espresso Aficionados Discord":
     "//discord.gg/espresso"
 aux_links_new_tab: true
-footer_content: "Copyright &copy; 2021 Espresso Aficionados"
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+
+footer_content: "Copyright &copy; Espresso Aficionados"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true #
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Espresso-Aficionados/website"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+plugins:
+  - jekyll-remote-theme
