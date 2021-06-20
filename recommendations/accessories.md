@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Recommended Accessories
-parent: Guides
-nav_order: 5
+title: Accessories
+parent: Recommendations
+nav_order: 8
 ---
 
 # Recommended Accessories
