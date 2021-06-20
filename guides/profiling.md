@@ -42,7 +42,8 @@ Direct and spring levers make excellent profiling machines. Direct levers work v
 ## What is extraction? How about TDS?
 Extraction is the percentage of soluble mass that left your coffee puck and ended up in the beverage. TDS is the percentage of the final beverage that is coffee and not water.
 
-Here's a simple example. If you have a 20g puck and a 10% TDS from a 1:2 ratio, you have moved 4 grams of coffee into the cup and therefore extracted 20% of the mass. How do I know this? The equation for estimating extraction from the ratio and TDS is `EY = (brewed coffee weight * TDS) / (dry grounds weight)`
+Here's a simple example. If you have a 20g puck and a 10% TDS from a 1:2 ratio, you have moved 4 grams of coffee into the cup and therefore extracted 20% of the mass. How do I know this? The equation for estimating extraction from the ratio and TDS is 
+`EY = (brewed coffee weight * TDS) / (dry grounds weight)`
 
 ## Setting Recipes
 In general an espresso recipe is TDS% at a given EY%. If you're looking for a 10% TDS and think the coffee needs 20% EY, you can only achieve this at a 1:2 ratio. You probably don't have a way to measure this, and that's just fine.
