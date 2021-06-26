@@ -61,49 +61,51 @@ _TLDR:_
 
 If RPalvis water mentioned in the beginning water entry has a somewhat weird taste, try these other recipes. My current favorite for espresso is the TWW Espresso Inspired.
 
+Epsom Salt = MgSO<sub>4</sub>·7H<sub>2</sub>O<br>
+Baking Soda = NaHCO<sub>3</sub><br>
+Potassium Bicarbonate = KHCO<sub>3</sub>
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g)
------------- | -------------|------------ | -------------
-
+------------ | -------------|------------ | -------------| -------------
 “Holy” Water|1 Liter| X | Y | Z
-			|1 Gallon| X | Y | Z
+" |1 Gallon| X | Y | Z
 Melbourne Water|1 Liter | X | Y | Z
-				|1 Gallon | X | Y | Z
+" |1 Gallon | X | Y | Z
 Barista Hustle Water #4|1 Liter | X | Y | Z
-				|1 Gallon | X | Y | Z
+"|1 Gallon | X | Y | Z
 TWW Espresso Inspired|1 Liter | X | Y | Z
-				|1 Gallon | X | Y | Z
+"|1 Gallon | X | Y | Z
 RPalvis|1 Liter | X | Y | Z
-				|1 Gallon | X | 0. | Z
+"|1 Gallon | X | 0. | Z
 
 
-Key Point:
+## Key Point:
 
 Adjust hardness and alkalinity of coffee to match your tastes. It can be used as one of the final steps to dial in a certain taste for a specific machine and grinder combination. The most optimal water could change with coffee ratios. This page is a work in progress to try and gather some heuristics to build intuition on how water for coffee will work.
 
 
-The Idea
+## The Idea
 
 Coffee is primarily composed of water. Even having good beans and a good grinder, if poor water is used, it will result in a bad coffee. Water quality and minerals varies depending on the area that the user is living in. Some areas just naturally have the ideal soft water for coffee like San Francisco or Seattle. Others like Los Angeles will have water that will make coffee taste bland. One way to get around this is to craft your own water mixture. This page will guide through the idea of remineralizing Reverse Osmosis (RO) or Distilled Water. 
 
-The main components we will be looking at are:
+## The main components we will be looking at are:
 
 
-Magnesium Sulfate (Epsom Salt)
-Potassium Bicarbonate
-Sodium Bicarbonate (Baking Soda)
+Magnesium Sulfate (Epsom Salt) <br>
+Potassium Bicarbonate <br>
+Sodium Bicarbonate (Baking Soda) <br>
 
 Chlorides and Calcium are also used in the remineralization of water to aid coffee extraction. They are absent from this page because this would give undesirable effects for espresso machines. I suppose there are more advanced ways of adding Chloride and Calcium such that they won’t scale, but that requires some additional math and equations that I have not yet explored. 
 
-Hardness:
+_Hardness:_
 The concentration of Magnesium and Calcium combined will give the total hardness. More hardness will more easily extract coffee compounds from the coffee beans.
 
-Alkalinity:
+_Alkalinity:_
 This will add more buffer. A higher alkalinity number will help reduce acidity.
 
 There are online calculators and spreadsheet to calculate Alkalinity and Hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness). 
 
-Practical Example:
+## Practical Example:
 
 Dialing in Kenya Nyeri AB Giakanja
 
@@ -114,7 +116,7 @@ Rao Allonge Parameters:
 4.5 ml/s flow rate
 
 
-Attempt 1: 
+_Attempt #1_
 
 Water #1: RPalvis Water
 
@@ -122,7 +124,7 @@ Water #1: RPalvis Water
 
 The shots made with RPalvis water felt very muted in acidity. It made me wonder if adding some hardness would help bring some more of the bean compounds out. It tasted a certain kind of emptiness. I decided to follow another common recipe that I knew for sure would not scale.
 
-Attempt 2:
+_Attempt #2_
 
 Water #2: Barista Hustle #4
 
@@ -130,14 +132,14 @@ Water #2: Barista Hustle #4
 
 The addition of Mg to hardness caused a ton of acidity. It felt very sour. It tasted a lot like lemon juice. There were some good flavors, but I really felt the need to mute the acidity.
 
-Attempt #3
+_Attempt #3_
 
 Keeping water constant (80 GH 40 KH)
 Temperature raised to 97°C
 
 I was thinking that increasing the temperature higher could extract more compounds and may balance out the acidity. This did not work out well. Currently, at this point, I was thinking of heading towards RPalvis water, while reducing the hardness.
 
-Attempt #4
+_Attempt #4_
 
 Water #3: Custom Water
 40 GH 50 KH
@@ -313,5 +315,4 @@ Convert to 1 gallon by multiplying by 0.378
 2.43 * 0.378 = 0.92g
 
 0.92g
-
 
