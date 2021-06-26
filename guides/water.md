@@ -65,17 +65,19 @@ Epsom Salt = MgSO<sub>4</sub>·7H<sub>2</sub>O<br>
 Baking Soda = NaHCO<sub>3</sub><br>
 Potassium Bicarbonate = KHCO<sub>3</sub>
 
+Direct Dosing. Scale as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used.
+
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g)
 ------------ | -------------|------------ | -------------| -------------
-“Holy” Water|1 Liter| X | Y | Z
+“Holy” Water|10 Liter| X | Y | Z
 " |1 Gallon| X | Y | Z
-Melbourne Water|1 Liter | X | Y | Z
+Melbourne Water|10 Liter | X | Y | Z
 " |1 Gallon | X | Y | Z
-Barista Hustle Water #4|1 Liter | X | Y | Z
+Barista Hustle Water #4|10 Liter | X | Y | Z
 "|1 Gallon | X | Y | Z
-TWW Espresso Inspired|1 Liter | X | Y | Z
+TWW Espresso Inspired|10 Liter | X | Y | Z
 "|1 Gallon | X | Y | Z
-RPalvis|1 Liter | X | Y | Z
+RPalvis|10 Liter | X | Y | Z
 "|1 Gallon | X | 0. | Z
 
 
