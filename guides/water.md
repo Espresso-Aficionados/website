@@ -74,6 +74,8 @@ Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | G
 " |1 Gallon| 0.575 | 0.000 | 0.174 | 62 | 23
 Melbourne Water|10 Liter | 1.220 | 0.340 | 0.000 | 49.5 | 20.2
 " |1 Gallon | 0.461 | 0.129 | 0.000 | 49.5 | 20.2
+Hendon Water |10 Liter | 2.430 | 0.520 | 0.000 | 99 | 31
+"|1 Gallon | 0.922 | 0.197 | 0.378 | 99 | 31
 Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40
 "|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40
 TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
@@ -154,7 +156,7 @@ Water #3: Custom Water
 
 Back to 92°C.
 
-The alkalinity was raised from 40 to 50. Hardness was halved from 80 to 40. The shot itself was still more acidic than I would like, but it was muted more than the previous water recipe. I am not sure if I can contribute this towards reducing the hardness or increasing the alkalinity. This is because I changed two variables at a time. But it was moving in the right direction. Another coffee aficionado mentioned 
+The alkalinity was raised from 40 to 50. Hardness was halved from 80 to 40. The shot itself was still more acidic than I would like, but it was muted more than the previous water recipe. I am not sure if I can contribute this towards reducing the hardness or increasing the alkalinity. This is because I changed two variables at a time. But it was moving in the right direction. Another coffee aficionado mentioned full TWW Espresso Profile helped tune down this acidity. That is where I headed to next.
 
 #### _Attempt #5_
 
@@ -178,7 +180,7 @@ _Graph from Coffee ad Astra's Water Article_
 ## Other Notes and Thoughts
 
 * If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got. 
-* Rao perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. 
+* Rao/Perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. Please check Gagne article or AWasteOfWater for the recipe.
 * From _strivefortone_: The recommendation of 2:1 H:A ratio. 2:1 ratio comes from SCA specs and was explored a lot by Chris and Maxwell in ‘Water for Coffee’. Truth be told, you can go a lot higher in hardness (3:1, even 4:1 for some coffees) but you’d never want to have an even ratio or less hardness to alkalinity - you only ever end up with flat, muted, very boring coffee
 * Direct Dosing vs Concentrates / Precision vs Accuracy - Do whatever works best for you. For myself, I use direct dosing. I tried using concentrates but I didn't properly store the water. It seemed that there were some bacteria growing a month or two later. Storing the minerals dry seems to help a lot.
 
