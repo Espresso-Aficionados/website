@@ -70,16 +70,16 @@ Direct Dosing. Scale as needed. 10 L is used for easy measurements using 0.1 g a
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH
 ------------ | -------------|------------ | -------------| -------------| -------------| -------------
-“Holy” Water|10 Liter| X | Y | Z | 0 | 0
-" |1 Gallon| X | Y | Z | 0 | 0
-Melbourne Water|10 Liter | X | Y | Z | 0 | 0
-" |1 Gallon | X | Y | Z | 0 | 0
-Barista Hustle Water #4|10 Liter | X | Y | Z | 0 | 0
-"|1 Gallon | X | Y | Z | 0 | 0
-TWW Espresso Inspired|10 Liter | X | Y | Z | 0 | 0
-"|1 Gallon | X | Y | Z | 0 | 0
-RPalvis|10 Liter | X | Y | Z | 0 | 0
-"|1 Gallon | X | 0. | Z | 0 | 0
+“Holy” Water|10 Liter| 1.520 | 0.000 | 0.460 | 62 | 23
+" |1 Gallon| 0.575 | 0.000 | 0.174 | 62 | 23
+Melbourne Water|10 Liter | 1.220 | 0.340 | 0.000 | 49.5 | 20.2
+" |1 Gallon | 0.461 | 0.129 | 0.000 | 49.5 | 20.2
+Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40
+"|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40
+TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
+"|1 Gallon | 1.489 | 0.000 | 0.510 | 160 | 67.5
+RPalvis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
+"|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50
 
 
 ## Key Point:
