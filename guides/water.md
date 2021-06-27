@@ -56,6 +56,7 @@ Since there are myriad ways to introduce hardness chemicals into your water, we'
 
 
 # Water 2: A Practical Guide of Understanding Water for Dialing in Coffee
+_by azeotropes_
 
 _TLDR:_
 
@@ -137,7 +138,10 @@ The addition of Mg to hardness caused a ton of acidity. It felt very sour. It ta
 
 #### _Attempt #3_
 
-Keeping water constant (80 GH 40 KH)
+Keeping water constant 
+
+80 GH 40 KH
+
 Temperature raised to 97°C
 
 I was thinking that increasing the temperature higher could extract more compounds and may balance out the acidity. This did not work out well. Currently, at this point, I was thinking of heading towards RPalvis water, while reducing the hardness.
@@ -145,7 +149,9 @@ I was thinking that increasing the temperature higher could extract more compoun
 #### _Attempt #4_
 
 Water #3: Custom Water
+
 40 GH 50 KH
+
 Back to 92°C.
 
 The alkalinity was raised from 40 to 50. Hardness was halved from 80 to 40. The shot itself was still more acidic than I would like, but it was muted more than the previous water recipe. I am not sure if I can contribute this towards reducing the hardness or increasing the alkalinity. This is because I changed two variables at a time. But it was moving in the right direction. Another coffee aficionado mentioned 
@@ -153,49 +159,57 @@ The alkalinity was raised from 40 to 50. Hardness was halved from 80 to 40. The 
 #### _Attempt #5_
 
 Water #4: TWW Espresso Blend Inspired Water
+
 160 GH 67.5 KH
 
 This is great. The acidity from the 2nd attempt shot with Barista Hustle #4 water are gone. It is a bit sour/acidic in the beginning, followed by a slight bitter after taste. I am currently stopping here for now in my dialing in process, but I may explore softer waters later.
 
 ## Other Water Examples
 
+Johnathan Gagné of Coffee ad Astra has this graph for certain water hardness and alkalinity levels. You can use a spreadsheet and/or calculator to determine how to create your own water mix. 
 
-Some graphs to try and see where to dial in water for coffee
+![Image of Water Hardness vs Alkalinity](../images/water_coffee_chart-1.png)
+_Graph from Coffee ad Astra's Water Article_
 
-Graph from ad astra
+## Spreadsheet Calculators
+* [Jonathan Gagnes](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
+* [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
 
+## Other Notes and Thoughts
 
-
-
-Other notes:
-
-If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got. 
-
-Rao perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. 
-
-From: strivefortone
-Recommendation of 2:1 H:A ratio. 2:1 ratio comes from SCA specs and was explored a lot by Chris and Maxwell in ‘Water for Coffee’. Truth be told, you can go a lot higher in hardness (3:1, even 4:1 for some coffees) but you’d never want to have an even ratio or less hardness to alkalinity - you only ever end up with flat, muted, very boring coffee
-
-
-Direct Dosing vs Concentrates / Precision vs Accuracy
-
-Do whatever works best for you. For myself, I use direct dosing. Don’t need to keep concentrates around.
+* If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got. 
+* Rao perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. 
+* From _strivefortone_: The recommendation of 2:1 H:A ratio. 2:1 ratio comes from SCA specs and was explored a lot by Chris and Maxwell in ‘Water for Coffee’. Truth be told, you can go a lot higher in hardness (3:1, even 4:1 for some coffees) but you’d never want to have an even ratio or less hardness to alkalinity - you only ever end up with flat, muted, very boring coffee
+* Direct Dosing vs Concentrates / Precision vs Accuracy - Do whatever works best for you. For myself, I use direct dosing. I tried using concentrates but I didn't properly store the water. It seemed that there were some bacteria growing a month or two later. Storing the minerals dry seems to help a lot.
 
 
-Cheatsheets:
+## Additional Resources
+
+* Jonathan Gagne Article - [Water for Coffee Extraction](https://coffeeadastra.com/2018/12/16/water-for-coffee-extraction/)
+* Jim Schulman's ["Insanely Long Water FAQ"](http://users.rcn.com/erics/Water%20Quality/Water%20FAQ.pdf). It is very comprehensive and lives up to its name in length, but after reading it you will come out with a much better understanding of why you want to pay attention to the water you use for espresso. 
+* AwasteofCoffee Methods on [Mixing Water](https://awasteof.coffee/how-to/mixing-water/)
+
+## Appendix: 
+
+### Calculations for Determining how much to add to RO/DI Water for 100 GH and 50 KH.
+
+_Unit Balancing_
+Convert KH to mol of HCO<sub>3</sub> required and then convert that to KHCO<sub>3</sub> in grams.
+
+```
+50 KH * 1 (mg/L CaCO3)/ 1 KH * 1 mg/L [HCO3] / 1.22 mg/L [CaCO3] * 1 mol [HCO3]/ 61.0168 g [HCO3] * 1 g / 1000 mg * 1 mol KHCO3 / 1 mol HCO3  * 100.115 g KHCO3 / 1 mol KHCO3
+```
+The result should be in g/L
 
 
-Additional Resources
+> The 1.22 is a magic number that derives from a Chemistry formula. The other values are found from the periodic table.
 
-Gagnes Article
-Super long FAQ about water
-Awasteofcoffee methods
 
-Appendix
+The following math calculations with are with commentary provided by _strivefortone_
 
-If my target was 50 alkalinity, I’d assume that’s 50 mg/L as CaCO3. 
+If my target was 50 alkalinity, I’d assume that’s 50 mg/L as CaCO<sub>3</sub>. 
 
-First convert 50 mg/L as CaCO3 to mg/L as bicarbonate concentration
+First convert 50 mg/L as CaCO<sub>3</sub> to mg/L as bicarbonate concentration
 
 50 / 1.22 = 61 mg/L alkalinity as bicarbonate concentration.
 
@@ -203,22 +217,22 @@ First convert 50 mg/L as CaCO3 to mg/L as bicarbonate concentration
 
 —
 
-Let’s do Potassium Bicarbonate - KHCO3
+Let’s do Potassium Bicarbonate - KHCO<sub>3</sub>
 
 Molar mass =  100.15 g/mol
 
 That breaks down to Atomic mass of each element:
 
-Potassium (K) 39.0983
-Hydrogen (H)    1.00794
-Carbon (C) 12.0107
-Oxygen (O) 15.9994 (multiply by 3)
+Potassium (K) 39.0983 <br>
+Hydrogen (H)    1.00794 <br>
+Carbon (C) 12.0107 <br>
+Oxygen (O) 15.9994 (multiply by 3) <br>
 
-We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO3 = 61.01684 
+We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO<sub>3</sub> = 61.01684 
 
 61.01684 is our Atomic Weight
 
-Divide target concentration by HCO3 Atomic weight
+Divide target concentration by HCO<sub>3</sub> Atomic weight
 
 61 / 61.01684 = 0.99972401
 
@@ -242,7 +256,7 @@ Now you need to multiply this by the Molar Mass (since K is still physically in 
 
 —
 
-Now multiply this by 10 to get grams needed for 10L batch of water with 50 alkalinity as CaCO3 when using KHCO3.
+Now multiply this by 10 to get grams needed for 10L batch of water with 50 alkalinity as CaCO<sub>3</sub> when using KHCO<sub>3</sub>.
 
 0.100087369322961 * 10 = 1
 
@@ -256,28 +270,28 @@ Multiply this by 0.378 for 1 gallon …
 
 
 
-So for completions sake - for a recipe with a Kh:Gh ratio of 1:2, with KhCO3 and MgSO4 - you have the calculation above for alkalinity, here’s how I would calculate hardness:
+So for completions sake - for a recipe with a KH:GH ratio of 1:2, with KHCO<sub>3</sub> and MgSO<sub>4</sub> - you have the calculation above for alkalinity, here’s how I would calculate hardness:
 
-A 1:2 ratio would require 98.4ppm Mg as CaCO3
+A 1:2 ratio would require 98.4ppm Mg as CaCO<sub>3</sub>
 
 Convert to mg/L as the ion 
 
 98.4 / 4.22 = 24 mg/L Mg as the ion
 
-(Note you can do this either way - convert as the ion to CaCO3 multiply by 4.22, convert CaCO3 to the ion divide by 4.22 - I’m following the convention for the first alkalinity calculation)
+(Note you can do this either way - convert as the ion to CaCO<sub>3</sub> multiply by 4.22, convert CaCO<sub>3</sub> to the ion divide by 4.22 - I’m following the convention for the first alkalinity calculation)
 
 24 mg/L
 
 —
 
-So, MgSO4*7H20 (note: we’re using the heptahydrate because as soon as this sucker gets exposed to air it’s taking in all that oxygen — this is Epsom salts)
+So, MgSO<sub>4</sub>*7H<sub>2</sub>0 (note: we’re using the heptahydrate because as soon as this sucker gets exposed to air it’s taking in all that oxygen — this is Epsom salts)
 
 Molar Mass = 246.4746 g/mol
 
-Magnesium (Mg)    24.3050
-Hydrogen (H)    1.00794
-Oxygen (O) (15.9994 multiply by 7)
-Sulphur (S) 32.065
+Magnesium (Mg)    24.3050 <br>
+Hydrogen (H)    1.00794 <br>
+Oxygen (O) (15.9994 multiply by 7) <br>
+Sulphur (S) 32.065 <br>
 
 We’re only after magnesium for now, so:
 
@@ -307,7 +321,7 @@ Now you need to multiply this by the Molar Mass (since oxygen, hydrogen, and sul
 
 —
 
-Now multiply this by 10 to get grams needed for 10L batch of water with 98.4ppm Mg as CaCO3 when using MgSO4*7H20.
+Now multiply this by 10 to get grams needed for 10L batch of water with 98.4ppm Mg as CaCO3 when using MgSO<sub>4</sub>*7H20.
 
 0.243381625180004 * 10 = 2.43g
 
@@ -320,8 +334,3 @@ Convert to 1 gallon by multiplying by 0.378
 2.43 * 0.378 = 0.92g
 
 0.92g
-
-
-![equation](http://latex.codecogs.com/svg.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
-![equation](http://latex.codecogs.com/svg.latex?s%3D%5Ctext%20%7B%20sensor%20reading%20%7D) 
-![equation](http://latex.codecogs.com/svg.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
