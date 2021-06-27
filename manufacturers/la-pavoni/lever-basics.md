@@ -143,7 +143,7 @@ Remember - don't use abrasives on the shiny chrome outer parts! That means no wi
 
 ## Making Espresso
 
-{ .warning }
+{: .warning }
 This section needs writing!
 
 ### The Basics
