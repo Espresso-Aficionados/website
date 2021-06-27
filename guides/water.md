@@ -67,18 +67,18 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 
 Direct Dosing. Scale as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used.
 
-Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g)
------------- | -------------|------------ | -------------| -------------
-“Holy” Water|10 Liter| X | Y | Z
-" |1 Gallon| X | Y | Z
-Melbourne Water|10 Liter | X | Y | Z
-" |1 Gallon | X | Y | Z
-Barista Hustle Water #4|10 Liter | X | Y | Z
-"|1 Gallon | X | Y | Z
-TWW Espresso Inspired|10 Liter | X | Y | Z
-"|1 Gallon | X | Y | Z
-RPalvis|10 Liter | X | Y | Z
-"|1 Gallon | X | 0. | Z
+Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH
+------------ | -------------|------------ | -------------| -------------| -------------| -------------
+“Holy” Water|10 Liter| X | Y | Z | 0 | 0
+" |1 Gallon| X | Y | Z | 0 | 0
+Melbourne Water|10 Liter | X | Y | Z | 0 | 0
+" |1 Gallon | X | Y | Z | 0 | 0
+Barista Hustle Water #4|10 Liter | X | Y | Z | 0 | 0
+"|1 Gallon | X | Y | Z | 0 | 0
+TWW Espresso Inspired|10 Liter | X | Y | Z | 0 | 0
+"|1 Gallon | X | Y | Z | 0 | 0
+RPalvis|10 Liter | X | Y | Z | 0 | 0
+"|1 Gallon | X | 0. | Z | 0 | 0
 
 
 ## Key Point:
@@ -109,24 +109,25 @@ There are online calculators and spreadsheet to calculate Alkalinity and Hardnes
 
 ## Practical Example:
 
-Dialing in Kenya Nyeri AB Giakanja
+### Dialing in Kenya Nyeri AB Giakanja
 
 Rao Allonge Parameters:
-18:90, 1:5 ratio
-92°C
-6-9 bars of pressure.
-4.5 ml/s flow rate
+* 18:90, 1:5 ratio
+* 92°C
+* 6-9 bars of pressure.
+* 4.5 ml/s flow rate
 
 
-_Attempt #1_
+#### _Attempt #1_
 
 Water #1: RPalvis Water
-
+ 
 0 GH 50 KH
-
+ 
 The shots made with RPalvis water felt very muted in acidity. It made me wonder if adding some hardness would help bring some more of the bean compounds out. It tasted a certain kind of emptiness. I decided to follow another common recipe that I knew for sure would not scale.
 
-_Attempt #2_
+
+#### _Attempt #2_
 
 Water #2: Barista Hustle #4
 
@@ -134,14 +135,14 @@ Water #2: Barista Hustle #4
 
 The addition of Mg to hardness caused a ton of acidity. It felt very sour. It tasted a lot like lemon juice. There were some good flavors, but I really felt the need to mute the acidity.
 
-_Attempt #3_
+#### _Attempt #3_
 
 Keeping water constant (80 GH 40 KH)
 Temperature raised to 97°C
 
 I was thinking that increasing the temperature higher could extract more compounds and may balance out the acidity. This did not work out well. Currently, at this point, I was thinking of heading towards RPalvis water, while reducing the hardness.
 
-_Attempt #4_
+#### _Attempt #4_
 
 Water #3: Custom Water
 40 GH 50 KH
@@ -149,18 +150,20 @@ Back to 92°C.
 
 The alkalinity was raised from 40 to 50. Hardness was halved from 80 to 40. The shot itself was still more acidic than I would like, but it was muted more than the previous water recipe. I am not sure if I can contribute this towards reducing the hardness or increasing the alkalinity. This is because I changed two variables at a time. But it was moving in the right direction. Another coffee aficionado mentioned 
 
+#### _Attempt #5_
 
 Water #4: TWW Espresso Blend Inspired Water
 160 GH 67.5 KH
 
 This is great. The acidity from the 2nd attempt shot with Barista Hustle #4 water are gone. It is a bit sour/acidic in the beginning, followed by a slight bitter after taste. I am currently stopping here for now in my dialing in process, but I may explore softer waters later.
 
-
+## Other Water Examples
 
 
 Some graphs to try and see where to dial in water for coffee
 
 Graph from ad astra
+
 
 
 
@@ -318,3 +321,7 @@ Convert to 1 gallon by multiplying by 0.378
 
 0.92g
 
+
+![equation](http://latex.codecogs.com/svg.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
+![equation](http://latex.codecogs.com/svg.latex?s%3D%5Ctext%20%7B%20sensor%20reading%20%7D) 
+![equation](http://latex.codecogs.com/svg.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
