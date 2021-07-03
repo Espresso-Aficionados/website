@@ -75,7 +75,7 @@ Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | G
 Melbourne Water|10 Liter | 1.220 | 0.340 | 0.000 | 49.5 | 20.2
 " |1 Gallon | 0.461 | 0.129 | 0.000 | 49.5 | 20.2
 Hendon Water |10 Liter | 2.430 | 0.520 | 0.000 | 99 | 31
-"|1 Gallon | 0.922 | 0.197 | 0.378 | 99 | 31
+"|1 Gallon | 0.922 | 0.197 | 0.000 | 99 | 31
 Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40
 "|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40
 TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
@@ -323,7 +323,7 @@ Now you need to multiply this by the Molar Mass (since oxygen, hydrogen, and sul
 
 —
 
-Now multiply this by 10 to get grams needed for 10L batch of water with 98.4ppm Mg as CaCO3 when using MgSO<sub>4</sub>*7H20.
+Now multiply this by 10 to get grams needed for 10L batch of water with 98.4ppm Mg as CaCO<sub>3</sub> when using MgSO<sub>4</sub>*7H<sub>2</sub>0.
 
 0.243381625180004 * 10 = 2.43g
 
