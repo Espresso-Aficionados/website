@@ -21,9 +21,10 @@ This is pretty cutting edge stuff and if you find something here doesn't work fo
 
 ## Commercial Parts
 
+Sometimes amazon changes what these link actually direct to, make sure to double check before purchasing.
 
 - [Clippard M-MNV-1K Needle Valve, M5 Ports with Knurled Knob](https://www.amazon.com/gp/product/B01A63RLLQ?psc=1)
-- [Push to Connect Fitting 4mm Tube OD x M5 Female Straight Adapter](https://www.amazon.com/gp/product/B07MR1JT34?psc=1)
+- [Push to Connect Fitting 4mm Tube OD x M5 Female Straight Adapter](https://www.amazon.com/Parker-66LF-4M-M5-pk5-Connect-Instant-Connector/dp/B0755KMCWJ)
 - [Push to Connect Fitting 4mm Tube OD x M5 Male Straight Adapter](https://www.amazon.com/gp/product/B01N6JF205?psc=1)
 - [Utoolmart 1/4" Hex Shank 6mm Nut Setter Driver Drill Bit, 65mm Length](https://www.amazon.com/gp/product/B07V4J8KPC?psc=1)
 - Teflon Tape
@@ -59,7 +60,7 @@ The paddle can be assembled by hammering the nut settler into shaft, if your pri
 
 The needle valve and mount can be assembled by first applying teflon tape to the male threads of the needle valve and the push connector. Then the Clippard valve can be pushed into the mount and the connectors can be screwed on.
 
-![Valve Mount](https://espressoaf.com/manufacturers/breville/images/mount.jpg)
+![Valve Mount](https://espressoaf.com/manufacturers/breville/images/Clippard_valve_setup.jpg)
 
 ### Attaching the Mount and Final Assembly
 
