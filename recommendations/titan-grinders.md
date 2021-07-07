@@ -38,13 +38,17 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
 ### Conicals
 * HG1
    * Now offered by two companies, Weber Workshops and Craig Lyn. Used to be Lyn Weber. Well sorted examples are great, the value is good, and this can be upgraded to motor drive with a WUG2 kit. Runs the big 3 phase robur burr.
+* HG2 and Key
+   * Updated HG1 from Weber Workshops. Adds a gearbox or a motor setup to make life easier when grinding harder beans. Key includes some quality of life upgrades that may or may not work well.
+* WUG2 FAI and DAI
+   * In house conicals in the single and three phase robur size. Reports indicate they work well as should be expected.
 * Kafatek Monolith Conical
    * An excellent value pick for this list. Conical burrs, not the most available. Single phase Mazzer Robur burr. MC4 version has a prebreaking burr for better grind quality. RDT and WDT required, but static reduces after break in. A puffer is a must.
 
 ### Flat Burrs
  These grinders are available with a wide variety of burrs for espresso and filter.
 * Levercraft Ultra
-    * Another excellent value grinder. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. 98mm burrs and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway.
+    * Another excellent value grinder. Uses a stepper motor and separate controller. Size and shape of the control units are polarizing for some users. 98mm burrs and offered in any SSP burr in that size, so HU, LU, Ultra Low, and Cast. RDT and WDT required. Can be used without a puffer since it can spin up crazy fast, but most users keep one anyway. Seems to be experiencing some protracted production issues.
 * Kafatek Monolith Flat
    * Probably the end of the value class. Burr options vary and can't be covered exhaustively here. 74mm Mythos sized burr and has been delivered in OEM Mythos, SSP HU, Kafatek Shuriken MD (medium/dark), LM (light/medium), and SW (sweet, for lights). RDT and WDT absolutely required and a puffer is needed to clear the chamber.
 * Kafatek Monolith Flat Max
@@ -53,6 +57,10 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
    * An EK43 redesign with an external motor, clever burr and carrier mounts, no augur, and excellent alignment. Probably the best choice for euros given import costs. Available with any SSP burr in 98mm - HU, LU, Ultra Low, and Cast. Likely available with a dosing hopper, but you'd have to ask Frank (owner of Titus). The power box is also a questionable design choice.
 * EG-1
    * Well designed adjustment mechanism and readily available. One of the only home titans you can buy right now without a major delay. It's a high quality unit but occasional reports of difficult customer service and annoying workflow persist. Not really designed to add a puffer, and has 80mm burrs. The CORE burr is an SSP traditional espresso burr to my eye and the ULTRA appears to be very similar in style to a 98mm HU burr. I consider this a bit overpriced but appreciate the availability.
+* Lagom P100
+   * A 98mm take from the people that brought us the Lagom P64 (another good option for the home.) It appears to perform well without RDT, has an excellent chute design, and runs SSP HU burrs by default. Alternative burrs may be available by asking. 
+* EK43/s
+   * I swore I wouldn't do this but my philosophy remains unchanged; the best titan is the one you can get. You can buy an EK and get it this week, though you may have some work to do to get ideal grinding and single dosing performance. Sounds like a woodchipper starting up and is as big as a house, but you're not waiting months for it either.
 
 ### DRM Burrs (effectively Bimodal)
  I only recommend the DRM based grinders if you insist on having a hopper or love the bimodal flat burr design with a super easy workflow.
