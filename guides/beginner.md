@@ -7,6 +7,11 @@ nav_order: 1
 
 # How to Dial In Espresso: The Basics
 
+A couple of notes before we begin:
+1) The dialling in guide below is only one of the many ways one can dial in an espresso shot. This brings us to the second note
+2) 1:2 in 30 seconds is but a guide in pulling a good shot of espresso. It is not the be all and end all of espresso, and the sooner think of it as less of a rule and more of a general guide, the closer you will be to dialling in your coffee.
+
+
 When dialling in an espresso shot, there are three main variables you can adjust to affect the taste of your espresso.
 - **Dose** a.k.a. grams of coffee in
 - **Brew ratio** a.k.a dose in:espresso out. For example, 40g of espresso extracted from 20g of dry grounds is often expressed as a brew ratio of 1:2
