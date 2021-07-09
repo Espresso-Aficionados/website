@@ -58,7 +58,7 @@ Once you’ve found the ratio that works best for this particular coffee, we wan
 
 As a general rule, you want to grind as fine as you can while still achieving a tasty, balanced shot. At some point, your grind will be too fine, water will struggle to flow evenly through the puck, extraction will diminish, and your shot will start tasting underextracted. It is not uncommon to see shots flow faster when you grind too fine - this is an indication of "channelling", where water has found the path of least resistance and carved a hole(s) through your puck.
 
-If you find that flavour starts to drop off, you’ve gone into ‘too fine’ territory. Grind one step coarser, and, as a general rule, this will likely be the best grind size for your current recipe (turbo shots not withstanding, but we'll save that topic for [another guide](guides/profiling).
+If you find that flavour starts to drop off, you’ve gone into ‘too fine’ territory. Grind one step coarser, and, as a general rule, this will likely be the best grind size for your current recipe (turbo shots not withstanding, but we'll save that topic for [another guide](guides/profiling).)
 
 Do not worry too much about going over the recommended 25-35seconds that is often spread as gospel. While many shots will be tastiest in this range, you will encounter beans that prove the exception to the rule. It is not uncommon to pull a delicious light roast that takes >40secs to reach target yield. Let _taste_ be your guide. 
 
