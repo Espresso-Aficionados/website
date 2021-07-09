@@ -79,7 +79,7 @@ Check out this video by James Hoffmann on how to cup coffee at home.
 
 ## "I've mastered this technique. What next?"
 
-One you've mastered the basics, it's time to play around with brew ratios, flow rates and shot times. [Here](guides/profiling) is a great guide on the various shot profiles one can play with.
+One you've mastered the basics, it's time to play around with brew ratios, flow rates, pressure/flow profiles and shot times. [Here](guides/profiling) is a great guide on the various espresso profiles one can play with.
 
 ## Turbo shots
 A special shout-out to turbo shots, an espresso profile for those ready to, as Shotwell puts it, "rewrite the part of your brain that tells you fast extractions at low pressure won’t work." I've found that the turbo shot is the most forgiving of all espresso profiles, no matter the setup. If your grinder isn't the best, your machine is pumping out 15 bars, and uneven extractions are getting you down, check out Michael Cameron's guide to turbo shots [here](https://strivefortone.com/2020/09/19/low-pressure-turbo-shots-and-the-perfect-espresso/) and [here](https://www.instagram.com/p/CQ72sUGBopZ/)
