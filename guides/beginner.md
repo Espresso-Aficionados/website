@@ -8,7 +8,7 @@ nav_order: 1
 # How to Dial In Espresso: The Basics
 
 A couple notes before we begin:
-1) The dialling-in guide below is only one of the many ways an espresso shot can dialled. There are variations to this technique in addition to the many different shot profiles that one can use. That said, if you've just started your espresso journey, I've found this particular step-by-step technique to be the easiest way to familiarise yourself with the basic principles of espresso extraction.
+1) The dialling-in guide below is only *one* of the many ways an espresso shot can dialled. There are variations to this technique in addition to the many different shot profiles that one can use. That said, if you've just started your espresso journey, I've found this particular step-by-step technique to be the easiest way to familiarise yourself with the basic principles of espresso extraction.
 2) The **1:2 in 30 seconds** "rule" is but a guide in pulling a good shot of espresso. It is not the be-all and end-all, and the sooner you let go of the need to hit these parameters exactly, the easier it will be to dial in your next coffee.
 
 
