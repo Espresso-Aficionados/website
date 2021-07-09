@@ -53,7 +53,7 @@ If your shot is tasting both bitter and sour at the same time, you’re probably
 _Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting shot, with balanced acidity, gentle sweetness, and no astringency_
 {: .text-center }
 
-### 4. Hone in on your grind
+### 4. Hone in your grind
 Once you’ve found the ratio that works best for this particular coffee, we want to work on increasing our extraction potential. A finer grind will expose more of the coffee solubles to water and allow more coffee to be extracted. This will generally increase the flavor complexity, body, and texture of the shot. 
 
 As a general rule, you want to grind as fine as you can while still achieving a tasty, balanced shot. At some point, your grind will be too fine, water will struggle to flow evenly through the puck, extraction will diminish, and your shot will start tasting underextracted. It is not uncommon to see shots flow faster when you grind too fine - this is an indication of "channelling", where water has found the path of least resistance and carved a hole(s) through your puck.
