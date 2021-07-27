@@ -23,6 +23,6 @@ In the mean time, you can join us over at the lever-squad channel on [Espresso A
 |-----------------------------|:----------------------------:|------------------------------------------------------------|-------------------------------|
 | **Thermosiphon**            | Londinium R / LR             | Salvatore Levers<br/> Londinium 1                          |                               |
 | **Direct Attach**           | Victoria Arduino Athena Leva | Bosco Sorrento<br/> Olympia Express Cremina<br/> La Pavoni |                               |
-| **Directely Heated Group**  | Bezzera Strega               |                                                            | Flair 58<br/> Strietman CT1/2 |
+| **Directly Heated Group**   | Bezzera Strega               |                                                            | Flair 58<br/> Strietman CT1/2 |
 | **Unheated / Manual Group** |                              |                                                            | Cafelat Robot<br/> Flair<br/> |
 
