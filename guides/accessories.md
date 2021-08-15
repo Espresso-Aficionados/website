@@ -88,13 +88,13 @@ The following is a list of things that are either required or good to have as yo
     * Don’t run coffee grounds down your sink/garbage disposal
 * Self leveling precision tamper
     * Ensures a good consistent & level tamp
-* Brands:
-    * Normcore
-        * Least Expensive
-        * Most options on sizes
-    * Decent
-    * Kafatek LevTamp
-        * Not often in stock. Will sell out within a few minutes of going on sale
+    * Brands:
+        * Normcore
+            * Least Expensive
+            * Most options on sizes
+        * Decent
+        * Kafatek LevTamp
+            * Not often in stock. Will sell out within a few minutes of going on sale
 * Brix Refractometer
     * For Science!
     * 20% brix refractometer is good for calculating your extraction yield if you really want to fall down the rabbit hole.
