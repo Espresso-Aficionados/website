@@ -11,8 +11,6 @@ aux_links_new_tab: true
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 
-footer_content: "Copyright &copy; Espresso Aficionados"
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true #
 gh_edit_link_text: "Edit this page on GitHub"

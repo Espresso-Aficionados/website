@@ -1,0 +1,12 @@
+<p class="text-small text-grey-dk-100 mb-0">Copyright &copy; Espresso Aficionados</p>
+
+{% if page.mermaid %}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'default'
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  </script>
+{% endif %}
