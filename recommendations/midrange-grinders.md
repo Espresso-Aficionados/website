@@ -6,20 +6,20 @@ cafe. In this list, I will be differentiating between "Designed for Home" and "C
 compared to home-grinders, so they will often retain coffee, require modding, and be large and noisy. However, commercial grinders can be found on the used-market for cheap,
 so they can offer great value. Whether a specifically designed home grinder is worth the extra cost over a used commercial grinder is up to your personal values.
 
-### A few Definitions/Notes
+## A few Definitions/Notes
 
-#### Burr Measurements and Geometry
+### Burr Measurements and Geometry
 Flat Burrs and conical burrs are both measured via their outer diameter, so comparing burr sizes between them is not a useful endeavor. The usefulness of large burrs
 for a home application comes down to available grinding surface-area, which depending on the geometry, will lead to improved taste. In addition, there has been much
 conjecture about the taste of a flat vs a conical burr. This is an oversimplification; both flat and conical burrs are designed with a huge variety of geometries and 
 cannot be generalized into a singular taste profile. 
 
-#### SSP Burr Swaps
+### SSP Burr Swaps
 SSP is a Korean company that designs and machines high-end burrs. They are contracted by companies such as Kafatek, Weber-Workshops, and Option-O to design burrs for their
 grinders. SSP creates burrs which can be swapped into old commercial grinders, which can greatly improve the grind quality. [Website](http://www.sspgrind.com/sub/product/product.php).
 To buy, find them at [espressotool](http://www.espressotool.com/?idx=3) or contact them directly.
 
-#### Grind distributions
+### Grind distributions
 If you hang around on the server or on forums, you will often see the words "bi-modal" and "unimodal" being thrown around. These are in reference to the grind distributions
 the grinder/burr combination creates. Bimodal refers to the plot having 2 "humps", centered around "fines" and "target grind-size" particles. Unimodal refers to the particles
 creating few fines and being centered around the target grind size. Please note; this is an oversimplification. All grinders create fines, although some will create less
@@ -27,7 +27,7 @@ than others, thereby being closer to unimodal. We can also note that the width o
 function, but what I can safely say is that you can make good coffee with any roast on either type of distribution, they will just taste different and you have to decide 
 which flavor profile you prefer.
 
-#### Alignment
+### Alignment
 The two disks in a flat burr grinder should be as close to parallel as possible, in order to create the most even distribution it can while grinding. A surprising number 
 of grinder are not well-aligned, and part of the reason why bespoke grinders are so expensive is because the manufacturing tolerances necessary to ensure alignment is very
 difficult to mass-produce economically. As an example, see the EK43. While there are complaints of its alignment, also consider that aligning a 98mm burr requires less
@@ -38,7 +38,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 
 ## Grinders Designed for Home
 
-#### Niche Zero: $663 from Indiegogo
+### Niche Zero: $663 from Indiegogo
 - 63mm Mazzer Kony Conical Burr  
 - Stepless  
 - Single-dose
@@ -47,7 +47,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup  
 **Cons:** slower grind speed, some don't like Mazzer Kony taste profile (somewhat bimodal), sells out quick like Yeezys
 
-#### Turin/G-iota/Generic DF64: $350-$650 from various sellers
+### Turin/G-iota/Generic DF64: $350-$650 from various sellers
 - 64mm Italmill Flat burr or 64mm SSP Multipurpose or 64mm SSP HU
 - Stepless
 - Single-dose
@@ -56,7 +56,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** Able to punch far above it's price range when properly sorted, competes taste-wise with nearly anything out there with appropriate burrs and/or alignment. Thriving modding community and 3D printed parts, 58mm dosing cup, surprisingly sturdy feeling.     
 **Cons:** Most units seem well-sorted, but high production volume and availability means you're rolling the dice with alignment or build quality. Somewhat struggles with useability and retention until modifications, may not have brand-image of other grinders.
 
-#### Mahlkonig x54: $850 (USA, cheaper in EU) Prima Coffee & Majesty Coffee
+### Mahlkonig x54: $850 (USA, cheaper in EU) Prima Coffee & Majesty Coffee
 - 54mm Malkonig Steel Flat burr (espresso geometry)
 - Stepless
 - timed hopper-dose
@@ -67,7 +67,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 
 
 
-#### Eureka Mignon Specialita $415 from Espresso Coffee Shop
+### Eureka Mignon Specialita $415 from Espresso Coffee Shop
 - 55mm Eureka Flat Burr  
 - Stepless  
 - ~2g retention  
@@ -76,7 +76,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** good grind quality, precise dosing, small, quiet, fast, available in many places  
 **Cons:** not easily switchable for brew, not amazing for single-dosing, reported channeling issues until post-seasoning (it gets better with time)
 
-#### Baratza Forte $715 from Baratza Refurb
+### Baratza Forte $715 from Baratza Refurb
 - 54mm Mahlkonig Ceramic Espresso burr OR 54mm Ditting Steel Brew Burr  
 - Stepped  
 - ~2g retention  
@@ -85,7 +85,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Cons:** Grind quality is *okay* if left unaligned, somewhat loud, steel burrs are painfully slow
 
 
-#### Baratza Sette 270Wi $549 from Baratza **New**
+### Baratza Sette 270Wi $549 from Baratza **New**
 - 40mm Etzinger Conical Burr
 - Grind by weight
 - Microstepped
@@ -99,9 +99,9 @@ Differences between the grinders of the same burr size would be down to alignmen
 since R&D money has gone into designing for reliability and speed. However, these grinders come alive with a bit of modding. With alignment and a set of SSP burrs,
 this is as good as it gets before you spend on a titan.
 
-### 64mm Commercials 
+## 64mm Commercials 
 
-#### Mazzer Super Jolly: anything >$350 is a decent used price
+### Mazzer Super Jolly: anything >$350 is a decent used price
 - *Everywhere*  
 - Old-fashioned  
 - Proven reliability
@@ -113,9 +113,9 @@ this is as good as it gets before you spend on a titan.
 **Comparable Grinders:** Fiorenzato F4E, Anfim Caimano, Ceado e37j, Ceado E6P, Compak k6, Mazzer Mini Doserless (beware of motor), ECM S-Manuale 64, Nuova Simonelli MDX,
 Eureka Atom, Helios, Zenith 65 (buy SSP at your own risk: they may  or may not fit) 
 
-### 75mm Commercials 
+## 75mm Commercials 
 
-#### Eureka Atom Specialty, Olympus 75: Prices vary widely
+### Eureka Atom Specialty, Olympus 75: Prices vary widely
 - Compatible with Mythos Burrset (Hoffmann setup) or SSP  
 - Very fast  
 - Quiet
@@ -125,19 +125,19 @@ Eureka Atom, Helios, Zenith 65 (buy SSP at your own risk: they may  or may not f
 **Cons:** Newer, so harder to find used, large, retains a lot of coffee  
 **Comparable Grinders:** Anfim SCODY II, Anfim Super Caimano, Nuova Simonelli MDJ, Macap M7  
 
-### 83mm Commercial
+## 83mm Commercial
 *Note: These are quite impractical for the home due to retention and size*  
 
-#### Mazzer Major: <$500 is a good price
+### Mazzer Major: <$500 is a good price
 - Cheap used for a huge, SSP swap-able burr
 - Very, very fast  
 - Otherwise, similar pros and cons to the Super-Jolly
 **Comparable Grinders:** Ceado e37s, Eureka Helios 80  
 
-### Hand Grinders  
+## Hand Grinders  
 Yup, you can get a $1000 hand-grinder. For all the ~~masochists~~ tactilitarians out there.  
 
-#### Lyn-Weber HG1 $995  
+### Lyn-Weber HG1 $995  
 - 83mm 3-phase Mazzer Robur Conical Burrset (*big boi*)  
 - Great build-quality
 - Will pop-up used ~$600-$800  
