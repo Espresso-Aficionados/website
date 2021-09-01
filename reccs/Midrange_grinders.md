@@ -47,6 +47,26 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup  
 **Cons:** slower grind speed, some don't like Mazzer Kony taste profile (somewhat bimodal), sells out quick like Yeezys
 
+#### Turin/G-iota/Generic DF64: $350-$650 from various sellers
+- 64mm Italmill Flat burr or 64mm SSP Multipurpose or 64mm SSP HU
+- Stepless
+- Single-dose
+- highly mod-able, decent when stock
+
+**Pros:** Able to punch far above it's price range when properly sorted, competes taste-wise with nearly anything out there with appropriate burrs and/or alignment. Thriving modding community and 3D printed parts, 58mm dosing cup, surprisingly sturdy feeling.     
+**Cons:** Most units seem well-sorted, but high production volume and availability means you're rolling the dice with alignment or build quality. Somewhat struggles with useability and retention until modifications, may not have brand-image of other grinders.
+
+#### Mahlkonig x54: $850 (USA, cheaper in EU) Prima Coffee & Majesty Coffee
+- 54mm Malkonig Steel Flat burr (espresso geometry)
+- Stepless
+- timed hopper-dose
+- 2-5g retention (stock)
+
+**Pros:** Able to swap in 54mm Ditting steel geometry from Baratza, better adjustment mechanism than Forte/Vario, good build quality, able to drastically reduce retention with removal of clump crusher, quieter than Forte/Vario            
+**Cons:** Alignment unknown, current units seem well sorted. Likely needs grind-range recalibration, high-retention before modifications, twice the price of refurbished Vario for the same burrs
+
+
+
 #### Eureka Mignon Specialita $415 from Espresso Coffee Shop
 - 55mm Eureka Flat Burr  
 - Stepless  
