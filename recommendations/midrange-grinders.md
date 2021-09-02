@@ -1,3 +1,10 @@
+---
+layout: default
+title: Midrange Grinders
+parent: Recommendations
+nav_order: 6
+---
+
 # Midrange Grinders
 Welcome to the Midrange Grinder List! This is where the word "diminishing returns" starts getting thrown around a lot. For many people, especially those who prefer
 medium or medium-dark roasts, you will not find significant improvements in taste by upgrading your grinder from here. Light-roasts are another story, but we'll get to that later.
