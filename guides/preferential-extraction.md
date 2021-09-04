@@ -31,6 +31,11 @@ Radial evenness is the most common issue skilled users have. If you knock a puck
 
 Another variable that can be dialed to taste is vertical evenness through the puck. If you find that you're a little too even in taste you can start to dose thicker and get a gradient of extraction through the puck. If you want to be more even than you're managing a lower dose can help.
 
+Since this isn't a super commonly used measurement I've included visual references. Each of these examples shows a slightly coarser (10 microns of burr movement) shot on the left.
+
+![E+B Superfine](https://espressoaf.com/images/ims-even.jpeg)
+![VST 20g](https://espressoaf.com/images/vst-even.jpeg)
+
 ### Flow Rate
 Here's where the magic really starts for me. Flow rate can improve evenness of extraction, but it also changes contact time and appears to change extraction rates of various compounds. Interesting tasting acids appear to extract better at fast rates, so if you're looking for a vibrant front loaded acid profile at a high extraction dial that functional flow rate up! Want something a little more blended to turn that citrus and floral into the mango note on the bag? Maybe a slower flow and more contact time would be a good idea.
 
