@@ -6,7 +6,7 @@ nav_order: 9
 ---
 
 # What happens when we extract?
-This is a bit of a loaded question, but I'll do my best with it. It's really easy to think that the coffee we make is going to be more or less the same, no matter how we make it. Maybe we wind up using a little more or less of the coffee, but it should all taste like coffee, right? It's easy to look at extraction yield as the most important thing, or perhaps the evenness of the coffee you've extracted. This is likely partially true, but the methods we use to extract the coffee matter for the final taste. 
+This is a bit of a loaded question, but I'll do my best with it. It's really easy to think that the coffee we make is going to be more or less the same, no matter how we make it. Maybe we wind up using a little more or less of the coffee, but it should all taste like coffee, right? While it's simple and partially true to look at either the measured extraction yield or the evenness of the bottom of a puck and think that they're the primary indicators of taste, there are other metrics we can observe and manipulate to quantify and ideally improve the quality of extraction and the resultant cup.
 
 ## The levers we can pull
 * Extraction yield - the percentage of the dry coffee that ends up being dissolved into your cup.
