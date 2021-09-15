@@ -1,0 +1,42 @@
+---
+layout: default
+title: Understanding Pressure and Flow in Espresso
+parent: Information
+nav_order: 4
+---
+
+# Understanding Pressure and Flow in Espresso  
+
+The most important thing to understand when thinking about pressure in espresso is that **input flow + resistance = pressure & output flow**, meaning pressure in espresso is a result of the finely ground coffee resisting water flow through it. This water flow can come from a pump, piston, or any hybrid of the two (see: Uniterra nomad). The more flow is supplied, the more pressure can be built given less resistance. Let us start by examining a pump machine.   
+
+## Pump machines  
+
+In a pump machine, the pump supplies a maximum amount of flow sans resistance (known in the espresso world as "water debit").  A vibration pump will output 8mL/s, and a rotary pump will output 30mL/s or more, even. These numbers somewhat represent an upper-bound of the flow rate that can be supplied to make espresso (far faster than anyone would want to brew, even for a "turbo").  So, how do we get to 9 bar? In short, we build pressure by adding resistance, eg. finely ground coffee.  A pump will provide maximum flow until the system builds pressure, and then it will stop at 9 bar or whichever pressure is specified. The mechanism which determines the maximum pressure of a system is called an overpressure valve (OPV). The OPV will reach a setpoint of pressure, and divert the excess flow of the pump in order to maintain that pressure, meaning that the pump is no longer inputting its maximum flow to the coffee puck. On a commercial rotary pump, the OPV is located in between the inlet and outlet of the pump, while on a home machine the OPV is located just after the outlet of the pump. This distinction is important because the measured static pressure of the system will vary depending on where the gauge is located. This small difference can make the communication of brew-pressure between home and commercial users unclear, as a commercial user may "adjust the pump pressure", which would in term make less sense to a home-user where the pump pressure gauge readout occurs before the OPV in the hydraulic circuit and thus will read "9 bars", even if the pressure is lower at the grouphead.  
+
+### Methods of Flow restriction
+
+#### Gicleur
+For most people, the maximum flow rate of a rotary pump is unnecessary and arguably detrimental.  Because they wet the puck so quickly, the pressure ramp is extremely fast and often causes inconsistencies due to the formation of channels. Thus, many cafes opt to restrict their maximum flow using a gicleur, which inserts before the grouphead in the hydraulic circuit and will slow down the pressure ramp for greater consistency. For normal espresso brewing, this will not change your maximum pressure.
+
+#### Needle-valve
+The needle valve was first pioneered by Slayer espresso, and it works like an adjustable gicleur, which in the Slayer implementation, allows you choose between a pre-brew setting at 2mL/s and a brew setting at 8mL/s water debit. On modern high-end e61 espresso machines, you can now opt to install flow control on those machines via a fully dynamic needle valve which will allow you to use a flow rate anywhere in between fully open and fully closed. This level of control will allow an e61 user to execute any flow profile, given that they have the skill to do so. 
+**Sidenote**: users who flow-profile on manual needle valve machines will often communicate by noting the water debit at a certain needle position, and indicating that position during the brew for a repeatable flow profile, while users who own a Decent DE1 will often communicate flow rate via the calculated flow before the grouphead. In a needle valve machine, the user is not "aiming" to get 4mL/s output flow when the needle is moved there. As we know, the output flow is reliant on the grind setting and will resist the input flow accordingly. Needle valve water debit then, is a reliable way to communicate flow without needing an digitized bluetooth scale.
+
+#### Conical-Valve  
+
+ On the La Marzocco GS3 MP, profiling is achieved via the movement of a conical valve which works as an adjustable OPV, shunting off excess flow at a given pressure rather than restricting the input flow to the grouphead. Thus, the paddle position will correspond to a brew pressure rather than to an unloaded water debit. For users attempting lever type profiles, this method may be more intuitive given no need to open and shut the needle valve to maintain pressure. However, other users may find flow input profiling more intuitive and thus, the choice between the two types is one of preference over performance.
+
+## Levers
+
+In a lever machine, a piston is either forced down by a spring or the arm of a human, which then forces water through the puck. Levers are unique because they can provide nearly unlimited water debit. To the system. If you wanted to build 9 bars of pressure with ultra-coarse 4:6 method grinds, you are only limited by your ability to press down very quickly or the springs ability to uncoil. Thus, communicating in water debit is not particularly useful for levers, since they truly exert a fixed brew pressure and will supply as much flow as needed in order to maintain their set pressure, meaning the water debit "setting" during the shot pull is unknown. Because a spring will always exert the same amount of pressure, they do not (commonly) have OPV's that limit the maximum brew pressure. In addition, lever machines (dipper levers in particular) are known to have the fastest headspace fill (up to 30-80mL/s depending) because preinfusion is achieved by essentially opening a small hole to a boiler pressurized at 1-1.5 bar. Spring levers in particular will automatically execute a flow profile that preinfuses at high water debit but low pressure (boiler pressure or line pressure), which then leads into a peak pressure which declines slowly as the spring uncoils. 
+
+## Puck Resistance
+
+The pressure at the puck is often treated as a static variable in a commercial setting because it is the pump pressure that is shown. However, it is easy to see with a group pressure gauge that this is not always the case. The resistance in a puck is determined by the grind distribution and the viscosity of the espresso being brewed. It is harder to push honey through a porous medium than it is water, for example. Thus, the pressure generated will depend on grind setting, burr geometry, and the roast profile and origin/variety of the coffee being brewed. At the beginning of a brew when the coffee is at its most soluble, the TDS of the resulting liquid will be very high and output a high pressure. As the viscous solubles of the coffee are depleted, the resulting liquid will often times not flow fast enough to hold the OPV set pressure and the group-pressure reading will begin to fall. Note that on machines which can provide a enough flow, the shot will instead speed up drastically in order to hold pressure. This can often result astringency due to the formation of channels. 
+
+## Pressure Measurement in Espresso
+
+As noted in the pump machine section, the location of the pressure gauge matters in relation to where it is reading in relation to the major sources of resistance, such as the OPV, gicleur/needle-valve, and the espresso puck. Because Bernoulli's law is an expression of the conservation of energy, flow restriction at any given part in the circuit will result in decreased static pressure readings due to either frictional losses or an increase in fluid kinetic energy. Thus, it is important to know where the pressure gauge is installed on an espresso machine when judging what the brew pressure is. The Lelit Bianca pump gauge will give a much different reading than the grouphead gauge due to the OPV, needle valve, and puck. Even within an espresso puck, pressure is not a static reading. Because the opening at the bottom is at atmospheric pressure, there is a necessary pressure drop from the indicated pressure at the top of the puck, inside of the puck, and at the bottom of the puck.  All of this is to say that brew pressure is a somewhat convoluted variable. A turbo shot that pulls 15:40 in 15 seconds might run at a different pressure with someone who is using a Niche + a vibration pump machine versus someone who is using an EK43 + an unrestricted rotary pump machine, but both can turn out equally delicious.
+
+
+
