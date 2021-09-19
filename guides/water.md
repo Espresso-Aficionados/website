@@ -60,13 +60,13 @@ _by azeotropes_
 
 _TLDR:_
 
-If RPalvis water mentioned in the beginning water entry has a somewhat weird taste, try these other recipes. My current favorite for espresso is the TWW Espresso Inspired.
+If RPavlis water mentioned in the beginning water entry has a somewhat weird taste, try these other recipes. My current favorite for espresso is the TWW Espresso Inspired.
 
 Epsom Salt = MgSO<sub>4</sub>·7H<sub>2</sub>O<br>
 Baking Soda = NaHCO<sub>3</sub><br>
 Potassium Bicarbonate = KHCO<sub>3</sub>
 
-The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPalvis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
+The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
 
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH
@@ -81,7 +81,7 @@ Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40
 "|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40
 TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
 "|1 Gallon | 1.489 | 0.000 | 0.510 | 160 | 67.5
-RPalvis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
+RPavlis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
 "|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50
 
 
@@ -124,11 +124,11 @@ Rao Allonge Parameters:
 
 #### _Attempt #1_
 
-Water #1: RPalvis Water
+Water #1: RPavlis Water
  
 0 GH 50 KH
  
-The shots made with RPalvis water felt very muted in acidity. It made me wonder if adding some hardness would help bring some more of the bean compounds out. It tasted a certain kind of emptiness. I decided to follow another common recipe that I knew for sure would not scale.
+The shots made with RPavlis water felt very muted in acidity. It made me wonder if adding some hardness would help bring some more of the bean compounds out. It tasted a certain kind of emptiness. I decided to follow another common recipe that I knew for sure would not scale.
 
 
 #### _Attempt #2_
@@ -147,7 +147,7 @@ Keeping water constant
 
 Temperature raised to 97°C
 
-I was thinking that increasing the temperature higher could extract more compounds and may balance out the acidity. This did not work out well. Currently, at this point, I was thinking of heading towards RPalvis water, while reducing the hardness.
+I was thinking that increasing the temperature higher could extract more compounds and may balance out the acidity. This did not work out well. Currently, at this point, I was thinking of heading towards RPavlis water, while reducing the hardness.
 
 #### _Attempt #4_
 
@@ -233,7 +233,7 @@ If my target was 50 alkalinity, I’d assume that’s 50 mg/L as CaCO<sub>3</sub
 
 First convert 50 mg/L as CaCO<sub>3</sub> to mg/L as bicarbonate concentration
 
-50 / 1.22 = 61 mg/L alkalinity as bicarbonate concentration.
+50 * 1.22 = 61 mg/L alkalinity as bicarbonate concentration.
 
 61 is our target concentration
 
