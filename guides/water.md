@@ -66,7 +66,8 @@ Epsom Salt = MgSO<sub>4</sub>·7H<sub>2</sub>O<br>
 Baking Soda = NaHCO<sub>3</sub><br>
 Potassium Bicarbonate = KHCO<sub>3</sub>
 
-Direct Dosing. Scale as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used.
+The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPalvis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
+
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH
 ------------ | -------------|------------ | -------------| -------------| -------------| -------------
@@ -174,8 +175,27 @@ Johnathan Gagné of Coffee ad Astra has this graph for certain water hardness an
 _Graph from Coffee ad Astra's Water Article_
 
 ## Spreadsheet Calculators
-* [Jonathan Gagnes](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
+* [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
 * [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
+
+## Making Yor Own Custom Waters
+
+Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's. 
+
+The first step is to decide if you want to use Sodium Bicarbonate (Baking Soda) or Potassium Bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
+
+First make a copy of the [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing). Then go to either the "Epsom_Baking" (Sodium Bicarbonate) or Epsom_KHCO3" (Potassium Bicarbonate)
+
+Here is an example of 20/90 with Epsom Salt and Baking Soda. You may check how close (or far) the values match the table of water recipes above.
+
+![Image of 20 GH and 90 KH with Epsom Salt and Baking Soda](../images/water_ex1_epsomBaking.png)
+
+Here is an example of 60/90 with Epsom Salt and Potassium Bicarbonate.
+
+![Image of 60 GH and 90 KH with Epsom Salt and Potassium Bicarbonate](../images/water_ex2_epsomKHCO3.png)
+
+
+
 
 ## Other Notes and Thoughts
 
