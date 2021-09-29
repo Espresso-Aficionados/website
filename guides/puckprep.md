@@ -26,3 +26,9 @@ Over the years the process has been refined, especially with the commercial avai
 
 #### Home Espresso Best Practices and Pressure Profiling -- WDT pt. 2.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmPZsJdzk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## The People's WDT Tool
+
+If you're looking for an accessible, affordable but also excellent WDT tool, [jkim_makes](https://www.thingiverse.com/jkim_makes) aka Chill'd on the EAF Discord has created a [3D-printed 9-prong WDT design](https://www.thingiverse.com/thing:4819617) that has since become a cult favourite and our #1 recommendation for anyone looking for a WDT tool. The design file is free to download and print yourself. If you do not have access to a 3D-printer, you're likely to find someone in EAF's #maker-space channel who will print one for you!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxRgqz-_BYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
