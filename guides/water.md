@@ -6,15 +6,16 @@ nav_order: 4
 ---
 
 # Intro to Water
-_The Importance of Water_
+## The Importance of Water
 
-Many of the chemicals/compounds found in standard city water, or even bottled water, can form scale when repeatedly heated and cooled inside your espresso machine. This can sometimes clog components, or negatively alter the flow of water in your shiny, spiffy coffee machine. To combat this, the solution is to use soft water. However, water with absolutely no mineral content has been found to negatively affect coffee extraction. Additionally, distilled water can also have a mildly corrosive affect on metal components. So, time to strike some sort of a balance. Time to explore... 
+Water is the major component of espresso and acts as a solvent during the extraction phase. Relatively small changes in the general hardness and alkalinity of water can lead to drastic changes in the flavor profile of the resulting espresso. In addition, some municipal water sources, or even bottled water, can form scale when repeatedly heated and cooled inside your espresso machine. This can sometimes clog components, or negatively alter the flow of water in your shiny, spiffy coffee machine. To combat this, the solution is to use soft water. However, water with absolutely no mineral content has been found to negatively affect coffee extraction. Additionally, distilled water can also have a mildly corrosive affect on metal components. So, time to strike some sort of a balance. Time to explore... 
 
+## How is the water I am using?
+Many municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO3 equivalent). Electronic water TDS (total dissolved solids) meters that measure the conductance of water can also be used to get a general level of TDS in ppm, however note that these meters are not able to estimate GH or KH separtely. An electronic TDS meter is also useful for testing that DI is actually 0 TDS.
 
+## ...The Simple Water Recipe
 
-_...The Simple Water Recipe_
-
-A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. A simple way to utilize this ratio is as follows:
+A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
 
 <ins>Ingredients</ins>
 
@@ -30,24 +31,21 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 That's it. Really.
 
 
-
-_The Why_
+### The Why
 
 The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of Potassium (or Sodium) Bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
 
 
-
-_The "But my scale won't measure that accurately"_
+### The "But my scale won't measure that accurately"
 
 A shortcoming of the recipe provided above is the difficulty of consistently measuring 0.35g of the buffer. So, yet more perfection and simplification seeking enthusiasts reached the conclusion that a concentrate of buffer can be used to simplify the measurements needed. 
 
-To make a concentrate, mix 25g of Potassium Bicarbonate into 500ml of distilled water. 
+To make a 10,000x ppm concentrate, mix 20g of Potassium Bicarbonate into 1L of distilled water. 
 
-To use the concentrate, mix 2ml of concentrate into a litre of water. If you have 4L of water, mix in 8ml of concentrate. It's still just that simple.
+To use the concentrate, start with 5mL of concentrate and add water to a total volume of 1L. To make 4L of water, start with 20mL of concentrate and add water to a total volume of 4L.
 
 
-
-_The More_
+## The More
 
 Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, allow a better extraction. I will stop short of making any qualitative judgement between this approach and the one outlined above.
 Since there are myriad ways to introduce hardness chemicals into your water, we'll continue to add water resources here on the wiki.
@@ -56,7 +54,7 @@ Since there are myriad ways to introduce hardness chemicals into your water, we'
 
 
 # Water 2: A Practical Guide of Understanding Water for Dialing in Coffee
-_by azeotropes_
+_by azeotropes and chill'd_
 
 _TLDR:_
 
@@ -66,6 +64,8 @@ Epsom Salt = MgSO<sub>4</sub>·7H<sub>2</sub>O<br>
 Baking Soda = NaHCO<sub>3</sub><br>
 Potassium Bicarbonate = KHCO<sub>3</sub>
 
+
+## Direct dosing
 The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
 
 
@@ -84,24 +84,53 @@ TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
 RPavlis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
 "|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50
 
+## Using Concentrates
+An alternative to direct dosing is to pre-mixed concentrates. Using 1,000 or 10,000 ppm concentrates makes trying new water recipes easy.
+
+For example, to make RPavlis 0/50 (gh/kh) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x gh concentrate to 2.3g of 10,000kh concentrate and adding water to a total volume of 1L.
+
+If scale precision is an issue, 1,000 ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
+
+
+### GH (aka General Hardness) Concentrates:
+
+Compound | Mass (g) | Water volume (mL) | Concentration in ppm (as CaCO3)
+-------- | -------- | ------------------ | --------------------
+Magnesium Sulphate Heptahydrate (Epsom Salt) | 24.63 | 1,000 | 10,000
+Magnesium Chloride Dihydrate | 13.11 | 1,000 | 10,000
+Magnesium Chloride Hexahydrate | 20.31 | 1,000 | 10,000
+Calcium Chloride Dihydrate | 14.69 | 1,000 | 10,000
+Calcium Sulphate Dihydrate (Gypsum) | 17.20 | 1,000 | 10,000
+Calcium Hydroxide | 7.40 | 1,000 | 10,000
+
+
+### KH (aka Carbonate Hardness aka Buffering capacity) Concentrates:
+
+Compound | Mass (g) | Dilute volume (mL) | Concentration in ppm
+-------- | -------- | ------------------ | --------------------
+Sodium Bicarbonate | 16.79 | 1,000 | 10,000
+Potassium Bicarbonate | 20.00 | 1,000 | 10,000
+
 
 ## Key Point:
 
 Adjust hardness and alkalinity of coffee to match your tastes. It can be used as one of the final steps to dial in a certain taste for a specific machine and grinder combination. The most optimal water could change with coffee ratios. This page is a work in progress to try and gather some heuristics to build intuition on how water for coffee will work.
 
+Increasing general hardness will increase intensity of flavors extracted. Increasing alkalinity will reduce harsh acidity associated with sourness.
 
-## The Idea
+
+### The Idea
 
 Coffee is primarily composed of water. Even having good beans and a good grinder, if poor water is used, it will result in a bad coffee. Water quality and minerals varies depending on the area that the user is living in. Some areas just naturally have the ideal soft water for coffee like San Francisco or Seattle. Others like Los Angeles will have water that will make coffee taste bland. One way to get around this is to craft your own water mixture. This page will guide through the idea of remineralizing Reverse Osmosis (RO) or Distilled Water. 
 
-## The main components we will be looking at are:
+### The main components we will be looking at are:
 
-
+Distilled or De-ionized water <br>
 Magnesium Sulfate (Epsom Salt) <br>
 Potassium Bicarbonate <br>
 Sodium Bicarbonate (Baking Soda) <br>
 
-Chlorides and Calcium are also used in the remineralization of water to aid coffee extraction. They are absent from this page because this would give undesirable effects for espresso machines. I suppose there are more advanced ways of adding Chloride and Calcium such that they won’t scale, but that requires some additional math and equations that I have not yet explored. 
+Chlorides and Calcium are also used in the remineralization of water to aid coffee extraction. They are absent from this page because this would give undesirable effects for espresso machines. There may be advanced ways of adding Chloride and Calcium such that they won’t scale, but that requires some additional math and equations that are out of scope of this document.
 
 _Hardness:_
 The concentration of Magnesium and Calcium combined will give the total hardness. More hardness will more easily extract coffee compounds from the coffee beans.
@@ -116,6 +145,7 @@ There are online calculators and spreadsheet to calculate Alkalinity and Hardnes
 ### Dialing in Kenya Nyeri AB Giakanja
 
 Rao Allonge Parameters:
+* Roast level: light
 * 18:90, 1:5 ratio
 * 92°C
 * 6-9 bars of pressure.
@@ -177,6 +207,7 @@ _Graph from Coffee ad Astra's Water Article_
 ## Spreadsheet Calculators
 * [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
 * [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
+* [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
 ## Making Yor Own Custom Waters
 
@@ -356,3 +387,4 @@ Convert to 1 gallon by multiplying by 0.378
 2.43 * 0.378 = 0.92g
 
 0.92g
+.92g
