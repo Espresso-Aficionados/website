@@ -24,7 +24,7 @@ grand_parent: Manufacturers
 
 Cut two lengths of wire and splice each length to either end of your dimmer. Make sure the wires are long enough for your dimmer to reach wherever it is you'd like to mount it. On the opposite ends, crimp a female spade connector to one wire, and a male spade connector to the other.
 
-![pump](https://espressoaf.com/manufacturers/breville/dimmer_images/dimmer.jpg)
+![dimmer](https://espressoaf.com/manufacturers/breville/dimmer_images/dimmer.jpg)
 
 ## Getting inside the Infuser
 
@@ -81,7 +81,7 @@ The completed connection will look like this. (Note that the yellow wire -> dimm
 
 Your dimmer mod is now pretty much complete! At this point you can mount your dimmer at the location of your choosing. If you want to avoid drilling a hole in the case of your machine, you can thread the wiring from the inside through to the outside of your machine via this back port here.
 
-![screw under port](https://espressoaf.com/manufacturers/breville/dimmer_images/port.jpg)
+![port](https://espressoaf.com/manufacturers/breville/dimmer_images/port.jpg)
 
 Reassemble the machine, and you're ready to flow profile. 
 
