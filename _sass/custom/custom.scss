@@ -1,3 +1,5 @@
+@import "../color_schemes/espresso.scss";
+
 .main-header, .site-header {
   height: 70px;
   max-height: 80px;
@@ -33,3 +35,25 @@ $callouts: (
     }
 }
 
+.image {
+    $max-width: 800px;
+
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    padding: 5px;
+    max-width: $max-width;
+
+    img {
+        max-width: $max-width;
+    }
+    figcaption {
+        background-color: $greyish;
+        color: $white;
+        padding: 3px;
+        text-align: center;
+    }
+    a, a:visited {
+      color: $white;
+    }
+}
