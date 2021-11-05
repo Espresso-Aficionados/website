@@ -15,7 +15,9 @@ tags:
 
 ## 98mm
 
-### SSP High Uniformity
+### SSP
+
+#### High Uniformity
 
 Also known under SSP HU. It's suitable both for espresso
 and filter brews.
@@ -25,7 +27,7 @@ and filter brews.
      description="98mm SSP High Uniformity Red Speed Coating"
 %}
 
-### SSP Low Uniformity
+#### Low Uniformity
 
 Also known under SSP LU. It's suitable for filter and light
 roast espresso.
@@ -35,7 +37,7 @@ roast espresso.
      description="98mm SSP Low Uniformity Red Speed Coating"
 %}
 
-### SSP Ultra Low Fines
+#### Ultra Low Fines
 
 Originally shipped with Webber EG-1 grinder.
 Also known under SSP ULF. It's mainly suitable for filter and it's extremely hard
@@ -53,8 +55,14 @@ to make espresso with them.
      cite_description="source"
 %}
 
+{% include image.html
+     url="../images/burrs/98-ssp-hu-lu-ulf.jpg"
+     description="From top to bottom: HU, LU, ULF"
+     cite_url="http://www.espressotool.com/786402328/?idx=3"
+     cite_description="source"
+%}
 
-### SSP Cast Burrs
+#### Cast Burrs
 
 From SSP:
 > You get more  uniformity than original burr set with more complexity of your coffee.
@@ -66,13 +74,15 @@ From SSP:
      cite_description="source"
 %}
 
-### Pre-2015 EK43 burrs
+#### Pre-2015 EK43 burrs
 
-### Post-2015 EK43 burrs
+#### Post-2015 EK43 burrs
 
 ## 64mm
 
-### SSP Multipurpose
+### SSP
+
+#### Multipurpose
 
 Also known under SSP MP. It's for filter and due to added groves on the outer
 edge produces enough fines to add resistance for espresso.
@@ -82,7 +92,7 @@ edge produces enough fines to add resistance for espresso.
      description="64mm SSP MP Red Speed Coating"
 %}
 
-### SSP Brewing
+#### Brewing
 
 Also known under SSP brew burrs or v1 unimodal brews burrs.
 
@@ -91,7 +101,7 @@ Also known under SSP brew burrs or v1 unimodal brews burrs.
      description="64mm SSP Brewing Red Speed Coating"
 %}
 
-### SSP Espresso
+#### Espresso
 
 Also known under SSP HU (don't confuse with 98 SSP HU, they have completely
 different burr geometry).
@@ -101,7 +111,9 @@ different burr geometry).
      description="64mm SSP Espresso Red Speed Coating"
 %}
 
-### Mazzer Super Joll
+### Mazzer
+
+#### Super Joll
 
 ## 80mm
 
