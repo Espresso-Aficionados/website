@@ -225,6 +225,8 @@ _Graph from Coffee ad Astra's Water Article_
 
 ## Tasting Minerals by Sagebush
 
+Please note that Sagebush is using a manual machine (Cafelat Robot). This is much less prone to scaling of other espresso machines. What does scale can be easily cleaned off.
+
 ### Hardness and Buffer Design of Experiments
 
 I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</sub> and NaHCO<sub>3</sub>. I did nine samples, 0-100-200 hardness and 0-50-100 buffer.
