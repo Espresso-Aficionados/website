@@ -224,37 +224,76 @@ _Graph from Coffee ad Astra's Water Article_
 * [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
 ## Tasting Minerals by Sagebush
-I have done some experiments, just yesterday I compared MgSO4, MgCl2, CaSO4 and CaCl2 using 80 mg as  CaCO3 hardness and 40 buffer (NaHCO3). The differences are very nuanced.
-I'd say Mg tastes more exciting/harsh than Ca which is more mellow/muted. Cl tastes more creamy than SO which is more neutral.
-I had a hard time finding the difference between MgCl2 and CaSO4, it is very nuanced (edited)
 
+### Hardness and Buffer Design of Experiments
 
-I finally did a comparison of different buffer minerals, namely NaHCO3, KHCO3, Ca3C12H10O14 (calcium citrate) and Na3C12H10O14 (sodium citrate). The first observation is that calcium citrate barely dissolves, the concentrate needs to be shaken up well before usage. For tasting I did a cupping with a 1:14 ratio and 74/40 water, using MgCl2 as a hardness source.
-Taste wise NaHCO3 was the smoothest. KHCO3 seemed more 'neutral', it did not alter the coffee taste, but it added a slight bitter metallic taste. Calcium citrate was by far the worst, rather bitter, do not recommend. Sodium citrate was very good, brighter than the rest with a slight added citrus flavour.
-I'd recommend NaHCO3 for more smoothness and sodium citrate for more brightness
+I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</sub> and NaHCO<sub>3</sub>. I did nine samples, 0-100-200 hardness and 0-50-100 buffer.
 
-10
-[6:26 AM]
+0H/0B was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'. 
+200H/0B was very intense and full but also acidic. Very exciting and attention grabbing, kinda wild.
+0H/100B was light, mild, mellow, comforting.
+ 200H/100B was intense but kind of 'cloudy', a very dense and strong wall of flavors, a bit like a crazy natural.
+I did like 0H/100B, 100H/50B, 200H/0B and 200H/50B (for different purposes of course), the other options felt too unbalanced. 0H/0B and 200H/100B, while being on the 'balanced ratio' axis, did not produce balanced or enjoyable results (to me). The other extremes, 0H/100B and 200H/0B, however where enjoyable for their specific effects. My takeaways are:
+* ~80H/40B is a good middle ground
+* A wide range of TDS can produce good results
+* Hardness and buffer should be altered inversely to support the effects of each other.
+
+Practical implications are:
+highly acidic beans, or heavy naturals, will probably benefit from going low H/ high B, while balanced coffees can be amped up with high H/ low B. 
+A mellow morning coffee can benefit from the former, while attentive pleasure drinking can benefit from the latter.
+
+My experience is that buffer managed the very top acidity, the biting sourness, while the hardness intensifies everything else, the 'meat and bones'. Too low hardness makes it watery, while too high hardness amplifies and compresses the flavors. Too low buffer had biting sourness while too much buffer is just boring and uninteresting.
+
+### Tasting Minerals
+I compared MgSO<sub>4</sub>, MgCl<sub>2</sub>, CaSO<sub>4</sub> and CaCl<sub>2</sub> using 80 mg as  CaCO<sub>3</sub> hardness and 40 buffer (NaHCO<sub>3</sub>). The differences are very nuanced.
+I'd say Mg tastes more exciting/harsh than Ca which is more mellow/muted. Cl tastes more creamy than SO which is more neutral. I had a hard time finding the difference between MgCl2 and CaSO<sub>4</sub>, it is very nuanced.
+
+I did a comparison of different buffer minerals, namely NaHCO<sub>3</sub>, KHCO<sub>3</sub>, Ca<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (calcium citrate) and Na<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (sodium citrate). The first observation is that calcium citrate barely dissolves, the concentrate needs to be shaken up well before usage. For tasting I did a cupping with a 1:14 ratio and 74/40 water, using MgCl2 as a hardness source. 
+
+Taste wise NaHCO<sub>3</sub> was the smoothest. KHCO<sub>3</sub> seemed more 'neutral', it did not alter the coffee taste, but it added a slight bitter metallic taste. Calcium citrate was by far the worst, rather bitter, do not recommend. Sodium citrate was very good, brighter than the rest with a slight added citrus flavour.
+I'd recommend NaHCO<sub>3</sub> for more smoothness and sodium citrate for more brightness
+
 The tasting was done blind, but it confirmed all taste attributes that I have found in the literature so far (except for calcium citrate which I have not found in the literature, I just reasoned that it could probably be used as a buffer source)
 
 
 ## Explanations of Waters in the Water Recipe Table
 
-Holy Water
+These three were submitted by Strivefortone (Holy Water, Melbourne Water, and Hendon Water)
 
-Melbourne Water
+Melbourne water - soft - good for espresso, works well with filter 
+Holy water - soft - works amazing for filter, ok with espresso
+Hendon water - harder - works amazing for espresso, a little too hard maybe for filter
 
-Hendon Water
+### Holy Water
+Holy water was my best attempt at a universal kind of water - the project I developed it for was going to have frozen coffees for both filter and espresso, with espresso made on a GS3 with its own reservoir. Only Holy water was amazing for filter and we never got the roast dialled right for espresso.
 
-Barista Hustle Water #4
+### Melbourne Water
+Melbourne Water worked really well for almost all the roast styles at ALi, but definitely suffered when I used other roasters coffee.
 
-TWW Espresso Inspired
+### Hendon Water
+Revised Hendon water is kicking it outta the park for turbos, and the OG still stands up to most espresso styles - but rips way too much out for filter.
 
-RPavlis
+### Barista Hustle Water #4
+One of the water that started it all from Barista Hustle. This water works as a nice general purpose water.
 
+### TWW Espresso Inspired
+A copy of the Hardness and Alkalinity of the TWW Espresso Blend using Epsom salt and a buffer.
 
-Fam's 29th and 69th Wave
+### RPavlis
+A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine.
 
+### Fam's 29th and 69th Wave
+
+If you want a certain amount of total buffering ability per amount of coffee, you need less buffer per volume of filter water than espresso water.
+Hardness is postulated to be the "extraction power" of the water and is kept the same for both.
+
+Based on "holy water" (60 ppm as CaCO3 hardness, 20 ppm as CaCO<sub>3</sub> buffer, short 60/20), which Fam found to be really good for filter, he arrived at 60/90 for espresso.
+
+This can be a bit harsh for high clarity burrs, this can be fixed by reducing the hardness, some people like 20/90 a lot, which is more gentle.
+
+For ease of use and taste, epsom salt and baking soda are used.
+
+60 hardness was based off my preference for Strivefortone's Holy water for filter coffee; my burrset extracts ~22-24% for its sweetspot and thats about the maximum hardness I got before running into harsh flavors. Lots of juicyness.
 
 
 ## Making Yor Own Custom Waters
