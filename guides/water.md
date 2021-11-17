@@ -54,7 +54,7 @@ Since there are myriad ways to introduce hardness chemicals into your water, we'
 
 
 # Water 2: A Practical Guide of Understanding Water for Dialing in Coffee
-_by azeotropes and chill'd_
+_by azeotropes, chill'd_, and sagebush
 
 _TLDR:_
 
@@ -69,20 +69,34 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
 
 
-Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH
------------- | -------------|------------ | -------------| -------------| -------------| -------------
-“Holy” Water|10 Liter| 1.520 | 0.000 | 0.460 | 62 | 23
-" |1 Gallon| 0.575 | 0.000 | 0.174 | 62 | 23
-Melbourne Water|10 Liter | 1.220 | 0.340 | 0.000 | 49.5 | 20.2
-" |1 Gallon | 0.461 | 0.129 | 0.000 | 49.5 | 20.2
-Hendon Water |10 Liter | 2.430 | 0.520 | 0.000 | 99 | 31
-"|1 Gallon | 0.922 | 0.197 | 0.000 | 99 | 31
-Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40
-"|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40
-TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5
-"|1 Gallon | 1.489 | 0.000 | 0.510 | 160 | 67.5
-RPavlis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
-"|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50
+Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH | Comments
+------------ | -------------|------------ | -------------| -------------| -------------| -------------| -------------
+“Holy” Water|10 Liter| 1.520 | 0.000 | 0.460 | 62 | 23 | Targeted towards Filter
+" |1 Gallon| 0.575 | 0.000 | 0.174 | 62 | 23 | "
+Melbourne Water|10 Liter | 1.220 | 0.340 | 0.000 | 49.5 | 20.2 | General Purpose Water for Both
+" |1 Gallon | 0.461 | 0.129 | 0.000 | 49.5 | 20.2 | "
+Hendon Water |10 Liter | 2.430 | 0.520 | 0.000 | 99 | 31 | Targeted towards Espresso
+"|1 Gallon | 0.922 | 0.197 | 0.000 | 99 | 31 | "
+Barista Hustle Water #4|10 Liter | 1.970 | 0.671 | 0.000 | 80 | 40 | General Purpose Water for Both
+"|1 Gallon | 0.745 | 0.254 | 0.000 | 80 | 40 | "
+TWW Espresso Inspired|10 Liter | 3.940 | 0.000 | 1.350 | 160 | 67.5 | Targeted towards Espresso
+"|1 Gallon | 1.489 | 0.000 | 0.510 | 160 | 67.5 | "
+RPavlis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50 | Targeted towards Espresso
+"|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50 | "
+Fam's 29th Wave|10 Liter | 0.493 | 1.511 | 0.000 | 20 | 90 | Targeted towards Light Roast Espresso
+"|1 Gallon | 0.186 | 0.571 | 0.000 | 20 | 90 | "
+Fam's 69th Wave|10 Liter | 1.478 | 1.511 | 0.000 | 60 | 90 | Targeted towards Light Roast Espresso
+"|1 Gallon | 0.559 | 0.571 | 0.000 | 60 | 90 | "
+
+[Read Detailed Explanations here](#explanations-of-waters-in-the-water-recipe-table)
+
+* Fam's recipe above has been modified for easier use from Potassium Bicarbonate to Baking Soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using Potassium Bicarbonate if desired.
+
+### Conversion of Baking Soda vs Potassium Bicarbonate
+The use of Baking Soda and Potassium Bicarbonate for this purpose is for alkalinity. To switch between one value to another is simply multiplying it by a factor. The molecular weight of Baking Soda is 84 g/mol. The molecular weight of Potassium Bicarbonate is 100 g/mol.
+
+Baking Soda -> Potassium Bicarbonate = (weight you wish to convert) * (mw of Potassium Bicarbonate / mw of Baking Soda) = (weight) * 100/84
+Potassium Bicarbonate -> Baking Soda = (weight you wish to convert) * (mw of Baking Soda / mw of Potassium Bicarbonate) = (weight) * 84/100
 
 ## Using Concentrates
 An alternative to direct dosing is to pre-mixed concentrates. Using 1,000 or 10,000 ppm concentrates makes trying new water recipes easy.
@@ -208,6 +222,40 @@ _Graph from Coffee ad Astra's Water Article_
 * [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
 * [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
 * [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
+
+## Tasting Minerals by Sagebush
+I have done some experiments, just yesterday I compared MgSO4, MgCl2, CaSO4 and CaCl2 using 80 mg as  CaCO3 hardness and 40 buffer (NaHCO3). The differences are very nuanced.
+I'd say Mg tastes more exciting/harsh than Ca which is more mellow/muted. Cl tastes more creamy than SO which is more neutral.
+I had a hard time finding the difference between MgCl2 and CaSO4, it is very nuanced (edited)
+
+
+I finally did a comparison of different buffer minerals, namely NaHCO3, KHCO3, Ca3C12H10O14 (calcium citrate) and Na3C12H10O14 (sodium citrate). The first observation is that calcium citrate barely dissolves, the concentrate needs to be shaken up well before usage. For tasting I did a cupping with a 1:14 ratio and 74/40 water, using MgCl2 as a hardness source.
+Taste wise NaHCO3 was the smoothest. KHCO3 seemed more 'neutral', it did not alter the coffee taste, but it added a slight bitter metallic taste. Calcium citrate was by far the worst, rather bitter, do not recommend. Sodium citrate was very good, brighter than the rest with a slight added citrus flavour.
+I'd recommend NaHCO3 for more smoothness and sodium citrate for more brightness
+
+10
+[6:26 AM]
+The tasting was done blind, but it confirmed all taste attributes that I have found in the literature so far (except for calcium citrate which I have not found in the literature, I just reasoned that it could probably be used as a buffer source)
+
+
+## Explanations of Waters in the Water Recipe Table
+
+Holy Water
+
+Melbourne Water
+
+Hendon Water
+
+Barista Hustle Water #4
+
+TWW Espresso Inspired
+
+RPavlis
+
+
+Fam's 29th and 69th Wave
+
+
 
 ## Making Yor Own Custom Waters
 
