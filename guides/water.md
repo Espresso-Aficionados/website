@@ -88,6 +88,8 @@ Fam's 29th Wave|10 Liter | 0.493 | 1.511 | 0.000 | 20 | 90 | Targeted towards Li
 Fam's 69th Wave|10 Liter | 1.478 | 1.511 | 0.000 | 60 | 90 | Targeted towards Light Roast Espresso
 "|1 Gallon | 0.559 | 0.571 | 0.000 | 60 | 90 | "
 
+[Use Spreadsheet Calculators here to look up the above or craft your own waters!](#spreadsheet-calculators)
+
 [Read Detailed Explanations here](#explanations-of-waters-in-the-water-recipe-table)
 
 * Fam's recipe above has been modified for easier use from Potassium Bicarbonate to Baking Soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using Potassium Bicarbonate if desired.
@@ -232,11 +234,6 @@ Johnathan Gagné of Coffee ad Astra has this graph for certain water hardness an
 ![Image of Water Hardness vs Alkalinity](../images/water_coffee_chart-1.png)
 _Graph from Coffee ad Astra's Water Article_
 
-## Spreadsheet Calculators
-* [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
-* [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
-* [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
-
 ## Tasting Minerals by Sagebush
 
 Please note that Sagebush is using a manual machine (Cafelat Robot). This is much less prone to scaling of other espresso machines. What does scale can be easily cleaned off.
@@ -319,6 +316,8 @@ For ease of use and taste, epsom salt and baking soda are used.
 
 ## Making Yor Own Custom Waters
 
+EDIT(Nov 18, 2021), Chris has created an updated spreadsheet that combined the single dosing sheets into a nice form. It can be found at [https://coffeewater.app/](https://coffeewater.app). The same idea still applies below.
+
 Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's. 
 
 The first step is to decide if you want to use Sodium Bicarbonate (Baking Soda) or Potassium Bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
@@ -333,6 +332,20 @@ Here is an example of 60/90 with Epsom Salt and Potassium Bicarbonate.
 
 ![Image of 60 GH and 90 KH with Epsom Salt and Potassium Bicarbonate](../images/water_ex2_epsomKHCO3.png)
 
+
+## Spreadsheet Calculators
+* [CoffeeWater by Chris](https://coffeewater.app/)
+
+Example screenshots below:
+
+![Easy Direct Dosing Recipe Picker](../images/water_calc_p1.png)
+![Easy Direct Dosing Recipe Chart](../images/water_calc_p2.png)
+![Custom Direct Dosing Recipe Creator](../images/water_calc_p3.png)
+![Custom Direct Dosing GH / KH Lookup](../images/water_calc_p4.png)
+
+* [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
+* [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
+* [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
 
 
