@@ -96,19 +96,33 @@ Fam's 69th Wave|10 Liter | 1.478 | 1.511 | 0.000 | 60 | 90 | Targeted towards Li
 The use of Baking Soda and Potassium Bicarbonate for this purpose is for alkalinity. To switch between one value to another is simply multiplying it by a factor. The molecular weight of Baking Soda is 84 g/mol. The molecular weight of Potassium Bicarbonate is 100 g/mol.
 
 Baking Soda -> Potassium Bicarbonate = (weight you wish to convert) * (mw of Potassium Bicarbonate / mw of Baking Soda) = (weight) * 100/84
+
 Potassium Bicarbonate -> Baking Soda = (weight you wish to convert) * (mw of Baking Soda / mw of Potassium Bicarbonate) = (weight) * 84/100
+
+#### Example #1 Converting Barista Hustle #4 1 Gallon from Baking Soda to Potassium Bicarbonate
+
+Weight required with Baking Soda: 0.254 g.
+
+0.254 g * 100/84 = 0.302 g Potassium Bicarbonate
+
+#### Example #2 Converting RPavlis Water 1 Gallon from Potassium Bicarbonate to Baking Soda
+
+Weight required with Potassium Bicarbonate: 0.378 g.
+
+0.378 g * 84/100 = 0.317 g Baking Soda
+
 
 ## Using Concentrates
 An alternative to direct dosing is to pre-mixed concentrates. Using 1,000 or 10,000 ppm concentrates makes trying new water recipes easy.
 
-For example, to make RPavlis 0/50 (gh/kh) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x gh concentrate to 2.3g of 10,000kh concentrate and adding water to a total volume of 1L.
+For example, to make RPavlis 0/50 (GH/KH) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x GH concentrate to 2.3g of 10,000x KH concentrate and adding water to a total volume of 1L.
 
 If scale precision is an issue, 1,000 ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
 
 
 ### GH (aka General Hardness) Concentrates:
 
-Compound | Mass (g) | Water volume (mL) | Concentration in ppm (as CaCO3)
+Compound | Mass (g) | Water volume (mL) | Concentration in ppm (as CaCO<sub>3</sub>)
 -------- | -------- | ------------------ | --------------------
 Magnesium Sulphate Heptahydrate (Epsom Salt) | 24.63 | 1,000 | 10,000
 Magnesium Chloride Dihydrate | 13.11 | 1,000 | 10,000
@@ -229,19 +243,25 @@ Please note that Sagebush is using a manual machine (Cafelat Robot). This is muc
 
 ### Hardness and Buffer Design of Experiments
 
-I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</sub> and NaHCO<sub>3</sub>. I did nine samples, 0-100-200 hardness and 0-50-100 buffer.
+I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</sub> and NaHCO<sub>3</sub>. I did nine samples, 0-100-200 hardness (GH) and 0-50-100 buffer (KH).
 
-0H/0B was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'. 
-200H/0B was very intense and full but also acidic. Very exciting and attention grabbing, kinda wild.
-0H/100B was light, mild, mellow, comforting.
- 200H/100B was intense but kind of 'cloudy', a very dense and strong wall of flavors, a bit like a crazy natural.
-I did like 0H/100B, 100H/50B, 200H/0B and 200H/50B (for different purposes of course), the other options felt too unbalanced. 0H/0B and 200H/100B, while being on the 'balanced ratio' axis, did not produce balanced or enjoyable results (to me). The other extremes, 0H/100B and 200H/0B, however where enjoyable for their specific effects. My takeaways are:
-* ~80H/40B is a good middle ground
+![Hardness and Buffer Design of Experiments](../images/water_gh_kh_test.png)
+
+* 0GH/0KH was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'. 
+* 200GH/0KH was very intense and full but also acidic. Very exciting and attention grabbing, kinda wild.
+* 0GH/100KH was light, mild, mellow, comforting.
+* 200GH/100KH was intense but kind of 'cloudy', a very dense and strong wall of flavors, a bit like a crazy natural.
+
+I did like 0GH/100KH, 100GH/50KH, 200GH/0KH and 200GH/50KH (for different purposes of course), the other options felt too unbalanced. 0GH/0KH and 200GH/100KH, while being on the 'balanced ratio' axis, did not produce balanced or enjoyable results (to me). The other extremes, 0GH/100KH and 200GH/0KH, however where enjoyable for their specific effects. 
+
+
+My takeaways are:
+* ~80GH/40KH is a good middle ground
 * A wide range of TDS can produce good results
 * Hardness and buffer should be altered inversely to support the effects of each other.
 
 Practical implications are:
-highly acidic beans, or heavy naturals, will probably benefit from going low H/ high B, while balanced coffees can be amped up with high H/ low B. 
+highly acidic beans, or heavy naturals, will probably benefit from going low GH/ high KH, while balanced coffees can be amped up with high GH/ low KH. 
 A mellow morning coffee can benefit from the former, while attentive pleasure drinking can benefit from the latter.
 
 My experience is that buffer managed the very top acidity, the biting sourness, while the hardness intensifies everything else, the 'meat and bones'. Too low hardness makes it watery, while too high hardness amplifies and compresses the flavors. Too low buffer had biting sourness while too much buffer is just boring and uninteresting.
@@ -269,27 +289,26 @@ Hendon water - harder - works amazing for espresso, a little too hard maybe for 
 ### Holy Water
 Holy water was my best attempt at a universal kind of water - the project I developed it for was going to have frozen coffees for both filter and espresso, with espresso made on a GS3 with its own reservoir. Only Holy water was amazing for filter and we never got the roast dialled right for espresso.
 
+If aiming for filter, try this water out. It works very well.
+
 ### Melbourne Water
-Melbourne Water worked really well for almost all the roast styles at ALi, but definitely suffered when I used other roasters coffee.
+Melbourne Water worked really well for almost all the roast styles at Ali (a cafe shop), but definitely suffered when I used other roasters coffee.
 
 ### Hendon Water
-Revised Hendon water is kicking it outta the park for turbos, and the OG still stands up to most espresso styles - but rips way too much out for filter.
+Revised Hendon water is working very well for turbos. The original formula still stands up to most espresso styles, but extracts way too much for filter.
 
 ### Barista Hustle Water #4
 One of the water that started it all from Barista Hustle. This water works as a nice general purpose water.
 
 ### TWW Espresso Inspired
-A copy of the Hardness and Alkalinity of the TWW Espresso Blend using Epsom salt and a buffer.
+A copy of the Hardness and Alkalinity of the TWW Espresso Blend using Epsom salt and a buffer. It is a cost effective way to copy the TWW espresso profile, while not being an exact copy.
 
 ### RPavlis
-A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine.
+A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine. The original recipe uses Potassium Bicarbonate because it is believe that Sodium Bicarbonate (baking soda) will impart some flavors. It surprisingly works very well for pulling espresso. It tastes a bit weird with longer ratio coffee (like Filter). It is perhaps the most forgiving recipe to create, and would work anywhere from 50 KH to 100 KH. If you only have a 0.1g scale, probably use this water first.
 
 ### Fam's 29th and 69th Wave
 
-If you want a certain amount of total buffering ability per amount of coffee, you need less buffer per volume of filter water than espresso water.
-Hardness is postulated to be the "extraction power" of the water and is kept the same for both.
-
-Based on "holy water" (60 ppm as CaCO3 hardness, 20 ppm as CaCO<sub>3</sub> buffer, short 60/20), which Fam found to be really good for filter, he arrived at 60/90 for espresso.
+Based on "holy water" (60 ppm as CaCO3 hardness, 20 ppm as CaCO<sub>3</sub> buffer, short 60/20), which Fam found to be really good for filter, he arrived at 60/90 for espresso. The amount of buffer was scaled up from holy water because of the volume of an espresso shot is much less than that of filter. Hardness is postulated to be the "extraction power" of the water and is kept the same for both.
 
 This can be a bit harsh for high clarity burrs, this can be fixed by reducing the hardness, some people like 20/90 a lot, which is more gentle.
 
