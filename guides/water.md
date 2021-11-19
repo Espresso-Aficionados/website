@@ -85,7 +85,7 @@ RPavlis|10 Liter | 0.000 | 0.000 | 1.000 | 0 | 50
 "|1 Gallon | 0.000 | 0.000 | 0.378 | 0 | 50
 
 ## Using Concentrates
-An alternative to direct dosing is to pre-mixed concentrates. Using 1,000 or 10,000 ppm concentrates makes trying new water recipes easy.
+An alternative to direct dosing is to pre-mix concentrates, and use those for your recipes. Using 1,000 or 10,000 ppm concentrates makes trying new water recipes easy.
 
 For example, to make RPavlis 0/50 (gh/kh) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x gh concentrate to 2.3g of 10,000kh concentrate and adding water to a total volume of 1L.
 
