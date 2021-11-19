@@ -66,7 +66,7 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 
 
 ## Direct dosing
-The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. Awasteofwater recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
+The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
 
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH | Comments
@@ -352,7 +352,7 @@ Example screenshots below:
 ## Other Notes and Thoughts
 
 * If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got. 
-* Rao/Perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. Please check Gagne article or AWasteOfWater for the recipe.
+* Rao/Perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. Please check Gagne article or AWasteOfCoffee for the recipe.
 * From _strivefortone_: The recommendation of 2:1 H:A ratio. 2:1 ratio comes from SCA specs and was explored a lot by Chris and Maxwell in ‘Water for Coffee’. Truth be told, you can go a lot higher in hardness (3:1, even 4:1 for some coffees) but you’d never want to have an even ratio or less hardness to alkalinity - you only ever end up with flat, muted, very boring coffee
 * Direct Dosing vs Concentrates / Precision vs Accuracy - Do whatever works best for you. For myself, I use direct dosing. I tried using concentrates but I didn't properly store the water. It seemed that there were some bacteria growing a month or two later. Storing the minerals dry seems to help a lot.
 
@@ -361,7 +361,7 @@ Example screenshots below:
 
 * Jonathan Gagne Article - [Water for Coffee Extraction](https://coffeeadastra.com/2018/12/16/water-for-coffee-extraction/)
 * Jim Schulman's ["Insanely Long Water FAQ"](http://users.rcn.com/erics/Water%20Quality/Water%20FAQ.pdf). It is very comprehensive and lives up to its name in length, but after reading it you will come out with a much better understanding of why you want to pay attention to the water you use for espresso. 
-* AwasteofCoffee Methods on [Mixing Water](https://awasteof.coffee/how-to/mixing-water/)
+* AWasteOfCoffee Methods on [Mixing Water](https://awasteof.coffee/how-to/mixing-water/)
 
 ## Appendix: 
 
