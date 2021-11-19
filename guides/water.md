@@ -11,7 +11,7 @@ nav_order: 4
 Water is the major component of espresso and acts as a solvent during the extraction phase. Relatively small changes in the general hardness and alkalinity of water can lead to drastic changes in the flavor profile of the resulting espresso. In addition, some municipal water sources, or even bottled water, can form scale when repeatedly heated and cooled inside your espresso machine. This can sometimes clog components, or negatively alter the flow of water in your shiny, spiffy coffee machine. To combat this, the solution is to use soft water. However, water with absolutely no mineral content has been found to negatively affect coffee extraction. Additionally, distilled water can also have a mildly corrosive affect on metal components. So, time to strike some sort of a balance. Time to explore... 
 
 ## How is the water I am using?
-Many municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO3 equivalent). Electronic water TDS (total dissolved solids) meters that measure the conductance of water can also be used to get a general level of TDS in ppm, however note that these meters are not able to estimate GH or KH separtely. An electronic TDS meter is also useful for testing that DI is actually 0 TDS.
+Many municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Electronic water TDS (total dissolved solids) meters that measure the conductance of water can also be used to get a general level of TDS in ppm, however note that these meters are not able to estimate GH or KH separtely. An electronic TDS meter is also useful for testing that DI is actually 0 TDS.
 
 ## ...The Simple Water Recipe
 
@@ -54,7 +54,7 @@ Since there are myriad ways to introduce hardness chemicals into your water, we'
 
 
 # Water 2: A Practical Guide of Understanding Water for Dialing in Coffee
-_by azeotropes, chill'd_, and sagebush
+_by azeotropes, chill'd, and sagebush_
 
 _TLDR:_
 
@@ -245,7 +245,7 @@ I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</s
 ![Hardness and Buffer Design of Experiments](../images/water_gh_kh_test.png)
 
 * 0GH/0KH was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'. 
-* 200GH/0KH was very intense and full but also acidic. Very exciting and attention grabbing, kinda wild.
+* 200GH/0KH was very intense and full but also acidic. Very exciting and attention grabbing, kind of wild.
 * 0GH/100KH was light, mild, mellow, comforting.
 * 200GH/100KH was intense but kind of 'cloudy', a very dense and strong wall of flavors, a bit like a crazy natural.
 
@@ -279,9 +279,9 @@ The tasting was done blind, but it confirmed all taste attributes that I have fo
 
 These three were submitted by Strivefortone (Holy Water, Melbourne Water, and Hendon Water)
 
-Melbourne water - soft - good for espresso, works well with filter 
-Holy water - soft - works amazing for filter, ok with espresso
-Hendon water - harder - works amazing for espresso, a little too hard maybe for filter
+* Melbourne water - soft - good for espresso, works well with filter 
+* Holy water - soft - works amazing for filter, ok with espresso
+* Hendon water - harder - works amazing for espresso, a little too hard maybe for filter
 
 ### Holy Water
 Holy water was my best attempt at a universal kind of water - the project I developed it for was going to have frozen coffees for both filter and espresso, with espresso made on a GS3 with its own reservoir. Only Holy water was amazing for filter and we never got the roast dialled right for espresso.
