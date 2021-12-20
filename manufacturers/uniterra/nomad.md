@@ -22,13 +22,13 @@ This page is under development, information may not be accurate or reliable.
 
 ## Preface
 
-This page aims to cover most of the key points what makes the Uniterra Nomad special. It will attempt to cover comparison with other popular machines, how to pull (see-saw) shots, and how to maintain it. If you already have one, click to go to [Quality of Life upgrades] or [How to Pull a Shots]
+This page aims to cover most of the key points what makes the Uniterra Nomad special. It will attempt to cover comparison with other popular machines, how to pull (see-saw) shots, and how to maintain it. If you already have one, click to go to [Quality of Life upgrades](#quality-of-life-recommendations) or [How to Pull a Shots](#profiling-with-the-nomad)
 
 ## What Is This Machine?
 
 Hello Friends! I would like to introduce you to a truely one of a kind unique machine: the Uniterra Nomad. 
 
-![Disassembly Guide](/images/NomadSide.png)
+![Disassembly Guide](./images/NomadSide.png)
 
 As you imagine, this is quite a different look of what a normal espresso machine should look like. Where is that chrome box that has a pump and portafilter? Or even a portafilter with a lever?
 
@@ -36,19 +36,23 @@ The Nomad is quite the machine that defies classification. It is uniquely in all
 
 Again: *Manual, lever pump machine.*
 
-At the pain of stating the obvious, it is a manual machine because there are no electronics in it. You would need a source of hot water and a grinder to grind the whole beans. You can take this on camping trips, hotel rooms, on a boat, or friend’s place. The possibilities are endless!
+At the pain of stating the obvious, it is a manual machine because there are no electronics in it. You would need a source of hot water and a grinder to grind the whole beans. You can take this on camping trips, hotel rooms, on a boat, or friend’s place. The possibilities are endless! [Thanks Creators!](#about-the-creators)
 
 ## Does It Make Good Espresso?
 
 This has to be the biggest question for you to consider a Nomad. Is it a modern day art piece? Or is it a Fisher Price toy? But yes. It can definitely do GREAT espresso. 
 
 {: .notice }
-Espresso is made by forcing a small amount of near-boiling water through finely ground coffee under pressure. When a shot of espresso is pulled, all of the components of the crushed coffee beans are extracted by the percolation of hot water through tightly packed and finely ground coffee. The pressurized water extracts soluble and insoluble solids and oils found in the coffee beans and deposits them in the cup. There are two layers to a shot of espresso — the crema (made up of carbon dioxide bubbles surrounded by water and oils) and the liquid (made up of soluble solids, gases and insoluble solids). - [Food Republic] (https://www.foodrepublic.com/2015/04/10/what-exactly-is-espresso/)
+![Espresso Shot Explanation](./images/EspressoFoodRepublic.png)
+
+Espresso is made by forcing a small amount of near-boiling water through finely ground coffee under pressure. When a shot of espresso is pulled, all of the components of the crushed coffee beans are extracted by the percolation of hot water through tightly packed and finely ground coffee. The pressurized water extracts soluble and insoluble solids and oils found in the coffee beans and deposits them in the cup. There are two layers to a shot of espresso — the crema (made up of carbon dioxide bubbles surrounded by water and oils) and the liquid (made up of soluble solids, gases and insoluble solids). - [Food Republic](https://www.foodrepublic.com/2015/04/10/what-exactly-is-espresso/)
 
 
 To put the above within the context of the Nomad machine:
 
-The coffee grounds are placed into the 49 mm basket and then tamped. Water temperature (varys depending on roast level) will be pushed from the reservoir of the Nomad with a hydropump. By see-sawing faster, we will build higher pressure, to create the right amount of pressure for coffee extraction.
+The coffee grounds are placed into the 49 mm basket and then tamped. Water temperature (varys depending on roast level) will be pushed from the reservoir of the Nomad with a hydropump. By see-sawing faster, we will build higher pressure, to create the right amount of pressure for coffee extraction. When you pull a shot, and place it into a premium cup, it can match or exceed most coffee shops.
+
+![Espresso Shot pulled from a Nomad in a Premium Cup](./images/NomadShot.png)
 
 ## Fun and Feel
 
@@ -84,7 +88,7 @@ Uniterra Nomad is a manual machine. I will compare it to other manual machines a
 
 Flair Espresso, Cafelat Robot
 
-The Uniterra Nomad predates these two espresso makers by a bit. Kickstarted in ~2013 and having units shipped in 2014~2015,  when the Flair was done so in 2017 and Cafelat Robot in 2018. Flair has been iterating a lot and improving with every iteration going from Classic, to Signature, to Neo, Pro2 and now Flair 58. There is quite a large community for the Flair and Cafelat Robot, but not yet for the Nomad.
+The Uniterra Nomad predates these two espresso makers by a bit. Kickstarted in about 2013 and having units shipped in 2014 to 2015 time frame,  when the Flair was done so in 2017 and Cafelat Robot in 2018. Flair has been iterating a lot and improving with every iteration going from Classic, to Signature, to Neo, Pro2 and now Flair 58. There is quite a large community for the Flair and Cafelat Robot, but not yet for the Nomad.
 
 #### Some Pros in Favor of Nomad (Manual):
 
@@ -215,7 +219,7 @@ Curt's response on how to clean the Nomad:
 
 There isn't an exact disassembly guide, but I was given a photo of the Nomad's under the hood look.
 
-![Disassembly Guide](/images/NomadDisassemblyGuide.jpg)
+![Disassembly Guide](./images/NomadDisassemblyGuide.jpg)
 
 ### Other Guides
 
@@ -232,7 +236,7 @@ I had my Nomad's gasket fall off in my first week of ownership. I asked Curt abo
 
 ### Limited Print Run for the Taiwan market.
 
-![Limited Nomad](/images/NomadAesthetic.png)
+![Limited Nomad](./images/NomadAesthetic.png)
 There was a custom run as displayed in igniscoffee on Instagram. These were a custom run done by a distributor in Taiwan, no longer in production or available.
 
 ### Precision Baskets
@@ -244,3 +248,9 @@ Brian Quan mentioned that the Nomad's stock baskets were already precision baske
 ### Are there plans for a Powered Nomad?
 
 From Curt "Any kind of a powered unit is a long way off, a year or more."
+
+### About the Creators
+The following blurb was pulled from [CoffeeParts](https://www.coffeeparts.com.au/nomad-green-espresso-maker)
+
+* Dr. Vincent Chen is a research scientist and an inventor of novel machines and technologies. He read Computer Science at University of Massachusetts, Amherst, and earned his Ph.D. at University of California, Irvine with original research on psychophysics of visual perception and computational neuroscience. As a clinical service, Dr. Chen conducted functional brain mapping studies to aid preoperative planning before neurosurgery at Department of Radiology, Children's Hospital Los Angeles. In basic science research, he studied brain mechanisms of vision, language, and pain with fMRI and used computational morphometry to investigate normal and diseased brain. Dr. Chen's life-long interest in drinking, brewing, roasting, and understanding coffee was instrumental in the development of the Nomad.
+* Curt Morgan is a hands-on entrepreneurial engineer with over twenty-five years of experience in the design and development of medical devices and consumer products. He served as principal design engineer for critical care medical devices, exercise and fitness equipment, robotic industrial equipment, and high volume consumer products. In addition to holding positions of design engineer and director of engineering he co-founded an exercise fitness equipment company for which he acted as vice president and engineering manager. Mr. Morgan was instrumental in the design of several multi-million dollar products and has worked almost entirely in the small entrepreneurial start-up space.
