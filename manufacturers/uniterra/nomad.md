@@ -155,7 +155,7 @@ The current Nomad is actually a bit tiny. The only cups that fit under the spout
 
 ### Turbo Shots
 
-A kind of espresso profiling is pulling turbo shots. Turbo Shots are high flow, lower pressure shots. Some Nomad users have reported this to be causing leaks. I have asked Uniterra Nomad about this issue. Curt's response is as follows:
+A kind of espresso profiling is pulling turbo shots. Turbo Shots are high flow, lower pressure shots. Some Nomad users have reported this to be causing leaks. I have asked Uniterra Nomad about this issue. Uniterra's response is as follows:
 
 "The Nomad brew chamber, basket and tray are all intended for a standard espresso shot flow rate.  At much higher flow rates (without the TCV) fluid enters the gray tray faster than it can exit and overflows the side of the tray.  In other words it is not a leak but an overflow condition.  Opening up the TCV port will not improve the situation.  However, enlarging the gray tray output hole will probably improve it."
 
@@ -206,13 +206,13 @@ WIP
 
 ### Longevity Concerns
 
-I asked Curt about Nomad's longevity. I know it is a ~$300 machine, and we don't expect this to last forever, but I wanted to see how long Curt thinks it would last.
+I asked Uniterra about Nomad's longevity. I know it is a ~$300 machine, and we don't expect this to last forever, but I wanted to see how long Uniterra thinks it would last.
 
 "So far Nomads have had a very long life.  Many of the machines we delivered in 2015 are still in use.  I have several friends who are still using their Kickstarter machines.  In addition any part can be replaced including O-Rings, pressure gauge, and the pump can be disassembled and rebuilt."
 
 ### Cleaning The Nomad
 
-Curt's response on how to clean the Nomad:
+Uniterra's response on how to clean the Nomad:
 "Nomad cleaning and maintenance is pretty simple.  After brewing, remove the coffee drawer, separate the parts, dump the coffee grounds and rinse all parts.  Occasionally, once every week or two wipe out the drawer cavity and shower screen with a damp paper towel.  Every couple of weeks it is a good idea to run a tank of cold water through the machine just to flush it out.  Scale build up is usually not a problem if you use filtered water, which we recommend.  If you do want to descale you can use a descaling solution or 50-50 water and vinegar.  Just fill the water reservoir, let sit for a while and then pump through the machine.  Follow this with a tank or two of cold water to flush out the machine.  A drop of two of vegetable oil, like olive oil on the pump shafts will run down into the cylinders and make the pump run easier (every few months)."
 
 ### Disassembly Guide
@@ -228,7 +228,7 @@ There isn't an exact disassembly guide, but I was given a photo of the Nomad's u
 
 ### Gasket
 
-I had my Nomad's gasket fall off in my first week of ownership. I asked Curt about if this was normal.
+I had my Nomad's gasket fall off in my first week of ownership. I asked Uniterra about if this was normal.
 
 "The upper basket O-Ring is silicone.  Replacements are available, usually they remain in place."
 
@@ -241,13 +241,13 @@ There was a custom run as displayed in igniscoffee on Instagram. These were a cu
 
 ### Precision Baskets
 
-Brian Quan mentioned that the Nomad's stock baskets were already precision baskets. In the endgame video, he nonetheless upgraded to Strietman baskets made by IMS. I asked Curt about the ideal dosage that was intended for the Nomad.
+Brian Quan mentioned that the Nomad's stock baskets were already precision baskets. In the endgame video, he nonetheless upgraded to Strietman baskets made by IMS. I asked Uniterra about the ideal dosage that was intended for the Nomad.
 
 "The Nomad filter baskets were custom made for us in either Taiwan or mainland China.  With a little work you can get up to 18 grams in the present basket.  Fill half full, tamp, then fill up to 18 grams and tamp again.  We haven't tried or recommend any other filter baskets for the Nomad."
 
 ### Are there plans for a Powered Nomad?
 
-From Curt "Any kind of a powered unit is a long way off, a year or more."
+From Uniterra "Any kind of a powered unit is a long way off, a year or more."
 
 ### About the Creators
 The following blurb was pulled from [CoffeeParts](https://www.coffeeparts.com.au/nomad-green-espresso-maker)
