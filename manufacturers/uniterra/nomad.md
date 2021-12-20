@@ -223,8 +223,8 @@ There isn't an exact disassembly guide, but I was given a photo of the Nomad's u
 
 ### Other Guides
 
-* [Nomad Pressure Gauge Replacement Instructions Rev. A](/guides/Nomad Pressure Gauge Replacement Instructions Rev. A.pdf)
-* [Nomad Umbrella Valve Replacement Instructions](/guides/Nomad Umbrella Valve Replacement Instructions.pdf)
+* [Nomad Pressure Gauge Replacement Instructions Rev. A](./guides/Nomad%20Pressure%20Gauge%20Replacement%20Instructions%20Rev.%20A.pdf)
+* [Nomad Umbrella Valve Replacement Instructions](./guides/Nomad%20Umbrella%20Valve%20Replacement%20Instructions.pdf)
 
 ### Gasket
 
