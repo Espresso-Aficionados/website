@@ -50,7 +50,7 @@ Espresso is made by forcing a small amount of near-boiling water through finely 
 
 To put the above within the context of the Nomad machine:
 
-The coffee grounds are placed into the 49 mm basket and then tamped. Water temperature (varys depending on roast level) will be pushed from the reservoir of the Nomad with a hydropump. By see-sawing faster, we will build higher pressure, to create the right amount of pressure for coffee extraction. When you pull a shot, and place it into a premium cup, it can match or exceed most coffee shops.
+The coffee grounds are placed into the 49 mm basket and then tamped. Water (varying temperature depending on roast level) will be pushed from the reservoir of the Nomad with a hydropump. By see-sawing faster, we will build higher pressure, to create the right amount of pressure for coffee extraction. When you pull a shot, and place it into a premium cup, it can match or exceed most coffee shops.
 
 ![Espresso Shot pulled from a Nomad in a Premium Cup](./images/NomadShot.png)
 
