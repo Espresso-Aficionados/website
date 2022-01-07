@@ -17,7 +17,9 @@ nav_order: 5
 
 - [James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)	
 
-- [Lucia Solis](https://www.luxia.coffee/)			
+- [Lucia Solis](https://www.luxia.coffee/)
+
+- Michael Cooper @ [Quantitative Cafe](https://quantitativecafe.com)	
 			
 ### **Content Creators of Espresso Aficionados**		
 - [Daniel McG](https://www.youtube.com/channel/UC8wWN4DpfOINKcidzuIqLJQ)		
@@ -27,3 +29,5 @@ nav_order: 5
 - [Shotwell Espresso](https://www.youtube.com/channel/UC6-cJlHk2jhquXAMjVQewIw)
 
 - Jase @ [TheJasonPress](https://www.instagram.com/thejasonpress)
+
+- Jkim makes on [Youtube](https://www.youtube.com/channel/UCbet5_PR5V8bYJ4CoQE34xA) and [Thingiverse](https://www.thingiverse.com/jkim_makes/designs)
