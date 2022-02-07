@@ -19,20 +19,23 @@ In the middle-tier of home espresso grinders, precise alignment from the factory
 At the Varios inception, it came stock with a plastic grind chamber that connected to the upper burr carrier via plastic tabs. While this system was appropriate for the roasts at the time, denser roasts seem to benefit from the extra rigidity and durability that the metal grind chamber from the Forte gives. Swapping out the old grind chamber for the Forte grind chamber gives a "Forteario". **Note: Baratza has since updated the Vario to the Vario+/Vario-W+, which comes stock with the Forte's metal grind chamber. If you buy one of those, you will not need to perform this modification.**
 
 ### What you need
-1. Forte grind chamber
-2. Forte threaded upper burr carrier
+1. Forte grind chamber (part number 1024)
+2. Forte threaded upper burr carrier (part number 1067)
 3. 4 #16 m3x12 pan head screws
 4. Forte BG steel burrs, if desired
 
 
 **In order to get these parts (exept for the steel burrs), you will have to contact Baratza directly through email**. These parts are not available for purchase on their public parts catalog because they have not written a guide to replacement yet as of (2/2022), so contacting them directly will result in the user signing a few waivers before being given the link to buy the parts. Like anything else, do this procedure at your own risk.
 
+For anyone not in US / Canada the parts can be ordered from your local distributor https://baratza.com/international-importers-and-retailers/parts-outside-of-us-and-canada/)
+
 ### Quick steps
-1. Disassemble according to guide in the Methods and Procedures section.
+1. Disassemble according to guide in the Methods and Procedures section or follow the guide on replacing the drive belt and pulley: https://www.youtube.com/watch?v=JhoMt84jxXs&t=476s
 2. Remove the lower burr carrier entirely. This part sits on top of the adjustment cam with gravity, so some careful wiggling and tugging should make this part pop out without much resistance.
 3. Unscrew the 4 screws holding the grind chamber to the black plastic motor plate. Remove the grind chamber. The screws removed from this assembly will **not** work with the new grind chamber.
 4. Install the metal grind chamber, using the new screws. I tightened with a criss-cross pattern, but you will be adjusting this when aligning this yourself anyways so it is not particularly important.
 5. Reinstall the lower burr carrier, being sure to make sure to thread it carefully back into the gear below it attached to the belt-motor assembly that spins it. Wiggle it around a bit until it seems to snap/fall back into place.
+   Ensure the large pulley is re-assembled with the plastic lip on the bottom side.
 
 See [Jakes video](https://www.youtube.com/watch?v=F-6fTjt8Ics) on grind chamber removal!
 
