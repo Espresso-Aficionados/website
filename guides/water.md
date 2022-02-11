@@ -69,7 +69,7 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
 
 
-Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH | KH | Comments
+Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH (mg/L of CaCO<sub>3</sub> equiv.) | KH (mg/L of CaCO<sub>3</sub> equiv.) | Comments
 ------------ | -------------|------------ | -------------| -------------| -------------| -------------| -------------
 “Holy” Water|10 Liter| 1.520 | 0.000 | 0.460 | 62 | 23 | Targeted towards Filter
 " |1 Gallon| 0.575 | 0.000 | 0.174 | 62 | 23 | "
@@ -124,7 +124,7 @@ If scale precision is an issue, 1,000 ppm concentrates can be made by diluting 1
 
 ### GH (aka General Hardness) Concentrates:
 
-Compound | Mass (g) | Water volume (mL) | Concentration in ppm (as CaCO<sub>3</sub>)
+Compound | Mass (g) | Water volume (mL) | Concentration (mg/L of CaCO<sub>3</sub> equiv.)
 -------- | -------- | ------------------ | --------------------
 Magnesium Sulphate Heptahydrate (Epsom Salt) | 24.63 | 1,000 | 10,000
 Magnesium Chloride Dihydrate | 13.11 | 1,000 | 10,000
@@ -136,7 +136,7 @@ Calcium Hydroxide | 7.40 | 1,000 | 10,000
 
 ### KH (aka Carbonate Hardness aka Buffering capacity) Concentrates:
 
-Compound | Mass (g) | Dilute volume (mL) | Concentration in ppm
+Compound | Mass (g) | Dilute volume (mL) | Concentration (mg/L of CaCO<sub>3</sub> equiv.)
 -------- | -------- | ------------------ | --------------------
 Sodium Bicarbonate | 16.79 | 1,000 | 10,000
 Potassium Bicarbonate | 20.00 | 1,000 | 10,000
