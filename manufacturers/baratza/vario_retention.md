@@ -48,7 +48,7 @@ Re-assemble the rest of the grinder in the reverse of disassembly.
 
 Now your grinds should come out dramatically fluffier, with far less retention.
 
-## Vario Sweeper Upgrade
+## Vario Grind Chamber retention
 The sweepers around the lower burr in the Vario are responsible for collecting the fresh grinds and directing them to the exit chute. Unfortunately there's a fair amount of gap around them, between this and the bevilled top of the sweeper arms a ring of grinds are typically left behind around the lower burr in the grind chamber. 
 
 ![Vario Grind Retention](../../images/vario_retention/vario_sweeper_grind_retention.jpg)
@@ -61,50 +61,15 @@ This doesn't help with the ring of grinds seen above however, and doesn't work i
 
 Whether the ring is just retention or exchanged with new grinds during use is up for debate, but regardless it would be better to avoid entirely if possible.
 
-On solution to this is to make the sweepers larger, so the gap between them and the chamber is reduced. 
+A solution to this is to make the sweepers larger, so the gap between them and the chamber is reduced. 
 
-This can be done easily with short sections of 6mm heatshrink tubing. You'll want this to be as thin-walled as possible so it can fit between the sweeper arms and the burrs, so avoid the stuff with glue inside.
+@bakafish on home-barista.com cut little strips of "name card" and attached them to the side of the sweeper with double sided tape.
+https://www.home-barista.com/grinders/baratza-vario-post-flapper-mod-retention-t68589-10.html#p751751
 
-![Heatshrink](../../images/vario_retention/vario_sweeper_heatshrink.jpg)
+On the same thread, @baldheadracing cut a strip of plastic from a disposable cup and wrapped that around the sweeper.
+![Sweeper plastic source](../../images/vario_retention/sweeper_plastic_source.jpg)
+![Sweeper plastic](../../images/vario_retention/sweeper_plastic.jpg)
 
-I generally only grind for espresso (macro 2) and very occasionally Aeropress (~ macro 6) so I also extended the sweepers down a bit deeper too.
-
-If you grind for filter / macro=9 or 10 you can just skip the extensions.
-
-Start by cleaning out the grind chamber (brush / vaccuum) and unscrew the lower burr. 
-
-With the burr out, make sure you really clean out all grinds from the lower carrier and all the nooks / screw holes on the burr itself - you don't want any grinds left under the burr when you reassemble or the alignment will be compromised.
-
-Cut some short pieces heatshrink the same height as the burr.
-
-If desired, cut out some sweeper extenders from some thin plastic, I used the lid of a 1kg yoghurt container (similar to ice cream container material)
-
-![Vario Sweeper Parts](../../images/vario_retention/vario_sweeper_parts.jpg)
-
-My extension pieces were 2.5mm wide by 13mm long.
-
-Slip the heatshrink onto the sweeper arms / lower burr carrier posts and feed the extensions down the side of them. 
-
-![Vario Sweeper Parts in place](../../images/vario_retention/vario_sweeper_parts_assembled.jpg)
-
-Make sure the extensions are on the leading face of the arms (burr rotates counter-clockwise) so the angle of them is going to push grinds towards the outside of the chamber.
-
-Set the macro lever to one setting courser then you ever want to use, then push the extensions down until they just touch the bottom of the chamber.
-
-Then install the burr again, being careful not to crush the heatshrink.
-
-Note: I could only fit heatshrink on two of the arms, I could not get the burr on with all three. So I've only extended these two. It would probably work pretty well with only one extended really, though the more the better I figure. 
-
-While attempting to fit the burr with all three I removed my lower carrier from my machine, but you shouldn't need to normally. This is what it looks like up close however:
-
-![Vario Sweeper Carrier](../../images/vario_retention/vario_sweeper_carrier.jpg)
-
-With the burr screwed back in you can now shink the tubing. I used a hairdriver on its hottest setting. A heat gun would work well too, just be careful not to melt the plastic extenders or anything else around the grind chamber.
-
-It's important to not shrink the tubing without the burr in place as the material gets thicker as it shrinks, we don't want extra thickness between the arms and the burr. 
-
-![Vario Sweeper Carrier](../../images/vario_retention/vario_sweeper_extended.jpg)
-
-With the heatshrink and extenders in place I'm pretty sure they still weren't actually touching the walls of the grind chamber on mine, but gee they were close. Certainly close enough to really minimise any possible retention.
-
-With that, it's all done! Just re-install the top burr and hopper and make yourself a celebration coffee!
+A similar modification has been attempted by using heatshrink tubing to attach plastic strips the the sweepers. However a few weeks later the motor in that Vario burnt out. While the reason is unconfirmed, there's a possibility
+that if the sweepers get extended too close to the walls of the chamber, grinds might jam in between adding strain
+to the motor. This is a risk that should be taken into account in any modifications in this area.
