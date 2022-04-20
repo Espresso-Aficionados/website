@@ -89,7 +89,7 @@ Breville machines come packed with features out of the box at a range of prices.
 
 #### Cons:
 - Higher cost than the regular bambino
-- Pre-infusion is not as flexible as Breville thermoblock machines (limited to 10 seconds)
+- Pre-infusion is the same as the regular Bambino (limited to 10 seconds)
 
 ### **Breville Infuser** ([$579.95](https://www.breville.com/us/en/products/espresso/bes840.html))
 #### Pros:
