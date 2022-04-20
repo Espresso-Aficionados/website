@@ -83,7 +83,7 @@ Breville machines come packed with features out of the box at a range of prices.
 ### This is the same as  Bambino with slightly better build quality and the addition of an automatic milk steaming wand with adjustable temperature and texture.
 #### Pros:
 - Same as Bambino including:
-- A robust automatic steaming wand, making steaming a foolproof process
+- A robust automatic steaming wand that makes steaming a foolproof process
 - 64oz water jug compared to 47 oz of the Bambino
 - Comes with cleaning tool/disc for easier maintenance
 
