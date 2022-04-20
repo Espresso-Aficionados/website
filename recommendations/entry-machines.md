@@ -73,20 +73,23 @@ Breville machines come packed with features out of the box at a range of prices.
 #### Pros:
 - Very affordable; lowest cost for a new machine to produce great espresso
 - PID Controlled temp (single setting, 200F)
+- Integrated OPV set to 9 bar
+- Comes with single and dual wall baskets
 
 #### Cons:
-- Single wall basket not included
-- High pressure shots out of the box with single wall baskets (~15 bar)
-- Pre-infusion is not as flexible as the other Breville machines listed.
+- Pre-infusion is not as flexible as Breville thermoblock machines (limited to 10 seconds)
 
 ### **Breville Bambino Plus** ([$500](https://www.breville.com/us/en/products/espresso/bes500.html))
+### This is the same as  Bambino with slightly better build quality and the addition of an automatic milk steaming wand with adjustable temperature and texture.
 #### Pros:
-- PID Controlled temp (single setting, 200F)
-- Has a robust automatic steaming wand, making steaming a foolproof process
-- Manual pre-infusion possible, unlike the basic Bambino
+- Same as Bambino including:
+- A robust automatic steaming wand, making steaming a foolproof process
+- 64oz water jug compared to 47 oz of the Bambino
+- Comes with cleaning tool/disc for easier maintenance
 
 #### Cons:
-- Higher cost than the regular bambino.
+- Higher cost than the regular bambino
+- Pre-infusion is not as flexible as Breville thermoblock machines (limited to 10 seconds)
 
 ### **Breville Infuser** ([$579.95](https://www.breville.com/us/en/products/espresso/bes840.html))
 #### Pros:
