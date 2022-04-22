@@ -29,6 +29,8 @@ At the Varios inception, it came stock with a plastic grind chamber that connect
 
 For anyone not in US / Canada the parts can be ordered from your local distributor https://baratza.com/international-importers-and-retailers/parts-outside-of-us-and-canada/)
 
+Many of these parts can also be purchased from aftermarket parts suppliers like https://www.coffeeparts.com.au/, often by simply searching "Baratza" and the part number you'll find alternate suppliers in google.
+
 ### Quick steps
 1. Disassemble according to guide in the Methods and Procedures section or follow the guide on replacing the drive belt and pulley: https://www.youtube.com/watch?v=JhoMt84jxXs&t=476s
 2. Remove the lower burr carrier entirely. This part sits on top of the adjustment cam with gravity, so some careful wiggling and tugging should make this part pop out without much resistance.
@@ -39,8 +41,36 @@ For anyone not in US / Canada the parts can be ordered from your local distribut
 
 See [Jakes video](https://www.youtube.com/watch?v=F-6fTjt8Ics) on grind chamber removal!
 
+### Upgrade to Forte Belt
+The Forte and Vario both use the same motor, but a different belt & pulley combination provide the extra speed (and likely torque) available on the Forte. The Forte uses a standard GT3 timing belt (model: 3MR 240 9mm) with 3mm pitch semicircular teeth. 
+The vario uses a "B113MXL - 9mm" belt with smaller / trapezoidal 0.08″ pitch teeth. The larger teeth on the Forte GT3 belt means they're less likely to slip under load.
 
-## Why this method works
+Vario:
+No Load Burr Speed: 1350 RPM
+* Motor pulley: 18 teeth
+* Main pulley: 96 teeth
+Drive ratio: 5.33
+
+Forte: 
+No Load Burr Speed: 1950 RPM
+* Motor pulley: 17 teeth
+* Main pulley: 68 teeth
+Drive ratio: 4.0
+
+#### Parts list to add Forte belt drive
+1. Main Drive Pulley With Metal Sleeve (part number 1056)
+2. GT3 Motor Drive Pulley (part number 1090)
+3. GT3 Belt (part number 1027)
+4. Forte Motor Tensioner Plate (part number 1292)
+
+Swapping out these parts is easiest to do while replacing the grind chamber (above). The main pulley has a larger diameter than the 
+Vario one and can't be simply slipped through the belt opening in the main chamber section as seen in the belt & pulley replacement
+video above, the chamber will need to be unscrewed to fit the drive wheel (with belt sitting around it).
+
+The Forte motor pulley has a stepped hole in it for the motor shaft, such that it sits over the end of the motor shaft. This means the motor needs to be dropped down a bit to make the pulley line up with the chamber. 
+The "Forte Motor Tensioner Plate" acts as the required spacer, dropping the motor the appropriate ammount. Alternatively a 5mm to 6mm thick plate with appropriate holes drilled for screws and motor shaft can be added between the motor and the chassis.
+
+## Alignment: Why this method works
 
 This method of alignment assumes a few things.
 1. The burr carriers and back of the burrs are flat.
@@ -48,7 +78,7 @@ This method of alignment assumes a few things.
 
 The traditional methods of DIY alignment is typically to shim the burrs/burr carrier or to sand the burr carrier and grind chamber with the burrs aligned to each other. The Alicorn alignment, however, is specific to the Vario's design of being a belt-driven lower burr carrier with grind adjustment moving that same part. As far as I can tell, this trait is unique to the Vario/Forte. For a visual explanation of what this method is doing, check out [this page](https://www.home-barista.com/grinders/baratza-vario-super-alignment-owner-experience-t60764-30.html) on HomeBarista from the creator of the procedure, Jake G. The short of it is, the lower burr carrier is pulled out of alignment by the drive belt tension. By squeezing the burrs together after loosening the belt and grind chamber position, you are pulling the loosened grind chamber to be aligned within the looseness allowed by the bushings. Re-tightening the belt and subsequently re-referencing the burrs again will load the bushings, so tightening the grind chamber to the motor plate now will leave the grinder aligned. This method takes advantage of the system flexibility granted by using a flexible drive belt and a semi-mobile grind chamber, two design choices that are rare on other grinders. 
 
-## Methods and Procedures
+## Alignment Methods and Procedures
 
 **Tools**
 
