@@ -5,8 +5,8 @@ parent: Guides
 nav_order: 3
 ---
 
-# What is Profiling?
-The ordinary definition of profiling in espresso seems to be: 'Adjusting the flow, pressure, or temperature in a shot to manipulate the extraction and produce a different result.' There are a number of different ways to accomplish this depending on available equipment. My preffered use for profiling is modulating the evenness of my extraction to achieve a desired taste profile.
+# What is Profiling
+A reasonable defintion of profiling is: 'The act of consciously gathering data on metrics during an espresso extraction, or recording a profile.' Because the colloliquial definition appears to be more about following a profile, i.e., 'Adjusting the flow, pressure, or temperature in a shot to manipulate the extraction and produce a different result,' I'll use the term profiling to mean 'following a profile.' There are a number of different ways to accomplish this depending on available equipment. My preferred use case for profiling is modulating the evenness of my extraction to achieve a desired taste profile.
 
 ## Some quick definitions
 * Water Debit
@@ -26,7 +26,7 @@ This section is here because it is important to understand that ANY system can b
 There are now a number of machines and mods that allow on the fly control for the end user. These adjustable profilers have one primary benefit worth considering; they decouple the relationship between grind size and flow rate to a certain degree. This allows us to make espresso beverages with really finely or coarsely ground coffees. The effective result is that we can boost extraction, clarity, or strength along with some other taste parameters.
 
 ### Flow Control
-Most control interfaces are really controlling flow. I find it easier to think about espresso dialing through flow rates and not pressure levels, but that's because my primary machine has a needle valve that pretty directly controls the free flow rate of water. The actual flow rate during extraction is a function of the puck resistance and the input flow rate; if there is more flow than the puck can allow through at ambient pressure, pressure builds up. This slows the flow down below the debit rate but I describe valve positions by debit to make life easier.
+Most control interfaces are really controlling flow. I find it easier to think about espresso dialing through flow rates and not pressure levels, but that's because my primary machine has a needle valve that pretty directly controls the free flow rate of water. The actual flow rate during extraction is a function of the pressure at the puck and the input flow rate; if there is more flow than the puck can allow through at ambient pressure, pressure builds up. As an example, you can deal with a choked shot (one that isn't flowing at the desired output rate) by reducing flow, which subsequently reduces pressure and allows the puck to relax. After the shot starts flowing again the puck dyanmics have changed and more flow can be added without the shot choking again.
 
 ### Pressure Control
 Some machines either directly or indirectly control pressure instead of flow. A good example is the La Marzocco GS3 MP which uses a conical valve to shunt excess flow once the desired pressure is reached. Translating flow profiles into pressure profiles is possible using either charts from a decent or watching extractions that show a pressure gauge on something like a bianca.
@@ -40,7 +40,7 @@ Direct and spring levers make excellent profiling machines. Direct levers work v
 # How to Profile
 
 ## What is extraction? How about TDS?
-Extraction is the percentage of soluble mass that left your coffee puck and ended up in the beverage. TDS is the percentage of the final beverage that is coffee and not water.
+Extraction is the percentage of soluble mass that left your coffee puck and ended up in the beverage. Total Dissolved Solids (TDS) is the percentage of the final beverage that is made up of dissolved coffee solids and not water.
 
 Here's a simple example. If you have a 20g puck and a 10% TDS from a 1:2 ratio, you have moved 4 grams of coffee into the cup and therefore extracted 20% of the mass. How do I know this? The equation for estimating extraction from the ratio and TDS is 
 `EY = (brewed coffee weight * TDS) / (dry grounds weight)`
@@ -85,16 +85,17 @@ The percolation phase is where the magic happens. Water is flowing through the c
    \>2ml/s in the cup
 
 ### Taper
-Towards the end of many shots, you've lost 20% or more of the original mass of the coffee puck. If your puck integrity is degrading unreasonably, your flow rate is faster than you wanted, and/or channels are forming you can start to reduce flow and allow those problems to be corrected. Channeling is starting to seem like it is perhaps a little harder to define and identify than previously thought, so be aware that simply looking at the bottomless is not likely to tell you how severe your channeling issues are. Look for flavors that may be linked to channeling like excess bitterness or astringency rather than spritzers or 'bald spots' (which are simply caused by lower viscosity fluid towards the end of extraction.) Please note that just because a shot visually appears to need a taper doesn't mean that it does. Even extractions can still accelerate wildly at the end.
+Towards the end of many shots, you've lost 20% or more of the original mass of the coffee puck. If your puck integrity is degrading unreasonably, your flow rate is faster than you wanted, and/or channels are forming you can start to reduce flow and/or pressure and allow those problems to be corrected. Channeling is starting to seem like it is perhaps a little harder to define and identify than previously thought, so be aware that simply looking at the bottomless is not likely to tell you how severe your channeling issues are. Look for flavors that may be linked to channeling like excess bitterness or astringency rather than spritzers or 'bald spots' (which are simply caused by lower viscosity fluid towards the end of extraction.) Please note that just because a shot visually appears to need a taper doesn't mean that it does. Even extractions can still accelerate wildly at the end.
 
 ## Picking suitable profiles
 One of the hardest things about making high and even extractions with an adjustable profiler is getting the coffee wetted relatively evenly. The first two stages of the profile you pick have a large impact on how extreme the gradient between the top and bottom of the puck is. I'm an advocate for rapid fill and short hold schemas; they get the coffee wet from top to bottom quickly and allow the user to move on to the next phase with no ill effects. Because there is a relatively large gradient of wetness in the puck using very slow filling profiles, I tend to avoid recommending this method.
 
 We've already covered the primary benefit you can derive from using a profiler. As a reminder, you can adjust the flow rate through your coffee more independtly of the grind size. In order to pick our profile, we're determining what level of extraction we want for our chosen strength and then modulating our design for clarity or texture balance. If I want a 10% TDS shot at 28% extraction with reasonably high clarity, there is probably only one profile capable of doing this.
 
-Simply put, I recommend 5 base profiles that are fairly adaptable. They're listed here from high to low extraction.
+Simply put, I recommend a few base profiles that are fairly adaptable. They're listed here from high to low extraction.
 
 1. Blooming allongé 
+   
    Recommended for ultra light coffees and exceptionally high flavor clarity, especially when brewing nordic style filter roasts. I use an ultra fine or turkish grind and don't recommend this profile if your grinder isn't very well aligned. My current method is to use my known debit and a timer to add a little less than twice the dry weight of the puck in water as quickly as is reasonable (7ish ml/s) before closing the valve. I leave the valve closed until pressure returns to 1 bar and generally see about 4-10g in the cup at this point. If you're using a pressure profiler, try starting by ramping to 4-5 bar and then slow ramp back to 1-2 bar. I ramp to a debit of about 4.5 ml/s quite quickly and hold. Pressure rarely exceeds 6 bar and should taper naturally.
 
    This profile is best used when you want fairly high flavor clarity but still require extremely high extraction. The texture will be relatively thin and filter like.
