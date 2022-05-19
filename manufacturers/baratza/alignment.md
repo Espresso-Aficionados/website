@@ -62,13 +62,18 @@ Drive ratio: 4.0
 2. GT3 Motor Drive Pulley (part number 1090)
 3. GT3 Belt (part number 1027)
 4. Forte Motor Tensioner Plate (part number 1292)
+5. M5 x 12mm socket head cap or round button head Screws
 
 Swapping out these parts is easiest to do while replacing the grind chamber (above). The main pulley has a larger diameter than the 
 Vario one and can't be simply slipped through the belt opening in the main chamber section as seen in the belt & pulley replacement
 video above, the chamber will need to be unscrewed to fit the drive wheel (with belt sitting around it).
 
 The Forte motor pulley has a stepped hole in it for the motor shaft, such that it sits over the end of the motor shaft. This means the motor needs to be dropped down a bit to make the pulley line up with the chamber. 
-The "Forte Motor Tensioner Plate" acts as the required spacer, dropping the motor the appropriate ammount. Alternatively a 5mm to 6mm thick plate with appropriate holes drilled for screws and motor shaft can be added between the motor and the chassis.
+The "Forte Motor Tensioner Plate" acts as the required spacer, dropping the motor the appropriate ammount.  
+
+Alternatively a 5mm to 6mm thick plate with appropriate holes drilled for screws and motor shaft can be added between the motor and the chassis. Note the "Forte Motor Tensioner Plate" is fastened to the motor with two extra screws, if a diy spacer is used you'll likely need to source M5 x 16mm screws with enough length to add the spacer.
+
+Lastly, the forte motor pulley has a larger diamter than the original vario one, this combined with the thicker belt can mean the belt rubs against the original M5 flat blade screws that are used to fasten the motor to the chassis. For this reason it's worth trying to find M5 screws with a smaller socket head or flatter/rounder button head to replace the screws fastening the motor down.
 
 ## Alignment: Why this method works
 
