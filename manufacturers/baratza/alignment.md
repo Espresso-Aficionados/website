@@ -75,13 +75,18 @@ Alternatively a 5mm to 6mm thick plate with appropriate holes drilled for screws
 
 Lastly, the forte motor pulley has a larger diamter than the original vario one, this combined with the thicker belt can mean the belt rubs against the original M5 flat blade screws that are used to fasten the motor to the chassis. For this reason it's worth trying to find M5 screws with a smaller socket head or flatter/rounder button head to replace the screws fastening the motor down.
 
-## Alignment: Why this method works
+## Alignment: Why the Alicorn method works
 
 This method of alignment assumes a few things.
 1. The burr carriers and back of the burrs are flat.
 2. The lower burr carrier spins true in its axis of rotation (something isn't warped in that lower assembly)
 
-The traditional methods of DIY alignment is typically to shim the burrs/burr carrier or to sand the burr carrier and grind chamber with the burrs aligned to each other. The Alicorn alignment, however, is specific to the Vario's design of being a belt-driven lower burr carrier with grind adjustment moving that same part. As far as I can tell, this trait is unique to the Vario/Forte. For a visual explanation of what this method is doing, check out [this page](https://www.home-barista.com/grinders/baratza-vario-super-alignment-owner-experience-t60764-30.html) on HomeBarista from the creator of the procedure, Jake G. The short of it is, the lower burr carrier is pulled out of alignment by the drive belt tension. By squeezing the burrs together after loosening the belt and grind chamber position, you are pulling the loosened grind chamber to be aligned within the looseness allowed by the bushings. Re-tightening the belt and subsequently re-referencing the burrs again will load the bushings, so tightening the grind chamber to the motor plate now will leave the grinder aligned. This method takes advantage of the system flexibility granted by using a flexible drive belt and a semi-mobile grind chamber, two design choices that are rare on other grinders. 
+The traditional methods of DIY alignment is typically to shim the burrs/burr carrier or to sand the burr carrier and grind chamber with the burrs aligned to each other. The Alicorn alignment, however, is specific to the Vario's design of being a belt-driven lower burr carrier with grind adjustment moving that same part. As far as I can tell, this trait is unique to the Vario/Forte.  
+
+For a visual explanation of what this method is doing, check out [this page](https://www.home-barista.com/grinders/baratza-vario-super-alignment-owner-experience-t60764-30.html) on HomeBarista from the creator of the procedure, Jake G.  
+This [short clip](https://youtu.be/67GnzsbncmE) may help to explain the process as well.
+
+The short of it is, the lower burr carrier is pulled out of alignment by the drive belt tension. By squeezing the burrs together after loosening the belt and grind chamber position, you are pulling the loosened grind chamber to be aligned within the looseness allowed by the bushings. Re-tightening the belt and subsequently re-referencing the burrs again will load the bushings, so tightening the grind chamber to the motor plate now will leave the grinder aligned. This method takes advantage of the system flexibility granted by using a flexible drive belt and a semi-mobile grind chamber, two design choices that are rare on other grinders. 
 
 ## Alignment Methods and Procedures
 
@@ -104,6 +109,8 @@ The original method, written up by Jake G. All other methods I view as supplemen
 [LINK](https://www.home-barista.com/grinders/baratza-vario-super-alignment-owner-experience-t60764-10.html)
 
 Extra Notes: Regarding step 6, I personally found it helpful not to adjust the coarse adjustment screw (the one on the brass wedge) and to tighten the calibration screw closer to the front of the grinder after loosening the grind chamber screws. When you loosen the grind chamber, the grind adjustment levers need further travel in order to make the burrs touch. When you tighten the grind chamber, expect the lever arms to not have to travel as far for burr contact and for the levers to rise if you keep the burrs touching. After full assembly, you will have to recalibrate the touch point to your desired setting. 
+
+Another video of the entire process is available [here](https://youtu.be/UO2GpVWSJu8).
 
 ### Method 2: Shay's workflow  
 
