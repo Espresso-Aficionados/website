@@ -13,6 +13,8 @@ If you are having issues maintaining puck integrity throughout the duration of t
 
 **NOTE**: This guide is useful for **Breville Infuser** and **Barista Express** users, as these machines have an in-built gauge that will guide your dialling in. Additionally, this technique requires the user to hold the machine in pre-infusion (PI) mode throughout the shot, which appears to only be possible on machines with the older thermoblock design. The newer "thermojet" machines like the **Bambino Plus** and **Breville Pro** machines do not seem to have the ability to hold PI mode for more than 10 seconds. As such, this PI-only technique is unfortunately not possible on these machines. 
 
+If you have any of the other Breville machines, or any espresso machine with a vibratory pump for that matter, an alternative to achieving better control of puck pressures is via [modifying your machine with a dimmer.](https://espressoaf.com/manufacturers/breville/dimmer.html)
+
 ### Testing your machine’s capability to build enough pressure in pre-infusion (PI) mode.
 With your cleaning disc/blind disc in the portafilter, hold down either the 1-cup or 2-cup button to keep the pump in PI. Let pressure build until the needle stops moving (this may take around 30s). Take note of what pressure is reached when the needle stabilises - this is the max 'PI' pressure your machine can achieve. To stop the shot, let go of the button and press it once more.
 
