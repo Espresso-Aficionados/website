@@ -106,7 +106,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 **The Not So Good:**
  - Small service boiler, so you may run out of steam power if doing multiple drinks back to back. Recovery time is short because of its small size, but something to keep in mind.
 - Only one pump, so dispensing hot water and brewing simultaneously is not recommended (or necessarily possible).
-- The stock tamper is a crappy nylon one, which isn't really forgiveable at this price point. 
+- The stock tamper is a crappy nylon one, which isn't really forgivable at this price point. 
  
 
 ### Ascaso Steel Duo PID ($1625 US) 
@@ -169,7 +169,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Like almost every E61 machine, it lacks programmable shot times or volumes (if that matters to you).
 - The stock feet are, unfortunately, quite bad.
 
-### Bezzera BZ13 PM ($1550 US, more in Europe)
+### Bezzera BZ13 PM ($1550 US via Whole Latte Love)
 *In Short:* The only other Heat Exchanger I'd recommend, solely because of its relatively small size and quick heatup time. It's also the cheapest option here and by far the cheapest Italian built machine.
 
 **The Good:**
@@ -178,6 +178,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - No burn steam wand, 2 hole tip as stock. Should take standard M8.5x0.75 steam tips. 
 - Small footprint. 
 - NSF rated, so *technically* it could used in a *very* low volume commercial setting - though I wouldn't recommend it.
+- Joystick controlled steam and hot water
 
 **The Not So Good:**
 - Boiler is relatively small at 1.5L
@@ -213,7 +214,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Same no-burn steam wand as most other E61 machines in this range. 
 
 **The Not So Good:**
-- Pressurestat control of the steam boiler, so a cooling flush is necessary if it sits idle.
+- Pressurestat control of the steam boiler has a large deadband and is isolated from the brew loop, so a cooling flush is necessary if it sits idle.
 - Not recommended for its lack of features vs price. 
 
 ### Nuova Simonelli Oscar II ($1400 US)
