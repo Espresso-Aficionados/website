@@ -5,7 +5,7 @@ parent: Guides
 nav_order: 10
 ---
 
-# Recommended Accessories
+# Sprobot Guide
 
 The following is a guide to using sprobot, the Espresso Aficionados profile bot
 
