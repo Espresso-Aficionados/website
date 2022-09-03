@@ -42,6 +42,7 @@ To edit your profile:
 
 1. Run `/editprofile' or `/editroaster`
 2. Fill in the form!
+
 ![Run Edit Profile](/images/sprobotguide/runeditprofile.png){:height="50%" width="50%"}
 
 
@@ -50,6 +51,7 @@ To edit your profile:
 2. Right click on the image, or Long Press on mobile
 3. Click on `Apps >`.
 3. Click on either `Save as Coffee Setup Image` or `Save as Roaster Setup Image`. 
+
 ![Save Image](/images/sprobotguide/saveimage.png){:height="50%" width="50%"}
 ![Mobile Long Press](/images/sprobotguide/long_press.png){:height="50%" width="50%"}
 ![Mobile Menu](/images/sprobotguide/mobile_menu.png){:height="50%" width="50%"}
