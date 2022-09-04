@@ -16,7 +16,7 @@ How to view someone's profile.
 ### Context / Right Click Menus
 
 To access someone's profile via the context menu:
-1. Right Click on their post. Long Press on mobile. 
+1. Right Click on their post or on their name in the User List. Long Press on mobile. 
 2. Click on `Apps >`.
 3. Click on either `Get Coffee Setup Profile` or `Get Roaster Setup Profile`.
 
