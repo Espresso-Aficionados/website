@@ -55,8 +55,3 @@ To edit your profile:
 ![Save Image](/images/sprobotguide/saveimage.png){:height="50%" width="50%"}
 ![Mobile Long Press](/images/sprobotguide/long_press.png){:height="50%" width="50%"}
 ![Mobile Menu](/images/sprobotguide/mobile_menu.png){:height="50%" width="50%"}
-
-
-### Saving a profile image via `/editprofile`
-1. After running `/editprofile` or `/editroaster` you can paste a direct link to an image in the last field. 
-2. Consider just using the Right Click menu.
