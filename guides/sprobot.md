@@ -48,7 +48,7 @@ To edit your profile:
 
 ### Saving a profile image via Right Click
 1. Post an image, maybe in #setups
-2. Right click on the image, or Long Press on mobile
+2. Right click on the post (**NOT** the image itself), or Long Press on mobile
 3. Click on `Apps >`.
 3. Click on either `Save as Coffee Setup Image` or `Save as Roaster Setup Image`. 
 
