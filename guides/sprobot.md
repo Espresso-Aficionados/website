@@ -55,3 +55,14 @@ To edit your profile:
 ![Save Image](/images/sprobotguide/saveimage.png){:height="50%" width="50%"}
 ![Mobile Long Press](/images/sprobotguide/long_press.png){:height="50%" width="50%"}
 ![Mobile Menu](/images/sprobotguide/mobile_menu.png){:height="50%" width="50%"}
+
+## Deleting Profile or Image
+
+**THIS IS PERMANENT, WE CANNOT GET IT BACK**
+
+1. Run `/deleteprofile` or `/deleteroaster. 
+2. Select whether you want to delete your entire profile, or just the image associated with it. 
+3. Confirm
+
+![Delete Profile](/images/sprobotguide/delete_profile.png){:height="50%" width="50%"}
+
