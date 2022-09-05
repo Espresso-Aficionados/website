@@ -60,7 +60,7 @@ To edit your profile:
 
 **THIS IS PERMANENT, WE CANNOT GET IT BACK**
 
-1. Run `/deleteprofile` or `/deleteroaster. 
+1. Run `/deleteprofile` or `/deleteroaster`. 
 2. Select whether you want to delete your entire profile, or just the image associated with it. 
 3. Confirm
 
