@@ -1,3 +1,10 @@
+---
+layout: default
+title: Glossary of Espresso and Coffee Terminology
+parent: Information
+nav_order: 3
+---
+
 # Glossary of Espresso and Coffee terminology
 
 ## Burrs ##	
