@@ -58,9 +58,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -69,9 +69,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -80,9 +80,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -91,9 +91,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -103,9 +103,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -114,9 +114,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
+![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -154,8 +154,8 @@ _LU vs HU outer edge_
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
+![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
+![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
 
 </details>
 
@@ -164,9 +164,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 ULF](../images/Burr_catalog/
+![Image of SSP 98 ULF](../images/Burr_catalog/
+![Image of SSP 98 ULF](../images/Burr_catalog/
 
 </details>
 
@@ -175,7 +175,7 @@ empty
 <summary>Images</summary>
 
 A burr that was made before the 98 LU/HU split. Basically a 98HU with LU prebreakers. 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98OLD.JPG)
+![Image of SSP 98 OLD](../images/Burr_catalog/SSP98OLD.JPG)
 
 </details>
 
@@ -184,9 +184,9 @@ Empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of(../images/Burr_catalog/
+![Image of EK43OLD](../images/Burr_catalog/
+![Image of EK43OLD](../images/Burr_catalog/
 
 </details>
 
@@ -195,9 +195,9 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of EK43NEW](../images/Burr_catalog/
+![Image of EK43NEW](../images/Burr_catalog/
+![Image of EK43NEW](../images/Burr_catalog/
 
 </details>
 
