@@ -14,10 +14,15 @@ Burrs are what makes your coffee beans turn into a usefull substance to make cof
 
 This wiki page contains an overview of existing high-perfomance burrs. Many of which are not made by the OEM of the grinder, but a third party. SSP Grinding is a big player here. We also cover some exceptional burrs from OEM. Mahlkönig / Ditting has a long track record of designing excellent burrs, which look like the basis for many SSP burrs (not getting into legal issues here).
 
-There are hundreds of 'standard-espresso' design burrs. We won't cover those, since most of them perform relatively the same, creating a lot of fines and not a very uniform, or unimodal grind. 
+There are hundreds of 'standard-espresso' design burrs. We won't cover those, since most of them perform relatively the same, creating a lot of fines and not a very uniform, or unimodal grind.
+
+<details>
+<summary>'standard' burr image</summary>
 
 ![Image of a standard Italmill burr](../images/Burr_catalog/standard_burr_italmill.png)
 _"Standard espresso burr" - this one is from ItalMill (DF64 stock)_
+
+</details>
 
 We also won't cover conical burrs, due to reasons above & lack of availability of high-perfomance burrs outside OEM.
 
