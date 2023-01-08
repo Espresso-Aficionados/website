@@ -8,7 +8,7 @@ nav_order: 12
 # The Burr Catalog
 ## An attempt to understand the naming scheme
 
-Burrs are what makes your coffee beans turn into a usefull substance to make coffee out of, be it espresso, pour over, moka pot or Aeropress. The 'grinder' itself is only a tool to enable the burrs to do their thing. As long as any grinder A, B or C is able to spin burr X in a good fashion, theoretically, they should perform identically in the cup. Atleast that is the notion of behind high perfomance burr manufacturers. Other factors are RPM, [Burr alignment](#alignment), bean feed speed, static-screen (causes 'regrinding') and possibly many more.
+Burrs are what makes your coffee beans turn into a usefull substance to make coffee out of, be it espresso, pour over, moka pot or Aeropress. The 'grinder' itself is only a tool to enable the burrs to do their thing. As long as any grinder A, B or C is able to spin burr X in a good fashion, theoretically, they should perform identically in the cup. Atleast that is the notion behind high perfomance burr manufacturers. Other factors are RPM, [Burr alignment](#link), bean feed speed, static-screen (causes 'regrinding') and possibly many more.
 
 ## High perfomance burrs
 
@@ -34,7 +34,7 @@ Geometery basics:
 
 Prebreakers marked Red -- Flats marked white:
 
-![Image pointing out prebreakers](../images/Burr_catalog/prebreaker.jpg)
+![Image pointing out prebreakers](../images/Burr_catalog/prebreaker.jpg){width=300 height=300}
 _Prebreakers & flats on a standard EK43 98mm burr_
 
 
@@ -46,38 +46,122 @@ _Prebreakers & flats on a standard EK43 98mm burr_
 ## Overview of 64mm burrs
 
 ### SSP 64 HU
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### SSP 64 MP
+
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### SSP 64 Brew
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### SSP 64 Cast (Lab Sweet)
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
 
 ## Overview of 80mm burrs
 ### Ditting/MK 80 Lab Sweet (Cast)
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### EG-1 Core 
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### ??
 
 ## Overview of 83mm burrs
-### - ..?
+###  SSP 83 ??
 
 ## Overview of 98mm Burrs
 ### SSP 98 HU
+SSP98 HU 'newer style' 
+
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
+SSP98 HU 'older style'
+<details>
+ <summary>Images</summary>
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_FRONT.JPG)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_SIDE.JPG)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
 _LU vs HU outer edge_
-
+</details>
 
 
 ### SSP 98 LU
+<details>
+<summary>Images</summary>
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
+</details>
+
 ### SSP 98 ULF / Brew / wtf?
+<details>
+<summary>Images</summary>
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
 
 ### SSP 98 'OLD' 
+<details>
+<summary>Images</summary>
 A burr that was made before the 98 LU/HU split. Basically a 98HU with LU prebreakers. 
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98OLD.JPG)
+</details>
 
 ### EK43 pre 2015
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
 ### EK43 post 2015
+<details>
+<summary>Images</summary>
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+</details>
+
+
+<details>
+<summary>Images</summary>
+</details>
+
+
