@@ -34,9 +34,9 @@ Geometery basics:
 
 Prebreakers marked Red -- Flats marked white:
 <details>
-<summary>'standard' burr</summary>
+<summary>Prebreakers & Flats</summary>
 
-![Image pointing out prebreakers](../images/Burr_catalog/prebreaker.jpg)
+![Image pointing out prebreakers](../images/Burr_catalog/prebreaker_flat.jpg)
 _Prebreakers & flats on a standard EK43 98mm burr_
 
 </details>
