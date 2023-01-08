@@ -33,10 +33,13 @@ How to identify burrs? Let's start with the basis:
 Geometery basics:
 
 Prebreakers marked Red -- Flats marked white:
+<details>
+<summary>'standard' burr</summary>
 
-![Image pointing out prebreakers](../images/Burr_catalog/prebreaker.jpg){width=300 height=300}
+![Image pointing out prebreakers](../images/Burr_catalog/prebreaker.jpg)
 _Prebreakers & flats on a standard EK43 98mm burr_
 
+</details>
 
 ## Contents
 
