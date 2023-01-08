@@ -46,53 +46,70 @@ _Prebreakers & flats on a standard EK43 98mm burr_
 ## Overview of 64mm burrs
 
 ### SSP 64 HU
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### SSP 64 MP
-
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### SSP 64 Brew
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### SSP 64 Cast (Lab Sweet)
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ## Overview of 80mm burrs
 ### Ditting/MK 80 Lab Sweet (Cast)
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### EG-1 Core 
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### ??
@@ -102,21 +119,25 @@ _Prebreakers & flats on a standard EK43 98mm burr_
 
 ## Overview of 98mm Burrs
 ### SSP 98 HU
-SSP98 HU 'newer style' 
+SSP98 HU 'newer style' -> empty
 
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 SSP98 HU 'older style'
 <details>
  <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_FRONT.JPG)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_SIDE.JPG)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
+
 _LU vs HU outer edge_
 </details>
 
@@ -124,44 +145,52 @@ _LU vs HU outer edge_
 ### SSP 98 LU
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
+
 </details>
 
 ### SSP 98 ULF / Brew / wtf?
+empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### SSP 98 'OLD' 
 <details>
 <summary>Images</summary>
+
 A burr that was made before the 98 LU/HU split. Basically a 98HU with LU prebreakers. 
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98OLD.JPG)
+
 </details>
 
 ### EK43 pre 2015
+Empty
 <details>
 <summary>Images</summary>
+
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
 ![Image of SSP 98 HU](../images/Burr_catalog/
+
 </details>
 
 ### EK43 post 2015
+empty
 <details>
 <summary>Images</summary>
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-![Image of SSP 98 HU](../images/Burr_catalog/
-</details>
 
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
+![Image of SSP 98 HU](../images/Burr_catalog/
 
-<details>
-<summary>Images</summary>
 </details>
 
 
