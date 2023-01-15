@@ -14,7 +14,7 @@ Most machines in this price bracket are either Heat Exchangers or Dual Boilers. 
 Before I go in depth, the short list for pump machines below $2000 is:
 - Breville Dual Boiler (huge modding and DIY service community, extremely good temperature stability)
 - Rancilio Silvia Pro X (great build quality, very solid brewing and steaming performance)
-- Lelit MaraX (very small, good option if space limited)
+- Quick Mill Silvano Evo (solid build, and by far the lowest price for two separate water paths)
 
 There are other good machines than these, but they are not as feature rich or as ubiquitous. 
 
@@ -22,7 +22,7 @@ There are other good machines than these, but they are not as feature rich or as
 ## Recommended Machines:
 These machines all are reasonably well specced and well built and won't cause you any additional difficulty brewing. 
 
-### Breville Dual Boiler ($1600 US) 
+#### Breville Dual Boiler ($1600 US) 
 *In Short*: This is the stripped down more manual version of Breville's flagship Oracle automatic machine. It's probably the best machine in this range in terms of temperature stability and user interface - if you can deal with its large size, slow steaming, and questionable aesthetics. 
 
 **The Good:**
@@ -51,7 +51,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Brew pressure is often set too high from factory, usually 10-11 bars. 
 - Looks are... polarizing. 
 
-### Rancilio Silvia Pro X ($1870 US)
+#### Rancilio Silvia Pro X ($1940 US)
 *In Short:* My personal choice for this price range if you don't want flow control. Built like a tank, with very strong steaming performance and great flat profile shots, and a relatively small footprint. 
 
 
@@ -79,7 +79,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Make sure all panels are tightened down all the way to keep noise down - if they are not, they will rattle like mad. 
  
 
-### Profitec Pro 300 ($1800 US)
+#### Profitec Pro 300 ($1800 US)
 *In Short:* An overall similar machine to the Silvia Pro X, but with a slightly rebalanced feature set. Good choice if you want flat profile shots and don't need massive steam power.
 
 
@@ -99,8 +99,8 @@ These machines all are reasonably well specced and well built and won't cause yo
 
 
 
-### Lelit Elizabeth ($1800 US, much less in Europe): 
-*In Short:* Take a Breville Dual Boiler, give it a standard E61 sized group, shrink it down, and give it a heavier frame. You now have a Lelit Elizabeth. This is less compelling to me than other machines on this list overall, but still a strong contender.
+#### Lelit Elizabeth ($1800 US, much less in Europe): 
+*In Short:* Take a Breville Dual Boiler, give it a standard E61 sized group, shrink it down, and give it a heavier frame. You now have a Lelit Elizabeth. 
 
 **The Good:**
  - PID control for both boilers. 
@@ -116,7 +116,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - The stock tamper is a crappy nylon one, which isn't really forgivable at this price point. 
  
 
-### Ascaso Steel Duo PID ($1625 US) 
+#### Ascaso Steel Duo PID ($1625 US) 
 *In Short:* A unique machine - instead of dual boilers, it uses dual thermocoils (advanced thermoblocks). Great if you need a quick-heating machine and don't have much space. 
 
 **The Good:**
@@ -130,14 +130,11 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Small footprint.
 
 **The Not So Good:**
-- Thermoblock steam is generally not nearly as powerful as boiler steam.
+- Thermoblock steam is generally not nearly as powerful as boiler steam, though the 2022 version is supposedly excellent.
 - May not be suitable for high flow shots like turbos as the thermoblock may not be able to keep up.
-- Steam valve is a solenoid, not a manual rotary valve - this may be a negative or not depending on your preferences. 
 
-
-### Lucca A53 by La Spaziale ($2000 US via Clive Coffee) 
-*In Short:* A customized La Spaziale Vivaldi II. This is a flat profile machine but is a steam monster - it has a much steam boiler than any other machine here. It is unfortunately hamstrung by its rather oddball 53mm group head and large size.
-
+#### Lucca A53 by La Spaziale ($2000 US via Clive Coffee) 
+*In Short:* A customized La Spaziale Vivaldi II. This machine has much more steam boiler than any other dual machine here. It is unfortunately hamstrung by its rather oddball 53mm group head and large size.
 
 **The Good:**
 - PID control of both boilers (400ml brew, 1.2L service).
@@ -150,12 +147,11 @@ These machines all are reasonably well specced and well built and won't cause yo
 **The Not So Good:**
 - Rather strange UI, not the easiest to  use ever.
 - 53mm group, which makes accessories more difficult to find than the ubiquitous 58mm. 
-- looks are polarizing at best like the BDB. 
 - Cup clearance is pretty bad (Gaggia Classic levels of clearance). 
 - Quite large footprint.
 - Only one pump, so dispensing hot water and brewing simultaneously is not recommended.
 
-### Lelit MaraX ($1700 US, less in Europe)
+#### Lelit MaraX ($1700 US, less in Europe)
 *In Short:* The best home Heat Exchanger on the market, bar none. The cheapest usable option for E61 flow control. 
 
 **The Good:** 
@@ -165,35 +161,36 @@ These machines all are reasonably well specced and well built and won't cause yo
     - It may seem rather coarse compared to machines that show 1C increments, but heat exchangers at their core are rather unstable so +/-2C is really quite good.
 - Very small for its boiler size (1.8L) at only 22cm/9" wide and 41cm/16" deep.
 - No burn steam wand with 2x 0.9mm tip, and can take any M8.5x0.75 tip. The boiler is large enough to handle a 4 hole tip. 
-- Low noise for a vibratory pump machine.
-- Good mechanical preinfusion. 
-- Quicker heatup times than most E61 machines (around 25 minutes where most are over 30) due to an intentional overheating during the startup phase.
-- Relatively easy to do maintenance on internally because of a well-thought out layout.
+- Low noise for a vibe pump machine.
+- Quicker heatup times than most E61 machines due to an intentional overheating during the startup phase.
+- Relatively easy to do maintenance on internally because of a well-thought out layout, and lots of videos on Lelit's youtube channel.
 
 **The Not So Good:**
 - Steaming performance is somewhat variable depending on where the machine is in its temperature cycle.
-- Stock baskets in the past were quite bad so keep in mind if buying used.
-- Heatup time, as with any E61 machine, is long due to the group's gigantic thermal mass. 
+- Stock baskets in the past were quite bad, so keep this in mind if buying used.
+- Despite the clever overheat on startup, heating time is long due to the group's gigantic thermal mass. 
 - Like almost every E61 machine, it lacks programmable shot times or volumes (if that matters to you).
 - The stock feet are, unfortunately, quite bad.
 - Small footprint means limited cup storage on top.
 
-### Bezzera BZ13 PM ($1550 US via Whole Latte Love)
-*In Short:* The only other Heat Exchanger I'd recommend, solely because of its relatively small size and quick heatup time. It's also the cheapest option here and by far the cheapest Italian built machine.
+#### Quick Mill Silvano Evo ($1200 via Chris' Coffee)
+_In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and a thermoblock for on demand steam. An absolute value king here, being the only machine under $1500 that lands in the recommended category. Nearly identical to the Seattle Coffee Gear house brand Diletta Mio - which is in fact a slightly modified Silvano Evo.
 
 **The Good:**
-- Electrically heated group for very quick heatup time (about 10 minutes minimum, ideally 20-30).
-- PID control of steam boiler, but not brew water exchanger; cooling flush likely required if left idle for long periods.
-- No burn steam wand, 2 hole tip as stock. Should take standard M8.5x0.75 steam tips. 
-- Small footprint. 
-- NSF rated, so *technically* it could used in a *very* low volume commercial setting - though I wouldn't recommend it.
-- Joystick controlled steam and hot water
+- PID controlled brew and steam temperatures
+- Steam thermoblock can be shut off separately from machine.
+- Pressure set correctly from factory
+- Build quality excellent
+- Possible to brew and steam simultaneously thanks to dual pump setup
+- Water tank slides out to the side for easy filling under cabinets
+- Externally accessible OPV adjust
+- Quite small
 
-**The Not So Good:**
-- Boiler is relatively small at 1.5L
-- No easy way to add flow control, and no preinfusion chamber like on an E61 group. Likely not a major issue. 
-- Pressure much too high from factory (OPV set at 11-12 bars), though relatively easy to adjust down. 
-- The group design does not do well with overfilled baskets; don't over-dose your basket with this machine.
+**The Not So Good**
+- Steam power is substantially weaker than dual boiler or heat exchanger machines - or even the Ascaso mentioned earlier.
+- Looks are rather unique.
+- Included tamper is a cheap nylon scoop/tamp combo; more forgivable at its price point, though.
+- Lacks the signature Quick Mill pulsor (a noise reducing attachment for vibration pumps)
 
 
 ## Not Recommended:
@@ -201,7 +198,7 @@ These machines all are reasonably well specced and well built and won't cause yo
  
 ### Profitec Pro 500 ($2000 US)
 
-*In Short:* Not bad, but too expensive compared to others on the market. Most PID heat exchanger machines are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it does nothing to control the brew water temperature, which still relies on getting the thermosiphon tuning correct and/or flushing the group.
+*In Short:* Not bad, but too expensive compared to others on the market. Most PID heat exchanger machines from the likes of Quick Mill, ECM, Rocket, and so on are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it offers basically no more control than a pressurestat and still relies on getting the thermosiphon tuning correct and/or flushing the group.
 
 **The Good:**
 - Large 2L boiler
@@ -227,7 +224,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Not recommended for its lack of features vs price. 
 
 ### Nuova Simonelli Oscar II ($1400 US)
-*In short:* Built cheaply and inexplicably lacking an overpressure valve, this machine is *so* close to being a value king but lands firmly on the "don't buy" list from truly baffling shortcomings for the price. 
+*In short:* Wildly overpriced in the US and inexplicably lacking an overpressure valve, this machine lands firmly on the "don't buy" list from truly baffling shortcomings for the price. 
 
 **The Good:**
 - Low price for a heat exchanger
@@ -238,13 +235,14 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Lever operated steam valve is a plus. 
 
 **The Not So Good:**
-- Pressurestat controlled (again), so flushing is necessary. 
 - No OPV, so pressure is only limited by the pump (so it can ramp to 15 bars, way too high).
-    -  This can be added, but *really* shouldn't need to be at this price point.
+    -  This can be added, but *really* shouldn't need to be at this price point, either in US or EU.
 - Cheap plastic panels. Even Breville, often derided as "appliance grade", has metal outer panels.
+- Wildly overpriced in the US - these are around €720 in Europe, which makes them a more compelling option.
+- Copper boiler more scale prone
 
-#### Lelit Victoria ($1099 US)
-*In short:* More or less an Elizabeth minus a service boiler. Cheaper because of the lack of service boiler and auto-refill controls. If you want a pre-PID'd single boiler machine, sure, go for it - but if you're handy it would be much more cost effective to just install a PID kit on a used Silvia to get roughly the same attributes. 
+#### Lelit Victoria ($1099 US) and Profitec Go ($999 US)
+*In short:* Cheaper than their dual boiler counterparts because of the lack of service boiler and auto-refill controls. If you want a pre-PID'd single boiler machine, sure, go for either - but if you're handy it would be much more cost effective to just install a PID kit on a used Silvia to get roughly the same attributes. 
 
 **The Good:**
 - PID control of boiler temperature, so temperature is stable.
@@ -256,6 +254,5 @@ These machines all are reasonably well specced and well built and won't cause yo
 **The Not So Good:**
 - Single Boiler Dual Use; don't buy this if you're wanting an upgrade from a Silvia or Gaggia for milk drinks.
 - No auto-refill probe on the boiler. Be careful you don't burn out the element. 
-- Stock tamper is quite bad, but this is more forgivable given its price point. 
 
 
