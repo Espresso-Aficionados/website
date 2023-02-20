@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breville Barista Express Rerout OPV water back to tank
+title: Breville Barista Express re-route OPV water back to tank
 parent: Breville
 grand_parent: Manufacturers
 ---
