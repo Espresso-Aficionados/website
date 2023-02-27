@@ -36,7 +36,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
   - Dimmer switch flow control
 - Difficult to fit a scale and cup with stock drip tray
 - If buying used you need to check what year it was made: the european 2015-2018 models are to be avoided
-- Depreacates in price immediately
+- Depreciates in price immediately
 
 ### **Rancillo Silvia (~[$750](https://www.ranciliogroup.com/rancilio/silvia/silvia/))**
 #### Pros:
@@ -45,7 +45,7 @@ The SDBUs we recommend range from as low as $200 used to ~$750 new. The Gaggia C
 
 #### Cons:
 - Doesn’t come with a PID
-- Depreacates in price immediately
+- Depreciates in price immediately
 
 ### **Lelit Anna** ([$499[No PID]](https://espresso.lelit.com/product/1) - [$629[With PID]](https://espresso.lelit.com/product/33))
 #### Pros:
