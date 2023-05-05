@@ -102,7 +102,9 @@ See the images that shows them next to MP. The difference is very hard to see an
 Silver: 64 BREW, Red 64 MP (note there are still many other revisions of MP)
 
 ![Image of 64 BREW](../images/Burr_catalog/SSP64Brew_FRONT.jpg
+
 ![Image of 64 Multi Purpose](../images/Burr_catalog/SSP64MP_FRONT_COMP.jpg
+
 ![Image of 64 Brew, side sawtooth-like](../images/Burr_catalog/SSP64Brew_SIDE.jpg
 
 </details>
@@ -114,8 +116,8 @@ In my opinion the bets *looking* burr, if that adds anything. An adaptation of t
 <summary>Images</summary>
 
 ![Image of 64 Cast front](../images/Burr_catalog/SSP64Cast_FRONT.jpeg
+
 ![Image of 64 Cast detail](../images/Burr_catalog/SSP64Cast_DETAIL.jpeg
-![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -127,8 +129,6 @@ The 'Original' cast burrs from Ditting. Also come in this same geometry but non-
 <summary>Images</summary>
 
 ![Image of Ditting 80 Lab Sweet](../images/Burr_catalog/DITTING80LS_FRONT.jpeg
-![Image of <>](../images/Burr_catalog/
-![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -140,8 +140,8 @@ EG1 core & ultra are 80mm blind burrs that solely fit the EG-1 (and Ditting 805?
 <summary>Images</summary>
 
 ![Image of EG1 80 Core](../images/Burr_catalog/EG1CORE_FRONT.jpeg
+
 ![Image of EG1 80 Ultra](../images/Burr_catalog/EG1ULTRA_FRONT.jpeg
-![Image of <>](../images/Burr_catalog/
 
 </details>
 
@@ -153,8 +153,8 @@ SSP 83mm HU. The 'Original' 83mm SSP burr. Before the DF83 came out this size di
 <summary>Images</summary>
 
 ![Image of SSP83 HU](../images/Burr_catalog/SSP83HU_FRONT.jpg
+
 ![Image of SSP 83 vs 64 HU](../images/Burr_catalog/SSP83-64HU.jpg
-![Image of SSP 98 HU](../images/Burr_catalog/
 
 </details>
 
@@ -175,7 +175,7 @@ SSP 83 Cast 'Lab Sweet' - release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](../images/Burr_catalog/SSP83Cast_FRONT
+![Image of SSP 83 MP](../images/Burr_catalog/SSP83Cast_FRONT.png
 
 </details>
 
@@ -186,7 +186,9 @@ SSP98 HU
  <summary>Images</summary>
 
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_FRONT.JPG)
+
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_SIDE.JPG)
+
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
 
 _LU vs HU outer edge_
@@ -199,7 +201,9 @@ _LU vs HU outer edge_
 <summary>Images</summary>
 
 ![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
+
 ![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
+
 ![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
 
 </details>
@@ -211,7 +215,9 @@ All I know its _very_ low fines, and therefore not really suited for espresso gr
 <summary>Images</summary>
 
 ![Image of SSP 98 ULF Front](../images/Burr_catalog/SSP98ULF_FRONT.JPG
+
 ![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_DETAIL.JPG
+
 ![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.JPG
 
 </details>
@@ -232,9 +238,7 @@ Empty
 <details>
 <summary>Images</summary>
 
-![Image of(../images/Burr_catalog/
-![Image of EK43OLD](../images/Burr_catalog/
-![Image of EK43OLD](../images/Burr_catalog/
+empty
 
 </details>
 
@@ -243,9 +247,7 @@ empty
 <details>
 <summary>Images</summary>
 
-![Image of EK43NEW](../images/Burr_catalog/
-![Image of EK43NEW](../images/Burr_catalog/
-![Image of EK43NEW](../images/Burr_catalog/
+empty
 
 </details>
 
