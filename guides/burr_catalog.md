@@ -85,7 +85,7 @@ SSP 64 Multi-Purpose (as in both brew & espresso) is considered the _high clarit
 <details>
 <summary>Images</summary>
 
-![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT_RS.JPG)
+![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT_RS.PNG)
 
 ![Image of 64 MP Silver Knight](../images/Burr_catalog/SSP64MP_FRONT_SK.JPG)
 
