@@ -8,10 +8,10 @@ nav_order: 12
 # The Burr Catalog
 ## An attempt to understand the naming scheme
 
-Burrs are what makes your coffee beans turn into a usefull substance to make coffee out of, be it espresso, pour over, moka pot or Aeropress. The 'grinder' itself is only a tool to enable the burrs to do their thing. As long as any grinder A, B or C is able to spin burr X in a good fashion, theoretically, they should perform identically in the cup. Atleast that is the notion behind high perfomance burr manufacturers. Other factors the grinder influences are RPM, [Burr alignment](#link), bean feed speed, static-screen (causes 'regrinding') and possibly many more.
+Burrs are what makes your coffee beans turn into a usefull substance to make coffee out of, be it espresso, pour over, moka pot or Aeropress. The 'grinder' itself is only a tool to enable the burrs to do their thing. As long as any grinder A, B or C is able to spin burr X in a good fashion, theoretically, they should perform identically in the cup. Atleast that is the notion behind high perfomance burr manufacturers. Other factors the grinder influences are RPM, [Burr alignment](/guides/alignment), bean feed speed, static-screen (causes 'regrinding') and possibly many more.
 Don't forget to factor in workflow in any future grinder purchases either. 
 
-Before continuouing this quest for the perfect equipment, [watch Lance Hedricks truthbomb video](#https://www.youtube.com/watch?v=iiip3C9l2tk)
+Before continuouing this quest for the perfect equipment, [watch Lance Hedricks truthbomb video](https://www.youtube.com/watch?v=iiip3C9l2tk)
 
 ## High perfomance burrs
 
@@ -32,12 +32,12 @@ Apart from the 'safe space' of any burr below, a lot of burrs can be dialed to a
 <details>
 <summary>What we mean by a 'standard' espresso burr</summary>
 
-![Image of a standard Italmill burr](../images/Burr_catalog/standard_burr_italmill.png)
+![Image of a standard Italmill burr](/images/Burr_catalog/Italmill64.jpeg)
 _"Standard espresso burr" - this one is from ItalMill (DF64 stock)_
 
 </details>
 
-We also won't cover conical burrs, mainly due to lack of availability third party burr options. Short mention here however is that most flatburrs give a more uniform grind, with less fines than most conical burrsets.
+We also won't cover conical burrs, mainly due to lack of available third party burr options. Short mention here however is that most flatburrs give a more uniform grind, with less fines than most conical burrsets.
 
 ## Identifying burrs
 
@@ -55,7 +55,7 @@ Prebreakers marked Red -- Flats marked white:
 <details>
 <summary>Prebreakers & Flats</summary>
 
-![Image pointing out prebreakers](../images/Burr_catalog/prebreaker_flat.jpg)
+![Image pointing out prebreakers](/images/Burr_catalog/prebreaker_flat.jpg)
 _Prebreakers & flats on a standard EK43 98mm burr_
 
 </details>
@@ -73,9 +73,9 @@ The SSP 64 High Uniformity is an espresso focused burr, meaning it can easily gr
 <details>
 <summary>Images</summary>
 
-![Image of 64 HU Red Speed](../images/Burr_catalog/SSP64HU_FRONT.JPG)
+![Image of 64 HU Red Speed](/images/Burr_catalog/SSP64HU_FRONT.JPG)
 
-![Image of 64 HU Silver Knight](../images/Burr_catalog/SSP64HU_FRONT_SK.JPG)
+![Image of 64 HU Silver Knight](/images/Burr_catalog/SSP64HU_FRONT_SK.JPG)
 
 </details>
 
@@ -85,9 +85,9 @@ SSP 64 Multi-Purpose (as in both brew & espresso) is considered the _high clarit
 <details>
 <summary>Images</summary>
 
-![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT_RS.PNG)
+![Image of 64 MP Red Speed](/images/Burr_catalog/SSP64MP_FRONT_RS.PNG)
 
-![Image of 64 MP Silver Knight](../images/Burr_catalog/SSP64MP_FRONT_SK.JPG)
+![Image of 64 MP Silver Knight](/images/Burr_catalog/SSP64MP_FRONT_SK.JPG)
 
 </details>
 
@@ -101,11 +101,11 @@ See the images that shows them next to MP. The difference is very hard to see an
 
 Silver: 64 BREW, Red 64 MP (note there are still many other revisions of MP)
 
-![Image of 64 BREW](../images/Burr_catalog/SSP64Brew_FRONT.jpg)
+![Image of 64 BREW](/images/Burr_catalog/SSP64Brew_FRONT.jpg)
 
-![Image of 64 Multi Purpose](../images/Burr_catalog/SSP64MP_FRONT_COMP.jpg)
+![Image of 64 Multi Purpose](/images/Burr_catalog/SSP64MP_FRONT_COMP.jpg)
 
-![Image of 64 Brew, side sawtooth-like](../images/Burr_catalog/SSP64Brew_SIDE.jpg)
+![Image of 64 Brew, side sawtooth-like](/images/Burr_catalog/SSP64Brew_SIDE.jpg)
 
 </details>
 
@@ -115,9 +115,9 @@ In my opinion the best *looking* burr, if that adds anything. An adaptation of t
 <details>
 <summary>Images</summary>
 
-![Image of 64 Cast front](../images/Burr_catalog/SSP64Cast_FRONT.jpeg)
+![Image of 64 Cast front](/images/Burr_catalog/SSP64Cast_FRONT.jpeg)
 
-![Image of 64 Cast detail](../images/Burr_catalog/SSP64Cast_DETAIL.jpeg)
+![Image of 64 Cast detail](/images/Burr_catalog/SSP64Cast_DETAIL.jpeg)
 
 </details>
 
@@ -128,7 +128,7 @@ The 'Original' cast burrs from Ditting. Also come in this same geometry but non-
 <details>
 <summary>Images</summary>
 
-![Image of Ditting 80 Lab Sweet](../images/Burr_catalog/DITTING80LS_FRONT.jpeg)
+![Image of Ditting 80 Lab Sweet](/images/Burr_catalog/DITTING80LS_FRONT.jpeg)
 
 </details>
 
@@ -139,9 +139,9 @@ EG1 core & ultra are 80mm blind burrs that solely fit the EG-1 (and Ditting 805?
 <details>
 <summary>Images</summary>
 
-![Image of EG1 80 Core](../images/Burr_catalog/EG1CORE_FRONT.jpeg)
+![Image of EG1 80 Core](/images/Burr_catalog/EG1CORE_FRONT.jpeg)
 
-![Image of EG1 80 Ultra](../images/Burr_catalog/EG1ULTRA_FRONT.jpeg)
+![Image of EG1 80 Ultra](/images/Burr_catalog/EG1ULTRA_FRONT.jpeg)
 
 </details>
 
@@ -152,9 +152,9 @@ SSP 83mm HU. The 'Original' 83mm SSP burr. Before the DF83 came out this size di
 <details>
 <summary>Images</summary>
 
-![Image of SSP83 HU](../images/Burr_catalog/SSP83HU_FRONT.jpg)
+![Image of SSP83 HU](/images/Burr_catalog/SSP83HU_FRONT.jpg)
 
-![Image of SSP 83 vs 64 HU](../images/Burr_catalog/SSP83-64HU.jpg)
+![Image of SSP 83 vs 64 HU](/images/Burr_catalog/SSP83-64HU.jpg)
 
 </details>
 
@@ -165,7 +165,8 @@ Release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](../images/Burr_catalog/SSP83MP_FRONT.png)
+![Image of SSP 83 MP](/images/Burr_catalog/SSP83MP_FRONT.png)
+![Image of SSP 83 MP](/images/Burr_catalog/SSP83MP_OVERVIEW.PNG)
 
 </details>
 
@@ -175,7 +176,7 @@ SSP 83 Cast 'Lab Sweet' - release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](../images/Burr_catalog/SSP83Cast_FRONT.png)
+![Image of SSP 83 Cast](/images/Burr_catalog/SSP83Cast_FRONT.png)
 
 </details>
 
@@ -185,11 +186,11 @@ SSP98 HU
 <details>
  <summary>Images</summary>
 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_FRONT.JPG)
+![Image of SSP 98 HU](/images/Burr_catalog/SSP98HU_FRONT.JPG)
 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98HU_SIDE.JPG)
+![Image of SSP 98 HU](/images/Burr_catalog/SSP98HU_SIDE.JPG)
 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
+![Image of SSP 98 HU](/images/Burr_catalog/SSP98LUvHU.jpg)
 
 _LU vs HU outer edge_
 
@@ -200,11 +201,11 @@ _LU vs HU outer edge_
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_FRONT.jpg)
+![Image of SSP 98 LU](/images/Burr_catalog/SSP98LU_FRONT.jpg)
 
-![Image of SSP 98 LU](../images/Burr_catalog/SSP98LU_SIDE.JPG)
+![Image of SSP 98 LU](/images/Burr_catalog/SSP98LU_SIDE.JPG)
 
-![Image of SSP 98 HU](../images/Burr_catalog/SSP98LUvHU.jpg)
+![Image of SSP 98 HU](/images/Burr_catalog/SSP98LUvHU.jpg)
 
 </details>
 
@@ -214,11 +215,11 @@ SSP 98 Ultra Low Fines - I know its _very_ low fines, and therefore not really s
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 ULF Front](../images/Burr_catalog/SSP98ULF_FRONT.JPG)
+![Image of SSP 98 ULF Front](/images/Burr_catalog/SSP98ULF_FRONT.JPG)
 
-![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_DETAIL.JPG)
+![Image of SSP 98 ULF](/images/Burr_catalog/SSP98ULF_DETAIL.jpg)
 
-![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.jpg)
+![Image of SSP 98 ULF](/images/Burr_catalog/SSP98ULF_SIDE.jpg)
 
 </details>
 
@@ -229,7 +230,7 @@ After some recent convo with ssomebody on the discord, this same geometry is rec
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 OLD](../images/Burr_catalog/SSP98OLD.JPG)
+![Image of SSP 98 OLD](/images/Burr_catalog/SSP98OLD.JPG)
 
 </details>
 
