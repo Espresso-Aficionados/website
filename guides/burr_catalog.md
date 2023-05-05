@@ -73,9 +73,8 @@ The SSP 64 High Uniformity is an espresso focused burr, meaning it can easily gr
 <details>
 <summary>Images</summary>
 
-![Image of 64 HU Red Speed](../images/Burr_catalog/SSP64HU_FRONT.JPG
-![Image of 64 HU Silver Knight](../images/Burr_catalog/SSP64HU_FRONT_SK.JPG
-![Image of <>](../images/Burr_catalog/
+![Image of 64 HU Red Speed](../images/Burr_catalog/SSP64HU_FRONT.JPG)
+![Image of 64 HU Silver Knight](../images/Burr_catalog/SSP64HU_FRONT_SK.JPG)
 
 </details>
 
@@ -85,9 +84,8 @@ SSP 64 Multi-Purpose (as in both brew & espresso) is considered the _high clarit
 <details>
 <summary>Images</summary>
 
-![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT.JPG
-![Image of 64 MP Silver Knight](../images/Burr_catalog/SSP64MP_FRONT_SK.JPG
-![Image of <>](../images/Burr_catalog/
+![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT.JPG)
+![Image of 64 MP Silver Knight](../images/Burr_catalog/SSP64MP_FRONT_SK.JPG)
 
 </details>
 
@@ -101,11 +99,11 @@ See the images that shows them next to MP. The difference is very hard to see an
 
 Silver: 64 BREW, Red 64 MP (note there are still many other revisions of MP)
 
-![Image of 64 BREW](../images/Burr_catalog/SSP64Brew_FRONT.jpg
+![Image of 64 BREW](../images/Burr_catalog/SSP64Brew_FRONT.jpg)
 
-![Image of 64 Multi Purpose](../images/Burr_catalog/SSP64MP_FRONT_COMP.jpg
+![Image of 64 Multi Purpose](../images/Burr_catalog/SSP64MP_FRONT_COMP.jpg)
 
-![Image of 64 Brew, side sawtooth-like](../images/Burr_catalog/SSP64Brew_SIDE.jpg
+![Image of 64 Brew, side sawtooth-like](../images/Burr_catalog/SSP64Brew_SIDE.jpg)
 
 </details>
 
@@ -115,9 +113,9 @@ In my opinion the bets *looking* burr, if that adds anything. An adaptation of t
 <details>
 <summary>Images</summary>
 
-![Image of 64 Cast front](../images/Burr_catalog/SSP64Cast_FRONT.jpeg
+![Image of 64 Cast front](../images/Burr_catalog/SSP64Cast_FRONT.jpeg)
 
-![Image of 64 Cast detail](../images/Burr_catalog/SSP64Cast_DETAIL.jpeg
+![Image of 64 Cast detail](../images/Burr_catalog/SSP64Cast_DETAIL.jpeg)
 
 </details>
 
@@ -128,7 +126,7 @@ The 'Original' cast burrs from Ditting. Also come in this same geometry but non-
 <details>
 <summary>Images</summary>
 
-![Image of Ditting 80 Lab Sweet](../images/Burr_catalog/DITTING80LS_FRONT.jpeg
+![Image of Ditting 80 Lab Sweet](../images/Burr_catalog/DITTING80LS_FRONT.jpeg)
 
 </details>
 
@@ -139,9 +137,9 @@ EG1 core & ultra are 80mm blind burrs that solely fit the EG-1 (and Ditting 805?
 <details>
 <summary>Images</summary>
 
-![Image of EG1 80 Core](../images/Burr_catalog/EG1CORE_FRONT.jpeg
+![Image of EG1 80 Core](../images/Burr_catalog/EG1CORE_FRONT.jpeg)
 
-![Image of EG1 80 Ultra](../images/Burr_catalog/EG1ULTRA_FRONT.jpeg
+![Image of EG1 80 Ultra](../images/Burr_catalog/EG1ULTRA_FRONT.jpeg)
 
 </details>
 
@@ -152,9 +150,9 @@ SSP 83mm HU. The 'Original' 83mm SSP burr. Before the DF83 came out this size di
 <details>
 <summary>Images</summary>
 
-![Image of SSP83 HU](../images/Burr_catalog/SSP83HU_FRONT.jpg
+![Image of SSP83 HU](../images/Burr_catalog/SSP83HU_FRONT.jpg)
 
-![Image of SSP 83 vs 64 HU](../images/Burr_catalog/SSP83-64HU.jpg
+![Image of SSP 83 vs 64 HU](../images/Burr_catalog/SSP83-64HU.jpg)
 
 </details>
 
@@ -165,7 +163,7 @@ Release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](../images/Burr_catalog/SSP83MP_FRONT.png
+![Image of SSP 83 MP](../images/Burr_catalog/SSP83MP_FRONT.png)
 
 </details>
 
@@ -175,7 +173,7 @@ SSP 83 Cast 'Lab Sweet' - release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](../images/Burr_catalog/SSP83Cast_FRONT.png
+![Image of SSP 83 MP](../images/Burr_catalog/SSP83Cast_FRONT.png)
 
 </details>
 
@@ -214,11 +212,11 @@ All I know its _very_ low fines, and therefore not really suited for espresso gr
 <details>
 <summary>Images</summary>
 
-![Image of SSP 98 ULF Front](../images/Burr_catalog/SSP98ULF_FRONT.JPG
+![Image of SSP 98 ULF Front](../images/Burr_catalog/SSP98ULF_FRONT.JPG)
 
-![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_DETAIL.JPG
+![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_DETAIL.JPG)
 
-![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.JPG
+![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.JPG)
 
 </details>
 
