@@ -32,7 +32,7 @@ Apart from the 'safe space' of any burr below, a lot of burrs can be dialed to a
 <details>
 <summary>What we mean by a 'standard' espresso burr</summary>
 
-![Image of a standard Italmill burr](/images/Burr_catalog/Italmill64.jpeg)
+![Image of a standard Italmill burr](https://espressoaf.com/images/Burr_catalog/Italmill64.jpeg)
 _"Standard espresso burr" - this one is from ItalMill (DF64 stock)_
 
 </details>
