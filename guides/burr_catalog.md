@@ -33,6 +33,7 @@ Apart from the 'safe space' of any burr below, a lot of burrs can be dialed to a
 <summary>What we mean by a 'standard' espresso burr</summary>
 
 ![Image of a standard Italmill burr](https://espressoaf.com/images/Burr_catalog/Italmill64.jpeg)
+ ![E+B Superfine](https://espressoaf.com/images/ims-even.jpeg)
 _"Standard espresso burr" - this one is from ItalMill (DF64 stock)_
 
 </details>
@@ -53,7 +54,7 @@ Burrs consist of different parts, we name them to easier talk about it.
 
 Prebreakers marked Red -- Flats marked white:
 <details>
-<summary>Prebreakers & Flats</summary>
+Prebreakers & Flats
 
 ![Image pointing out prebreakers](/images/Burr_catalog/prebreaker_flat.jpg)
 _Prebreakers & flats on a standard EK43 98mm burr_
