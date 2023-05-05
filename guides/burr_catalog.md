@@ -218,7 +218,7 @@ SSP 98 Ultra Low Fines - I know its _very_ low fines, and therefore not really s
 
 ![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_DETAIL.JPG)
 
-![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.JPG)
+![Image of SSP 98 ULF](../images/Burr_catalog/SSP98ULF_SIDE.jpg)
 
 </details>
 
