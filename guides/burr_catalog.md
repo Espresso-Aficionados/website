@@ -166,6 +166,7 @@ Release 4/2023
 <summary>Images</summary>
 
 ![Image of SSP 83 MP](/images/Burr_catalog/SSP83MP_FRONT.png)
+![Image of SSP 83 MP](/images/Burr_catalog/SSP83MP_OVERVIEW.PNG)
 
 </details>
 
@@ -175,7 +176,7 @@ SSP 83 Cast 'Lab Sweet' - release 4/2023
 <details>
 <summary>Images</summary>
 
-![Image of SSP 83 MP](/images/Burr_catalog/SSP83Cast_FRONT.png)
+![Image of SSP 83 Cast](/images/Burr_catalog/SSP83Cast_FRONT.png)
 
 </details>
 
@@ -218,7 +219,7 @@ SSP 98 Ultra Low Fines - I know its _very_ low fines, and therefore not really s
 
 ![Image of SSP 98 ULF](/images/Burr_catalog/SSP98ULF_DETAIL.JPG)
 
-![Image of SSP 98 ULF](/ages/Burr_catalog/SSP98ULF_SIDE.jpg)
+![Image of SSP 98 ULF](/images/Burr_catalog/SSP98ULF_SIDE.jpg)
 
 </details>
 
