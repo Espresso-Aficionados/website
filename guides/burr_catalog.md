@@ -74,6 +74,7 @@ The SSP 64 High Uniformity is an espresso focused burr, meaning it can easily gr
 <summary>Images</summary>
 
 ![Image of 64 HU Red Speed](../images/Burr_catalog/SSP64HU_FRONT.JPG)
+
 ![Image of 64 HU Silver Knight](../images/Burr_catalog/SSP64HU_FRONT_SK.JPG)
 
 </details>
@@ -84,7 +85,8 @@ SSP 64 Multi-Purpose (as in both brew & espresso) is considered the _high clarit
 <details>
 <summary>Images</summary>
 
-![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT.JPG)
+![Image of 64 MP Red Speed](../images/Burr_catalog/SSP64MP_FRONT_RS.JPG)
+
 ![Image of 64 MP Silver Knight](../images/Burr_catalog/SSP64MP_FRONT_SK.JPG)
 
 </details>
@@ -108,7 +110,7 @@ Silver: 64 BREW, Red 64 MP (note there are still many other revisions of MP)
 </details>
 
 ### SSP 64 Lab Sweet ('Cast')
-In my opinion the bets *looking* burr, if that adds anything. An adaptation of the Ditting 80mm Lab Sweet burrs found in the Ditting 804 and 807 'LS' to fit common 64mm mounting. Also considered the 'sweet spot' between body and clarity (minefield). More 'soft' and 'sweet' compared to MP and HU respectively. 
+In my opinion the best *looking* burr, if that adds anything. An adaptation of the Ditting 80mm Lab Sweet burrs found in the Ditting 804 and 807 'LS' to fit common 64mm mounting. Also considered the 'sweet spot' between body and clarity (minefield). More 'soft' and 'sweet' compared to MP and HU respectively. 
 
 <details>
 <summary>Images</summary>
@@ -206,8 +208,8 @@ _LU vs HU outer edge_
 
 </details>
 
-### SSP 98 ULF / Brew / wtf?
-All I know its _very_ low fines, and therefore not really suited for espresso grinding. 
+### SSP 98 ULF 
+SSP 98 Ultra Low Fines - I know its _very_ low fines, and therefore not really suited for espresso grinding. Please add!
 
 <details>
 <summary>Images</summary>
@@ -232,7 +234,8 @@ After some recent convo with ssomebody on the discord, this same geometry is rec
 </details>
 
 ### EK43 pre 2015 (now considered as SSP 98 'cast' again)
-Empty
+The original MK / Ditting burr was what _made_ the EK. Still considered as a good burr, however around 2015 the EKs started shipping with a more finey burr, to accomodate the recent hype in using it for espresso. We think Mahlkonig themselves actually had no idea why it peaked interest at the time. Very similar looking to post-2015. Serial number of pre-2015 ends with A.
+
 <details>
 <summary>Images</summary>
 
@@ -241,7 +244,7 @@ empty
 </details>
 
 ### EK43 post 2015 
-empty
+The more finey EK burr, not bad, just not as spicey as the old one. The difference between the two is hard to see with the naked eye. Their serial numbers are different (post 2015: ends with B)
 <details>
 <summary>Images</summary>
 
