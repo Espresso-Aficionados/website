@@ -36,8 +36,8 @@ A right pain in the ass, especially as they get bigger. Expect to develop new pr
 
 ## The List
 ### Conicals
-* HG1
-   * Now offered by two companies, Weber Workshops and Craig Lyn. Used to be Lyn Weber. Well sorted examples are great, the value is good, and this can be upgraded to motor drive with a WUG2 kit. Runs the big 3 phase robur burr.
+* HG1 and HG1-Prime
+   * Now offered by two companies, Weber Workshops and Craig Lyn, respectively. Used to be Lyn Weber. Well sorted examples are great, the value is good, and the HG1 non-prime can be upgraded to motor drive with a WUG2 kit. Runs the big 3 phase robur burr.
 * HG2 and Key
    * Updated HG1 from Weber Workshops. Adds a gearbox or a motor setup to make life easier when grinding harder beans. Key includes some quality of life upgrades that may or may not work well.
 * WUG2 FAI and DAI
