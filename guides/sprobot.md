@@ -40,7 +40,7 @@ To access someone's profile via the slash command:
 
 To edit your profile:
 
-1. Run `/editprofile' or `/editroaster`
+1. Run `/editprofile` or `/editroaster`
 2. Fill in the form!
 
 ![Run Edit Profile](/images/sprobotguide/runeditprofile.png){:height="50%" width="50%"}
