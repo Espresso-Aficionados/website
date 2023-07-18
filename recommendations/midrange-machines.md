@@ -259,3 +259,17 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Stock tamper is quite bad, but this is more forgivable given its price point. 
 
 
+#### ECM Puristika ($1549 US)
+*In short:* Chic, tiny, single-boiler, <u>espresso only</u> machine.
+
+**The Good:**
+- PID control of boiler temperature, shot timer, eco mode. 
+- Adjustable OPV on front of machine - 7.5 to 13+ bar. 
+- Quick heatup- ~15 minutes. 
+- External water tank
+- E61!
+- Incredibly small, similar to the Olympia Cremina. 
+- ECM build quality.
+
+**The Not So Good:**
+- Single Boiler, Single Use. It makes espresso. Nothing else. No steam, no hot water tap/valve. 
