@@ -114,12 +114,12 @@ Also short note of factuality: 80mm burrs have a bigger surface area than 83mm b
 
 ![Image of Ditting 80 Lab Sweet](/images/Burr_catalog/DITTING80LS_FRONT.jpg)
 
-### Ditting 80 machined
+### Ditting 80 machined ('804 machined') 
 Note: There is also a Mahlkonig 80 Lab Sweet Machined burr, which can be found in the Mahlkonig 80mm grinders (PEAK and E80S)
 
 This one is different and only really found in the Ditting 804 and 807 (non'LS') or bought directly from OEM. Do fit in the E80S & PEAK. 
 
-The 'standard' burr found in the 804 and 807 non LS. Many have reported that it doesn't grind fine enough for classic espresso. General consensus from EAF is very positive with good flavor separation while not being 'toned down'. 
+The 'standard' burr found in the 804 and 807 non LS. Many have reported that it doesn't grind fine enough for classic espresso. They are among the clearest 80mm burrs but have integrated acidity instead of super punchy upfront SSP type acidity.
 
 ![Image of Ditting 80 machined](/images/Burr_catalog/Ditting_80_machined_front.jpg)
 
