@@ -23,7 +23,7 @@ This is pretty cutting edge stuff and if you find something here doesn't work fo
 
 Sometimes amazon changes what these link actually direct to, make sure to double check before purchasing.
 
-- [Clippard M-MNV-1K Needle Valve, M5 Ports with Knurled Knob](https://www.amazon.com/gp/product/B01A63RLLQ?psc=1)
+- [Clippard M-MNV-1K Needle Valve, M5 Ports with Knurled Knob](https://www.clippard.com/part/M-MNV-1K)
 - [Push to Connect Fitting 4mm Tube OD x M5 Female Straight Adapter](https://www.amazon.com/Parker-66LF-4M-M5-pk5-Connect-Instant-Connector/dp/B0755KMCWJ)
 - [Push to Connect Fitting 4mm Tube OD x M5 Male Straight Adapter](https://www.amazon.com/gp/product/B01N6JF205?psc=1)
 - [Utoolmart 1/4" Hex Shank 6mm Nut Setter Driver Drill Bit, 65mm Length](https://www.amazon.com/gp/product/B07V4J8KPC?psc=1)
