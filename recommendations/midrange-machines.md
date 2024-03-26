@@ -207,13 +207,29 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - Included tamper is a cheap nylon scoop/tamp combo; more forgivable at its price point, though.
 - Lacks the signature Quick Mill pulsor (a noise reducing attachment for vibration pumps)
 - Cup clearance is poor.
-- The stock shower screen seems to hang onto a lot of coffee grounds, so it's worth spending $20 on the IMS precision (RA200IM) screen solely for ease of cleaning. 
+- The stock shower screen seems to hang onto a lot of coffee grounds, so it's worth spending $20 on the IMS precision (RA200IM) screen solely for ease of cleaning.
+
+#### ECM Puristika ($1549 US)
+*In short:* Chic, tiny, single-boiler, <u>espresso only</u> machine.
+
+**The Good:**
+- PID control of boiler temperature, shot timer, eco mode. 
+- Adjustable OPV on front of machine - 7.5 to 13+ bar. 
+- Quick heatup- ~15 minutes. 
+- External water tank
+- E61, so flow control is possible. 
+- Incredibly small, similar to the Olympia Cremina. 
+- ECM build quality.
+
+**The Not So Good:**
+- Single Boiler, Single Use. It makes espresso. Nothing else. No steam, no hot water tap/valve. 
+
 
 
 ## Not Recommended:
  Compared to the above options, these machines are generally too expensive for the features and functionality they offer. If you get a good deal on one used, then it may be worth considering.
  
-### Profitec Pro 500 or almost any PID HX machine
+#### Profitec Pro 500 or almost any PID HX machine
 
 *In Short:* Most PID heat exchanger machines from the likes of Quick Mill, ECM, Rocket, and so on are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it offers basically no more control than a pressurestat and still relies on getting the thermosiphon tuning correct and/or flushing the group.
 
@@ -227,7 +243,7 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - PID control, but only of steam boiler temperature. Group thermometer is almost mandatory.
 - Generally quite expensive for its feature set
 
-### Nuova Simonelli Oscar II ($1400 US)
+#### Nuova Simonelli Oscar II ($1400 US)
 *In short:* Wildly overpriced in the US. This machine lands firmly on the "don't buy" list from truly baffling shortcomings for the price. 
 
 **The Good:**
@@ -244,18 +260,3 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - Copper boiler more scale prone
 - Older versions don't come with an OPV installed.
 - Uses a less common (Simonelli/Bezzera type) portafilter shape.
-
-#### ECM Puristika ($1549 US)
-*In short:* Chic, tiny, single-boiler, <u>espresso only</u> machine.
-
-**The Good:**
-- PID control of boiler temperature, shot timer, eco mode. 
-- Adjustable OPV on front of machine - 7.5 to 13+ bar. 
-- Quick heatup- ~15 minutes. 
-- External water tank
-- E61!
-- Incredibly small, similar to the Olympia Cremina. 
-- ECM build quality.
-
-**The Not So Good:**
-- Single Boiler, Single Use. It makes espresso. Nothing else. No steam, no hot water tap/valve. 
