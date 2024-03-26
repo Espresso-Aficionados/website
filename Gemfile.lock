@@ -29,6 +29,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -69,15 +71,20 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
 
 PLATFORMS
   arm64-darwin-20
+  x86_64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.2)
+  jekyll-include-cache
   jekyll-remote-theme (~> 0.4.3)
   jekyll-watch (~> 2.2)
   just-the-docs (~> 0.3.3)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.6

@@ -245,3 +245,17 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - Older versions don't come with an OPV installed.
 - Uses a less common (Simonelli/Bezzera type) portafilter shape.
 
+#### ECM Puristika ($1549 US)
+*In short:* Chic, tiny, single-boiler, <u>espresso only</u> machine.
+
+**The Good:**
+- PID control of boiler temperature, shot timer, eco mode. 
+- Adjustable OPV on front of machine - 7.5 to 13+ bar. 
+- Quick heatup- ~15 minutes. 
+- External water tank
+- E61!
+- Incredibly small, similar to the Olympia Cremina. 
+- ECM build quality.
+
+**The Not So Good:**
+- Single Boiler, Single Use. It makes espresso. Nothing else. No steam, no hot water tap/valve. 
