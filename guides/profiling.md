@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # What is Profiling
-A reasonable defintion of profiling is: 'The act of consciously gathering data on metrics during an espresso extraction, or recording a profile.' Because the colloliquial definition appears to be more about following a profile, i.e., 'Adjusting the flow, pressure, or temperature in a shot to manipulate the extraction and produce a different result,' I'll use the term profiling to mean 'following a profile.' There are a number of different ways to accomplish this depending on available equipment. My preferred use case for profiling is modulating the evenness of my extraction to achieve a desired taste profile.
+A reasonable definition of profiling is: 'The act of consciously gathering data on metrics during an espresso extraction or recording a profile.' Because the colloquial definition appears to be more about following a profile, i.e., 'Adjusting the flow, pressure, or temperature in a shot to manipulate the extraction and produce a different result,' I'll use the term profiling to mean 'following a profile.' There are a number of different ways to accomplish this, depending on available equipment. My preferred use case for profiling is modulating the evenness of my extraction to achieve a desired taste profile.
 
 ## Some quick definitions
 * Water Debit
@@ -177,6 +177,29 @@ When you want to modulate taste you can do it a few ways.
    1. Acid Balance - This is primarily done through modulating extraction. I generally start with ratio, then temp, then I'll adjust grind size and flow rate. If I already know what I'll need the order doesn't matter, but that's an easy way to work through it. Check the preferential extraction guide for more details.
    2. Clarity - Shorter contact times generally increase clarity, longer creates a more blended profile. You can modulate this through bloom timing, percolation pressure/flow, or grind size.
    3. Texture - If you're looking for thicker texture I think the easiest way is to dose a thicker, coarser grind. This seems to allow a turbulent flow that creates some emulsification as the percolation goes on. Adjusting the bloom to work for this is easy enough; you probably need a lower initial peak pressure and may or may not need to open the valve at a higher pressure (like 3-4 bar) so the puck doesn't soften too much.
+
+## Purposefully clogging your basket
+This is where it gets a little silly. You're going to grind fine enough that there is no saving the puck. There are then two ways to take it when the puck itself can sit at 9-10 bars of pressure for the entire time.
+
+### The Clogger Profile
+This profile can even be done on a machine without flow control. Be just like Elsa and let it go. Walk away. Come back later. Let it hit a ratio you would normally use for your roast profile, and just be patient. 3-5 minutes shots might not be as bad as you think. When it has hit your desired ratio, take a sip, and see if you want to sink it or not. While you wait, you can always adjust the grind size for the next shot and prep it with how long this one will take.
+
+Well, you lost nothing since the beans were already ground. How did it taste? Better than you expected?  It was either a good shot and enforced the mantra of "taste every brew," or it was bad, and you shouldn't use it for this coffee. Try it again the next time it happens. Maybe you'll find a coffee you prefer at this odd end of forced emulsion.
+
+Originally called "Low and Slow" by one of its advocates on Discord, SpRobert decided "Clogger" makes more sense since that is exactly what the espresso machine is doing.
+
+### The Wave Profile
+Take a page out of surfing and just be calm and ride that pressure reading up and down.
+
+A recent profile developed by the same person who coined the profile above, SpRobert on Discord describes this profile as "gnarly tasty" and suggests you give it a try as he continues to desk surf inside while listening to the Beach Boys. The puck should never want to decline in peak pressure, but if it does, just keep following the profile. It's meant to blend the coffee without muting the acidity entirely, and the next time you try it you can just grind finer to where it will keep staying at that higher pressure if you want to. It's also just pretty fun. Sometimes you miss your ratio because you had so much fun, and it still tastes fine.
+
+   1. Ride the wave up. Fill fast, let it peak at 9-10 bars, and then cut flow.
+   2. Ride the wave down. Let the pressure gauge fall to <1 bar and open flow at full blast again.
+   3. Repeat steps 1 and 2 until you're at your desired ratio.
+
+If you graph this it should look like a Sin wave.
+
+This profile was meant to integrate more than blend, and surprisingly the multiple blooms don't entirely kill the acidity. The changes in pressure do not degrade the puck as much as you might have thought since you're not evacuating the water suddenly through a valve so the puck still comes out plenty stable and compact, just like any blooming profile, but you keep hammering it and backing off to let the water find a natural balance on its own on the way out.
 
 ## Making filter style coffee (AKA The Sprover)
 If you're considering making filter coffee in your profiling espresso machine the sprover is your best bet. Basically, pick a grind size coarser than the allonge and dose a little under your basket's rated size. I like 15g in a 20g basket to keep the shower screen clean. WDT and tamp as usual, lock in, and pull a shot with an input flow rate between 1.5 and 4.5ml/s. 
