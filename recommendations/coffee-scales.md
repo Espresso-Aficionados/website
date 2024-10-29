@@ -1,0 +1,116 @@
+---
+layout: default
+title: Coffee Scales
+parent: Recommendations
+nav_order: 7
+---
+
+# Coffee Scales
+
+Coffee scales are an essential part of making coffee at home.  Whether it's for single dosing beans into your grinder or weighing the output of your shot, an accurate and reliable scale can all the difference.  Coffee scales can generally be divided into a few different categories: Bluetooth or Non-Bluetooth scales, Smart or Basic/Dumb scales, and Espresso oriented or Pourover oriented scales.  Recently, there's also a new category of scales made specifically for weighing and dosing coffee beans.  If this seems like there's way too many choices and scales that you can buy, you would be correct.  In reality, you will be just fine with a $10 scale for all your coffee needs.  We just like to have a little fun around here and who doesn't love more gadgets?
+
+
+## Non-Bluetooth Scales
+These are scales without bluetooth connectivity and can't be linked to coffee apps on your phone.
+
+### Espresso Scales (Under $100):
+While a lot of the scales under this list will work great for pourover brewing, they are generally smaller and designed to fit on an espresso machine driptray.  All of the scales on this are also under $100USD because it's really not worth it to spend more than this on a non-bluetooth scale.
+
+
+#### **Weightman Espresso Scale ($10-15USD)**
+This scale is ultra cheap and shockingly reliable.  Valuewise, it doesn't better than this.  This is a basic/dumb scale so the only features it has are weight and time but that's really all you need.  Espresso? Fits perfectly under any driptray.  Pourover? No issues as long as your vessel isn't too large.  Dosing beans? It measures to 0.1g so it works great for that.  Only negative of this scale is that it's not splash resistant at all.  Liquid can get inside the scale if you spill or spray coffee.  Will likely still function though.
+##### Specs:
+- Size: 121mm x 69mm x 18mm
+- Weight Range: 0.3g - 1000g in 0.1g increments
+- Battery: 2 AAA batteries
+- Notable Features: Weight, timer in secs, flip cover
+##### Links:
+- [Amazon US](https://www.amazon.com/dp/B07XQS8JL6)
+
+#### **KC200/230 Scale ($20-36USD)**
+Sold by many different brands and under many different names (miicoffee nano, bucanim mini 3, searchpean tiny), this is first smart scale on the list and comes with some major improvements over the weightman.  The most notable is that design of the scale makes it much more splash resistant than the weightman scale.  The display of the scale is also easier to read than the weightman.  The scale comes with 2 different smart modes outside of the standard manual mode.  In espresso mode, the scale with auto tare the cup, auto start the timer when it senses first drip and auto stop the timer at the end of the extraction.  The reading will clear after 3 seconds.  In pourover mode, the scale with auto start the timer when sense water being poured and auto stops after it ends.  The reading will clear after 3 seconds.  Overall, this scale is small, workflow friendly, and looks quite good for the price.
+##### Specs:
+- Size: 100mm x 94mm x 19mm
+- Weight Range: 0.3g - 2000g in 0.1g increments
+- Battery: 800mAh
+- Notable Features: Splash resistant design, made from ABS, 2 smart modes, better contrast display, rechargeable
+##### Links:
+- [Amazon US](https://www.amazon.com/dp/B0C8MHR713)
+- [Amazon US Miicoffee](https://www.amazon.com/MiiCoffee-Nano-Coffee-Scale-Time/dp/B0BKRBR3BZ)
+- [Miicoffee.com](https://miicoffee.shop/products/miicoffee-nano-coffee-scale-with-timer)
+  - Miicoffee nano is slightly different in that it has the charging port on the left side and dedicated switch for espresso mode
+- [Aliexpress Tiny2s](https://www.aliexpress.com/item/3256805243935795.html)
+  - Tiny2s verison has some slight upgrades over the standard model like displaying abbreviations instead of symbols for the modes and pressure wake up
+
+#### **KC230 Pro Scale ($37-50USD)**
+This is the upgraded version of the KC200 with higher build quality.  The body of the scale is now made of aluminium and the display is higher res and easier to read.  The other features are the same as the KC200/230.  Feels much higher quality and is nice to use.
+##### Specs:
+- Size: 100mm x 94mm x 19mm
+- Weight Range: 0.3g - 2000g in 0.1g increments
+- Battery: 800mAh
+- Notable Features: Aluminium body and higher res display
+##### Links:
+- [Amazon US](https://www.amazon.com/Espresso-Pour-Over-Precision-Anodized-Rechargeable/dp/B0CSYWDYQ2)
+  - Bucanim version's timer reading is blue instead of red
+- [Amazon US Miicoffee](https://www.amazon.com/MiiCoffee-Nano-Coffee-Scale-Time/dp/B0C9WJPJ1Q)
+- [Miicoffee.com](https://miicoffee.shop/products/miicoffee-nano-pro-coffee-scale-with-timer)
+  - Miicoffee nano pro also comes in white
+
+#### **K112 Scale ($22-34USD)**
+The surface of this scale is fully tempered glass and the overall design of the scale looks similar to the acaia lunar.  The scale also comes with 4 different smart modes: pourover mode, espresso ratio mode, pourover ratio mode, and flow rate mode.  The activation for these modes are a bit complex so reading the manual is highly recommended.  The scale is a bit bigger than the KC200 but should still have no issues with fitting under the driptray.  One negative to the scale is that the touch display is sensitive.  Smart modes are convoluted to activate but for its features and price, the value is great.
+##### Specs:
+- Size: 105mm x 105mm x 22mm
+- Weight Range: 0.3g - 2000g in 0.1g increments
+- Battery: 500mAh
+- Notable Features: Tempered surface, flow rate mode, ratio mode
+##### Links:
+- [Amazon US](https://www.amazon.com/Coffee-Rechargeable-Espresso-Precision-Pour-Over/dp/B0CWGJHYJ4)
+- [Aliexpress](https://www.aliexpress.com/item/3256807253327020.html)
+
+#### **MHW-3BOMBER Formula Smart Scale ($40-50USD)**
+This scale is larger than the previous options on the list but can still be able to fit under the driptray of many machines.  Be sure to measure your driptray before buying one to make sure it fits.  A benefit of the larger size is that it also works very well for pourover and will fit very large vessels.  The surface of scale is a stainless steel panel and the display inclined for easier reading as you pull espresso.  The scale comes with 2 smart modes with ratio display: espresso mode and pourover mode.  It's also very responsive.
+##### Specs:
+- Size: 150mm x 130mm x 28mm
+- Weight Range: 0.3g - 2000g in 0.1g increments
+- Battery: 1500mAh
+- Notable Features: Stainless steel surface, inclined display, ratio modes
+##### Links:
+- [Amazon US](https://www.amazon.com/MHW-3BOMBR-Espresso-Display-Precision-ES5485W/dp/B0CRRSJ2G5)
+- [Mhw3bomber.com](https://mhw3bomber.com/products/mhw-3bombr-espresso-coffee-scale)
+- [Aliexpress](https://www.aliexpress.com/item/3256804869202996.html)
+
+#### **TIMEMORE Basic 2.0 ($40-60USD)**
+The timemore basic 2.0 is one of the best non-bluetooth scales on the market if you want to track the flow rate.  This is because, unlike the K112 or older timemore scales, the basic 2.0 has a seperate display that can show the flow rate without covering the timer.  This allows you to use the flow rate with compromising another feature. Like the mhw3bomber formula smart scale, it is quite large for an espresso scale so make sure it can fit on the driptray of your machine before buying.  Also comes with the auto timer smart mode.
+##### Specs:
+- Size: 152mm x 130mm x 26mm
+- Weight Range: 0.5g - 2000g in 0.1g increments
+- Battery: 1600mAh
+- Notable Features: Separate flow rate display and acrylic body  
+##### Links:
+- [Amazon US](https://www.amazon.com/TIMEMORE-Electronic-Espresso-Function-Upgraded/dp/B084FBMV1D)
+- [Timemore.com](https://www.timemore.com/collections/coffee-scale/products/timemore-basic-2-0-electronic-espresso-scale-with-timer)
+- [Aliexpress](https://www.aliexpress.com/item/3256805367205217.html)
+
+#### **TIMEMORE Basic Mini ($50-70USD)**
+The basic mini is like the basic 2.0 with its seperate flow rate display but is smaller and better.  The scale is much smaller and will fit on most if not all driptrays.  The scale also has IPX3 water resistance and is more accurate than the basic 2.0.  Scale also comes with 2 smart modes: espresso mode and pourover mode.  Great option if you want to track the flow rate of your espresso extraction and find the basic 2.0 too large.
+##### Specs:
+- Size: 114mm x 100mm x 15.8mm
+- Weight Range: 0.2g - 2000g in 0.1g increments
+- Battery: 760mAh
+- Notable Features: Separate flow rate display, smaller than baisc 2.0, IPX3 water resistant
+##### Links:
+- [Amazon US](https://www.amazon.com/Timemore-Lightweight-Digital-Espresso-Precision/dp/B0CXPSPJPJ)
+- [Timemore.com](https://www.timemore.com/collections/coffee-scale/products/timemore-coffee-scale-with-timer-basic-mini-black)
+- [Aliexpress](https://www.aliexpress.com/item/3256806899817262.html)
+
+#### **TIMEMORE Black Mirror Nano ($80-90USD)**
+The timemore black mirror nano is an older design and therefore doesn't have a seperate display for the flow rate.  The flow rate replaces the timer when in use.  Despite that downside, the scale it has many features that the basic 2.0 and mini doesn't.  The scale has an inclined display like the mhw3bomber forula smart scale which makes it easier to read while pulling espresso.  The buttons of the scales are also on the side instead of the display.  This makes it much less likely for sprays to accidentally press any of the buttons.  The base plate and internal structure of the nano is CNC from aluminum.  This allows the scale to be the most responsive and accurate of the timemore scales.  The downside is that also makes it the most expensive of the timemore scale and nearly $100.
+##### Specs:
+- Size: 115mm x 100mm x 20mm
+- Weight Range: 0.1g - 2000g in 0.1g increments
+- Battery: 900mAh
+- Notable Features: Inclined display, higher accuracy, higher responsiveness, side buttons, dedicated flow rate button. 
+##### Links:
+- [Amazon US](https://www.amazon.com/TIMEMORE-Espresso-Measurement-Weighing-Instrument/dp/B09NBYSZHD)
+- [Timemore.com](https://www.timemore.com/collections/coffee-scale/products/timemore-black-mirror-nano-espresso-coffee-weighing-timing-black)
+- [Aliexpress](https://www.aliexpress.com/item/3256803473243877.html)
