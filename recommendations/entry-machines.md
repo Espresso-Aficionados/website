@@ -117,7 +117,7 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 
 
 ## Thermoblock:
-These machines use thermoblocks to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater. Thermocoils and thermojets are subsets of thermoblocks - coils are 
+These machines use on-demand heating to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater. The three subtypes are thermoblock, thermocoil, and thermojet. The thermoblock is the oldest and simplest kind. It is made of two pieces of cast metal with a maze-like channel that water flows through, with heating elements embedded in the metal. The thermocoil is similar, but uses a coil of stainless steel pipe inside a cast aluminum body instead of a channel in the aluminum body itself. Thermojets are quite different; instead of using a traditional heating element embedded in metal, they use a thick film heater (essentially a printed heating element) and a very small volume water channel attached to the top of it.
 
 ### **Breville Bambino** ([$300](https://www.breville.com/us/en/products/espresso/bes450.html))
 #### Pros:
@@ -218,6 +218,7 @@ Instead of using a pump to create pressure, lever machines use a  lever actuated
 
 ### **Cafelat Robot** ([$310 - $449](https://www.cafelatstore.com/products/robotpowdercoating))
 Similar to the Flair but with higher build quality and an easier workflow
+
 #### Pros:
 - Preheating somewhat optional with medium-dark roasts due to low thermal mass
 - Looks cool with googly eyes
@@ -229,6 +230,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 - Oddball basket design limits options for accessories
 
 ### **La Pavoni Europiccola** ([$989](https://www.lapavoni.com/en/products/domestic-machines/europiccola-lusso))
+
 > Classic and basically indestructible closed boiler lever machine made since the 1960s, but a poor value at its current new price.
 
 #### Pros:
