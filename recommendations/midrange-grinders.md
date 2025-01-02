@@ -45,7 +45,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 
 ## Grinders Designed for Home
 
-### Niche Zero: $663 from Indiegogo
+### Niche Zero: $669 from Niche
 - 63mm Mazzer Kony Conical Burr  
 - Stepless  
 - Single-dose
@@ -63,7 +63,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** Able to punch far above it's price range when properly sorted, competes taste-wise with nearly anything out there with appropriate burrs and/or alignment. Thriving modding community and 3D printed parts, 58mm dosing cup, surprisingly sturdy feeling.     
 **Cons:** Most units seem well-sorted, but high production volume and availability means you're rolling the dice with alignment or build quality. Somewhat struggles with useability and retention until modifications, may not have brand-image of other grinders.
 
-### Mahlkonig x54: $850 (USA, cheaper in EU) Prima Coffee & Majesty Coffee
+### Mahlkonig x54: $599 from Prima Coffee & Majesty Coffee
 - 54mm Malkonig Steel Flat burr (espresso geometry)
 - Stepless
 - timed hopper-dose
@@ -74,7 +74,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 
 
 
-### Eureka Mignon Specialita $415 from Espresso Coffee Shop
+### Eureka Mignon Specialita $347 from Espresso Coffee Shop
 - 55mm Eureka Flat Burr  
 - Stepless  
 - ~2g retention  
@@ -83,7 +83,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Pros:** good grind quality, precise dosing, small, quiet, fast, available in many places  
 **Cons:** not easily switchable for brew, not amazing for single-dosing, reported channeling issues until post-seasoning (it gets better with time)
 
-### Baratza Forte $715 from Baratza Refurb
+### Baratza Forte $850 from Baratza
 - 54mm Mahlkonig Ceramic Espresso burr OR 54mm Ditting Steel Brew Burr  
 - Stepped  
 - ~2g retention  
@@ -92,7 +92,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 **Cons:** Grind quality is *okay* if left unaligned, somewhat loud, steel burrs are painfully slow
 
 
-### Baratza Sette 270Wi $549 from Baratza **New**
+### Baratza Sette 270Wi $599 from Baratza
 - 40mm Etzinger Conical Burr
 - Grind by weight
 - Microstepped
