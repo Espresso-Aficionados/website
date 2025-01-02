@@ -40,7 +40,7 @@ These machines all use a traditional tank-style boiler. They generally have stro
   - PID for temperature control
   - OPV Adjustment requires spring replacement **NB: 2024 onwards in the US market has a 9 bar OPV**
 - Difficult to fit a scale and cup with stock drip tray, especially with spouted portafilter
-- Aluminum boiler prone to scale formation - watch the water you use.
+- Aluminum boiler prone to scale formation - watch the water you use. **NB: The "E24" version of this machine uses a brass boiler**
 - If buying used you need to check what year it was made; the European market 2015-2018 models are to be avoided as they lack a 3-way valve
 - Poor steam power
 - Bad steam wand
@@ -60,7 +60,7 @@ These machines all use a traditional tank-style boiler. They generally have stro
 - Included accessories (baskets, tamper, etc) are surprisingly decent and totally usable
 
 #### Cons:
-- Temperature is controlled by thermostats and wanders around; worth
+- Temperature is controlled by thermostats and wanders around; very much worth PID modding
 - Many different versions, takes some research to understand what the differences are
   - check the "Silvia of All Varieties" thread under Pump Machines in the Discord server for more information
 - Frame sometimes can rust
@@ -83,6 +83,7 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Oddball 57mm group makes finding accessories more difficult
 - Temperature wanders around on the non-PID model.
 - Included plastic tamper is bad
+- Immersion element can burn out if you're not careful about refilling the boiler post-steam
 
 ### **Lelit Victoria** ([$999](https://www.lelit.com/product/victoria-pl91t/))
 #### Pros:
@@ -92,9 +93,10 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Larger boiler for better temperature stability in shots
 - Good quality included baskets
 - lots of space for cups and scales under the portafilter
+- comparable to the Silvia with mods already added and then some
 
 #### Cons:
-- Expensive, competing with used heat exchangers and dual boilers but comparable to the Silvia with mods already added
+- Expensive, competing with used heat exchangers and dual boilers
 - Included plastic tamper is straight up bad, especially for the price
 - Immersion element can burn out if you're not careful about refilling the boiler post-steam
 
@@ -106,9 +108,10 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Larger boiler for better temperature stability in shots
 - Good quality included baskets and tamper
 - Lots of color options
+- comparable to the Silvia with PID already added
 
 #### Cons:
-- Expensive, competing with used heat exchangers and dual boilers but comparable to the Silvia with mods already added
+- Expensive, competing with used heat exchangers and dual boilers
 - Lacks space between drip tray and group; can be hard to fit larger cups with a scale and a spouted portafilter.
 - Immersion element can burn out if you're not careful about refilling the boiler post-steam
 
@@ -131,11 +134,11 @@ These machines use on-demand heating to heat water - they heat faster and have m
 #### Cons:
 - Pre-infusion is not as flexible as Breville thermoblock machines (limited to 10 seconds) and tends to run hot
 - Tiny drip tray
-- Temperature is variable throughout a shot - starts very hot then drops off a cliff
+- Temperature is quite variable throughout a shot - starts very hot then drops off a cliff
   - This behavior _is_ repeatable and consistent, so you are able to dial around it to a degree 
 - No true semiautomatic mode; programming mode is the workaround. 
 - Lacks 3-way group valve to release pressure
-- Thermojet prone to clogging from scale - make sure you use good water
+- Thermojet has a very small pipe and is prone to clogging from scale - make sure you use good water
 - Internal and external build quality is lacking
 - Light codes for cleaning and descaling not particularly obvious
 
@@ -149,10 +152,11 @@ These machines use on-demand heating to heat water - they heat faster and have m
 #### Cons:
 - Higher cost than the regular Bambino
 - 3 way valve does not open immediately at pump shut-off, which is a little hard to learn
-- other cons minus 3-way valve apply here as well
+- otherwise shares the same cons as the Bambino
 
 ### **Breville Infuser** ([$599](https://www.amazon.com/Breville-BES840XL-Infuser-Espresso-Machine/dp/B0089SSOR6))
-> Generally the best value Breville, if you're focused on espresso quality and steam takes a back seat.
+> Generally the best value Breville, if you're focused on espresso quality and steam is less important.
+
 #### Pros:
 - Works decently out of the box
 - PID Controlled temp (5 settings at 2F increments, 196-204F) and fairly stable
@@ -167,7 +171,8 @@ These machines use on-demand heating to heat water - they heat faster and have m
 - 15 bar OPV can be hard to manage; it can be tuned to 9 bar with relatively minimal effort, or ignored by using the [Pre-Infusion Mode only](/manufacturers/breville/preinfusion.html) trick
   - this has been rectified to a 9 bar limit on newer (2022-) machines, to my understanding
 - rather slow, weak steam
-- Amazon-only in the US
+- First shot or two is cool - run a blank shot to heat the group and portafilter
+- Amazon-only in the US, often not available elsewhere
 - Auto-volumetric mode is poorly implemented and basically not worth using
 - Water-waster, the OPV dumps to the drip tray
 
@@ -177,7 +182,7 @@ Instead of using a pump to create pressure, lever machines use a  lever actuated
 > Note: for the manual levers that don’t include a milk steamer, you can froth milk by heating it up then frothing in a French press, using a spinny-thingy like a Nanofoamer, or buying the Bellman stovetop milk steamer. Whether that’s worth the price and effort for your workflow is up to you.
 
 ### **Flair** (Neo, Classic, Pro 2) ([$160 - $319](https://flairespresso.com/products/espresso-makers/))
-> The most affordable entry point to true espresso
+> The most affordable entry point to true espresso, but it is just a piston on a lever. 
 
 #### Pros:
 - Highest espresso quality at its price range due to profiling ability
@@ -190,7 +195,7 @@ Instead of using a pump to create pressure, lever machines use a  lever actuated
 - Requires a kettle to heat water
 - No ability to steam milk or heat water
 - Maximum temperature reaches ~200F and tapers from there, limiting shot time and the ability to pull light roasts
-- Lack of non-proprietary accessories due to portafilter size
+- Lof non-proprietary accessories due to portafilter size
 
 ### **Flair** 58 (58X, 58, 58+) ([$500-$720](https://flairespresso.com/products/espresso-makers/)
 
@@ -226,7 +231,7 @@ Similar to the Flair but with higher build quality and an easier workflow
 
 ### **La Pavoni Europiccola** ([$989](https://www.lapavoni.com/en/products/domestic-machines/europiccola-lusso))
 
-> Classic and basically indestructible machine made since the 1960s, but a poor value at its current new price.
+> Classic and basically indestructible closed boiler lever machine made since the 1960s, but a poor value at its current new price.
 
 #### Pros:
 - Can make amazing espresso
@@ -249,9 +254,11 @@ Similar to the Flair but with higher build quality and an easier workflow
 These machines are similar to the Single Boiler/Dual Use machines listed above but have a grinder built in. They are great for space saving, but it is not uncommon to outgrow the grinder quickly as they are generally pretty poor quality. Generally not recommended. 
 
 ### **Breville Barista Express** ([$699 [Commonly on sale for $599]](https://www.breville.com/us/en/products/espresso/bes870.html))
-> Breville Infuser, but with a grinder. The Express Impress adds an assisted tamp feature, but is otherwise the same. The Barista Pro is also very similar but with a thermojet instead of a thermocoil.
+> Breville Infuser, but with a grinder. The Express Impress adds an assisted tamp feature, but is otherwise the same. The Barista Pro and Touch are also very similar but with a thermojet heater instead of a thermocoil.
+
 #### Pros:
 - Comes with a grinder
+- Incredibly common new and used
 - similar pros to Infuser otherwise
 
 #### Cons:
