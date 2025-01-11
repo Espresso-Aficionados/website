@@ -25,8 +25,9 @@ The pump machines on this list range from as low as $150 used all the way up to 
 ### SBDUs:
 These machines all use a traditional tank-style boiler. They generally have stronger steam and can have better temperature control, but take longer to heat up and change over to steam from brew (and vice versa). They're usually Italian made, and tend to be pretty hardy machines that are hard to break if they are fed good water and are used responsibly. 
 
-### **Gaggia Classic (~[$449](https://www.gaggia.com/manual-machines/new-classic/))** 
+### **Gaggia Classic/Classic Pro/E24 (~[$499](https://www.gaggia.com/manual-machines/new-classic-e24/))** 
 > Generally _not recommended_ stock. Only buy used if you want to tinker. 
+
 #### Pros:
 - Large modding community
 - Well built, common to have machines 20+ years old
@@ -115,6 +116,20 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Lacks space between drip tray and group; can be hard to fit larger cups with a scale and a spouted portafilter.
 - Immersion element can burn out if you're not careful about refilling the boiler post-steam
 
+### **Turin Legato/MiiCoffee Apex V2** (~$499 from [MiiCoffee](https://miicoffee.shop/products/miicoffee-apex-espresso-machine) or [EspressoOutlet](https://espressooutlet.com/products/turin-legato-espresso-machine))
+> This machine is not SBDU. It is a single boiler for brewing, with an external thermoblock for steaming
+
+#### Pros:
+- Features-rich at this price point
+- Adjustable flow control, dual PID for its boiler and thermoblock
+- Adjustable pressure
+- Programmable preinfusion
+- Has shot timer and pressure gauge
+- 58mm group for a wide range of accessories
+
+#### Cons:
+- Latest to the market so longevity is a concern
+- Some parts are not readily available on the market so repairing will take time, namely the PCB
 
 ## Thermoblock:
 These machines use on-demand heating to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater. The three subtypes are thermoblock, thermocoil, and thermojet. The thermoblock is the oldest and simplest kind. It is made of two pieces of cast metal with a maze-like channel that water flows through, with heating elements embedded in the metal. The thermocoil is similar, but uses a coil of stainless steel pipe inside a cast aluminum body instead of a channel in the aluminum body itself. Thermojets are quite different; instead of using a traditional heating element embedded in metal, they use a thick film heater (essentially a printed heating element) and a very small volume water channel attached to the top of it.
