@@ -45,25 +45,28 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 
 ## Grinders Designed for Home
 
-### Niche Zero: $663 from Indiegogo
+### Niche Zero: $669 free shipping from [Niche](https://www.nichecoffee.co.uk/products/niche-zero)
 - 63mm Mazzer Kony Conical Burr  
 - Stepless  
 - Single-dose
-- "Polarizing" looks  
+- "Polarizing" looks
+- Simple workflow
+- Occasionally pops up used for $400~$500
 
-**Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup  
-**Cons:** slower grind speed, some don't like Mazzer Kony taste profile (somewhat bimodal), sells out quick like Yeezys
+**Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup. 
+**Cons:** slower grind speed, some don't like Mazzer Kony taste profile (somewhat bimodal)
 
-### Turin/G-iota/Generic DF64: $350-$650 from various sellers
-- 64mm Italmill Flat burr or 64mm SSP Multipurpose or 64mm SSP HU
+### Turin/MiiCoffee/Generic DF64v2: $350~$399 from various sellers ([Amazon](https://a.co/d/bB7s1rH), [EspressoOutlet](https://espressooutlet.com/collections/home-coffee-grinders/products/turin-df64-gen-2-single-dose-coffee-grinder), [MiiCoffee](https://espressooutlet.com/collections/home-coffee-grinders/products/turin-df64-gen-2-single-dose-coffee-grinder))
+- 64mm DLC Espresso focused Flat burr (or additional $150-$200 for 64mm SSP Multipurpose, 64mm SSP HU, or 64mm SSP Labsweet v3)
 - Stepless
 - Single-dose
-- highly mod-able, decent when stock
+- Highly mod-able, decent when stock
+- Ion/plasma generator to reduce static
 
-**Pros:** Able to punch far above it's price range when properly sorted, competes taste-wise with nearly anything out there with appropriate burrs and/or alignment. Thriving modding community and 3D printed parts, 58mm dosing cup, surprisingly sturdy feeling.     
-**Cons:** Most units seem well-sorted, but high production volume and availability means you're rolling the dice with alignment or build quality. Somewhat struggles with useability and retention until modifications, may not have brand-image of other grinders.
+**Pros:** Able to punch far above it's price range when properly sorted, competes taste-wise with nearly anything out there with appropriate burrs and/or alignment. Thriving modding community and 3D printed parts, 58mm dosing cup, surprisingly sturdy feeling. 
+**Cons:** Most units seem well-sorted, but high production volume and availability means you're rolling the dice with alignment or build quality. Somewhat struggles with useability and retention until modifications, may not have brand-image of other grinders. RDT needed/recommended
 
-### Mahlkonig x54: $850 (USA, cheaper in EU) Prima Coffee & Majesty Coffee
+### Mahlkonig x54: $599 (USA) or ~€400 (EU) from various sellers
 - 54mm Malkonig Steel Flat burr (espresso geometry)
 - Stepless
 - timed hopper-dose
