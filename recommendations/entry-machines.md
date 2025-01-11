@@ -191,7 +191,6 @@ These machines use on-demand heating to heat water - they heat faster and have m
 - Auto-volumetric mode is poorly implemented and basically not worth using
 - Water-waster, the OPV dumps to the drip tray
 
-
 ## Manual Levers:
 Instead of using a pump to create pressure, lever machines use a  lever actuated piston. The machines on this list are all _direct levers_ which means that the user controls the force on the piston directly. Most on this list do not include a boiler. 
 
