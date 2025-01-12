@@ -34,4 +34,4 @@ The single most important factor for your latte art is your milk texture. Withou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCCcZ619-TM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### How To Steam Milk For Latte Art (featuring 2x Latte Art World Champion Lance Hedrick)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gTC3dJvwgUI?list=PL0BqZlXENXW-5jwJswL0LSSjfIQt8Q_0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTC3dJvwgUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe>
