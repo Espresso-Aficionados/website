@@ -138,7 +138,7 @@ Calcium Hydroxide | 7.40 | 1,000 | 10,000
 
 Compound | Mass (g) | Dilute volume (mL) | Concentration (mg/L of CaCO<sub>3</sub> equiv.)
 -------- | -------- | ------------------ | --------------------
-Sodium Bicarbonate | 16.79 | 1,000 | 10,000
+Sodium Bicarbonate | 8.39 | 1,000 | 10,000
 Potassium Bicarbonate | 20.00 | 1,000 | 10,000
 
 
