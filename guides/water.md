@@ -133,7 +133,7 @@ Calcium Chloride Dihydrate | 14.69 | 1,000 | 10,000
 Calcium Sulphate Dihydrate (Gypsum)* | 17.20 | 1,000 | 10,000
 Calcium Hydroxide | 7.40 | 1,000 | 10,000
 
-\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000 mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092 mg/L of CaCO<sub>3</sub> equiv. Even this weak of a concentrate is not recommended because gypsum gets even less soluble at brew temperatures. 0.86g of gypsum in 1,000 mL of water would make a safely dissolved solution with concentration of 500 mg/L of CaCO<sub>3</sub> equiv.
+\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000 mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092 mg/L of CaCO<sub>3</sub> equiv. 1.72g of gypsum in 1,000 mL of water would make a safely dissolved solution with concentration of about 1000 mg/L of CaCO<sub>3</sub> equiv.
 
 ### KH (aka Carbonate Hardness aka Buffering capacity) Concentrates:
 
