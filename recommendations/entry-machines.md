@@ -35,6 +35,7 @@ These machines all use a traditional tank-style boiler. They generally have stro
 - Stainless steel frame does not rust
 - Water tank slides out and can be filled from the front
 - Likely the cheapest Italian-made machine on the market
+- group screw is countersunk
 
 #### Cons:
 - Needs modifications to shine:
@@ -116,20 +117,26 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Lacks space between drip tray and group; can be hard to fit larger cups with a scale and a spouted portafilter.
 - Immersion element can burn out if you're not careful about refilling the boiler post-steam
 
-### **Turin Legato/MiiCoffee Apex V2** (~$499 from [MiiCoffee](https://miicoffee.shop/products/miicoffee-apex-espresso-machine) or [EspressoOutlet](https://espressooutlet.com/products/turin-legato-espresso-machine))
-> This machine is not SBDU. It is a single boiler for brewing, with an external thermoblock for steaming
+### **Gemilai CRM3007L (aka Turin Legato, MiiCoffee Apex V2)** (~$499 from [MiiCoffee](https://miicoffee.shop/products/miicoffee-apex-espresso-machine) or [Espresso Outlet](https://espressooutlet.com/products/turin-legato-espresso-machine))
+> This machine is not SBDU, but rather has a boiler for brewing that also feeds an external thermoblock for steaming. Build quality unfortunately seems to be very inconsistent, so make sure it is bought from a reseller with a good return policy. 
 
 #### Pros:
-- Features-rich at this price point
-- Adjustable flow control, dual PID for its boiler and thermoblock
-- Adjustable pressure
-- Programmable preinfusion
-- Has shot timer and pressure gauge
+- Feature-rich at this price point
+  - Adjustable flow control
+  - dual PID for its boiler and thermoblock
+  - Adjustable pressure
+  - Programmable preinfusion
+  - Has shot timer and pressure gauge
 - 58mm group for a wide range of accessories
+- Stainless steel boiler
+- short switch-over between brew and steam
 
 #### Cons:
-- Latest to the market so longevity is a concern
+- New to the market so longevity is a concern
+- Single pump so it can only brew or steam, not both simultaneously
 - Some parts are not readily available on the market so repairing will take time, namely the PCB
+- Quality control is inconsistent at best, so make sure you buy it from somewhere with a good return policy.
+- Internal build is not particularly high grade
 
 ## Thermoblock:
 These machines use on-demand heating to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater. The three subtypes are thermoblock, thermocoil, and thermojet. The thermoblock is the oldest and simplest kind. It is made of two pieces of cast metal with a maze-like channel that water flows through, with heating elements embedded in the metal. The thermocoil is similar, but uses a coil of stainless steel pipe inside a cast aluminum body instead of a channel in the aluminum body itself. Thermojets are quite different; instead of using a traditional heating element embedded in metal, they use a thick film heater (essentially a printed heating element) and a very small volume water channel attached to the top of it.
@@ -145,12 +152,13 @@ These machines use on-demand heating to heat water - they heat faster and have m
 - Extremely fast (3 second) heatup and steam changeover
 - Plenty of space for cup and scale
 - Very small
+- Water tank easy to remove for refilling
 
 #### Cons:
-- Pre-infusion is not as flexible as Breville thermoblock machines (limited to 10 seconds) and tends to run hot
+- Pre-infusion is not as flexible as Breville thermocoil machines (limited to 10 seconds) and tends to run hot
 - Tiny drip tray
 - Temperature is quite variable throughout a shot - starts very hot then drops off a cliff
-  - This behavior _is_ repeatable and consistent, so you are able to dial around it to a degree 
+  - This behavior _is_ repeatable and consistent, so it is possible to dial around it to a degree 
 - No true semiautomatic mode; programming mode is the workaround. 
 - Lacks 3-way group valve to release pressure
 - Thermojet has a very small pipe and is prone to clogging from scale - make sure you use good water
