@@ -3,7 +3,6 @@ layout: default
 title: Entry Level Espresso Machines
 parent: Recommendations
 nav_order: 2
-permalink: /recommendations/entry-machines/
 ---
 
 # Entry Level Machines
@@ -138,7 +137,6 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 - Some parts are not readily available on the market so repairing will take time, namely the PCB
 - Quality control is inconsistent at best, so make sure you buy it from somewhere with a good return policy.
 - Internal build is not particularly high grade
-- Do not purchase during the winter. Suspected that testing leaves water that expands, damaging the machine.
 
 ## Thermoblock:
 These machines use on-demand heating to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater. The three subtypes are thermoblock, thermocoil, and thermojet. The thermoblock is the oldest and simplest kind. It is made of two pieces of cast metal with a maze-like channel that water flows through, with heating elements embedded in the metal. The thermocoil is similar, but uses a coil of stainless steel pipe inside a cast aluminum body instead of a channel in the aluminum body itself. Thermojets are quite different; instead of using a traditional heating element embedded in metal, they use a thick film heater (essentially a printed heating element) and a very small volume water channel attached to the top of it.
