@@ -1,11 +1,8 @@
-
 ---
-
 layout: default
 title: General Breville Information
 parent: Breville 
 grand_parent: Manufacturers
-
 ---
 
 
