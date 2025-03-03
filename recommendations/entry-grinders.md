@@ -3,6 +3,7 @@ layout: default
 title: Entry Level Grinders
 parent: Recommendations
 nav_order: 5
+permalink: /recommendations/entry-grinders/
 ---
 
 # Entry Level Grinders

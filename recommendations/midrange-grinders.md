@@ -3,6 +3,7 @@ layout: default
 title: Midrange Grinders
 parent: Recommendations
 nav_order: 6
+permalink: /recommendations/midrange-grinders/
 ---
 
 # Midrange Grinders

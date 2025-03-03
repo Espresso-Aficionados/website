@@ -3,6 +3,7 @@ layout: default
 title: Titan Grinders
 parent: Recommendations
 nav_order: 7
+permalink: /recommendations/titan-grinders/
 ---
 
 # Titan Grinders
