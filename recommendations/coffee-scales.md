@@ -3,7 +3,6 @@ layout: default
 title: Coffee Scales
 parent: Recommendations
 nav_order: 7
-permalink: /recommendations/coffee-scales/
 ---
 
 # Coffee Scales

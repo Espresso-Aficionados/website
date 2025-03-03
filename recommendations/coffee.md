@@ -3,7 +3,6 @@ layout: default
 title: Coffee
 parent: Recommendations
 nav_order: 1
-permalink: /recommendations/coffee/
 ---
 
 # Coffee Recommendations
