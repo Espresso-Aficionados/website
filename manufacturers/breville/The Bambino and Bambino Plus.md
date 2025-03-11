@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Bambini aka The Bambino and Bambino Plus
@@ -5,6 +6,7 @@ parent: Breville
 grand_parent: Manufacturers
 ---
 
+# The Bambino and Bambino Plus
 
 ## Frontmatter
 - Yes the Bambinos can pull good espresso.
@@ -23,12 +25,15 @@ Hot Water Dispenser: Yes (Bambino Plus requires a special button combination)
 Pressure: Rated at 9 bars
 
 ### Bambino
+The current cheapest Breville Espresso Machine 
 - Aluminum Portafilter
 - Fully articulating Steam wand (ball joint)
 - Capable of blooming shots due to the lack of a “3 way valve”[^2]
 	- Drips after stopping a shot
 	- “Wetter” pucks in theory
+
 ### Bambino Plus
+
 The plus has a few additional features listed below:
 - Stainless Steel portafilter (heavier and larger thermal mass)
 - Milk Autofroth function w/ Auto Purge
@@ -77,6 +82,7 @@ You will need to purge before steaming milk due to condensation gathering in the
 (Insert link to milk steaming video)
 - [1-hole vs 4-hole steaming](https://www.youtube.com/watch?v=ZBj9ejasCiI)
 - [EAF Latte Art Basics + Steaming Guide](https://espressoaf.com/guides/latteart.html)
+
 #### Cleaning
 Milk has a tendency to stick to the wand after steaming. You should always wipe after steaming. 
 
@@ -115,10 +121,13 @@ With a 54mm portafilter; you will likely be grinding coarser as compared to a 58
 
 ### Dealing With a Tiny Driptray
 You can purge the steam wand into a separate jar/bowl/container so as not to fill the drip tray as rapidly. Bonus is that you can empty a cup or jug a lot easier than the tray. Pro-tip; use something that you don’t have to tilt to remove from under the steam wand. 
+
 ### Quick Purge on the Bambino (minus)
 You can purge the steam wand by holding down the steam button until the pump engage. This will jet out 3 spurts of water to empty the steam wand.
+
 ### The solenoid and steaming on the Bambino (minus)
 From Lexycorn in EAF: 
+
 >…Inside the machine the heater has to be switched between the group and steam wand. By starting a shot you are connecting the group to the heater and allowing excess pressure and steam to be purged through the group head instead… 
 
 The method is as follows: 
