@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: General Breville Information
@@ -5,16 +6,7 @@ parent: Breville
 grand_parent: Manufacturers
 ---
 
-
-- [[#Breville Rundown + History|Breville Rundown + History]]
-- [[#General Type of Machines by Heating Element|General Type of Machines by Heating Element]]
-	- [[#General Type of Machines by Heating Element#Dual Boilers with Group-head Boiler|Dual Boilers with Group-head Boiler]]
-	- [[#General Type of Machines by Heating Element#Thermoblock|Thermoblock]]
-	- [[#General Type of Machines by Heating Element#Thermocoil|Thermocoil]]
-	- [[#General Type of Machines by Heating Element#Thermojet|Thermojet]]
-	- [[#General Type of Machines by Heating Element#Note|Note]]
-- [[#Portafilters et al|Portafilters et al]]
-
+# General Breville/Sage Information
 
 ## Breville Rundown + History
 *from wikipedia*
@@ -28,15 +20,19 @@ Per the above, and in general, Sage is the name in the UK/EU whereas Breville in
 
 
 ## General Type of Machines by Heating Element
+
 ### Dual Boilers with Group mounted Brew Boiler
 The Breville Dual Boiler system consists of a brew boiler mounted over the BrewGroup with water being fed to it from a coil surrounding the steam boiler to allow it to preheat it. 
 - Oracle line (not including the jet)
 - Dual Boiler line
+- 
 ### Thermoblock
-For breville; generatlly speaking it is two slices of aluminum sandwiching a gasket and water path. Integrated heating element in the block. 
-- The Duo-Temp (800esxl) and Die Cast
+For breville; generally speaking it is two slices of aluminum sandwiching a gasket and water path. Integrated heating element in the block. 
+- The Duo-Temp (800esxl)
+- Breville Die Cast
 
 These are generally *very* old and should not be considered for use. The failure model can be catastrophic; especially with age involved.
+
 ### Thermocoil
 This is a coiled tube of steel embedded into an aluminum block with heating elements throughout. 
 - Barista Express  and Duo-Temp Pro
@@ -49,19 +45,25 @@ A thin heating element embedded a PCB or substrate that routes water in a maze l
 - Barista Pro
 - The Oracle Jet *as of 2024* 
 	- Contains a grouphead mounted secondary thermocoil. 
-### Note
+
+
+### Note 
+
 The Breville Ikon may be a single Boiler. It is an older and relatively rare. If you have any information feel free to share.
 
 
 
 
 ## Portafilters et al
+
 - 58 mm
 	- "Professional" sized portafilters; can generally fit standard 58 mm accessories
 	- 2~eared portafilter is unique to breville. Not compatible with standard[^1]e61 portafilters
 		- Ignore product images that show a 3 ear portafilter 
+
 - 54 mm
 	- 3-eared portafilter; again is unique to breville. Plenty of accessories available due to the proliferation of breville 54mm machines. 
+
 - 51 mm
 	- Generally no longer used by Breville; Duo Temp used it along with other older models.
 	- Generally DeLonghi 51mm 3-ear portafilters and accessories work with this size[^2].
