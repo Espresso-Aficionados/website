@@ -8,12 +8,57 @@ nav_order: 4
 # Intro to Water
 ## The Importance of Water
 
-Water is the major component of espresso and acts as a solvent during the extraction phase. Relatively small changes in the general hardness and alkalinity of water can lead to drastic changes in the flavor profile of the resulting espresso. In addition, some municipal water sources, or even bottled water, can form scale when repeatedly heated and cooled inside your espresso machine. This can sometimes clog components, or negatively alter the flow of water in your shiny, spiffy coffee machine. To combat this, the solution is to use soft water. However, water with absolutely no mineral content has been found to negatively affect coffee extraction. Additionally, distilled water can also have a mildly corrosive affect on metal components. So, time to strike some sort of a balance. Time to explore... 
+Water is the main ingredient in coffee. Using good, clean water is important for making good coffee.
+When considering which water to use, there are two main considerations:
+1. Safety - this refers to boiler safety and scale buildup, mainly for espresso.
+2. Taste - the composition of minerals in water can affect the taste of the final drink and may vary by preparation.
 
-## How is the water I am using?
-Many municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Electronic water TDS (total dissolved solids) meters that measure the conductance of water can also be used to get a general level of TDS in ppm, however note that these meters are not able to estimate GH or KH separetly. An electronic TDS meter is also useful for testing that DI is actually 0 TDS.
 
-## ...The Simple Water Recipe
+## The Basics - Water Safety
+When we refer to water safety, the focus is not on safety for consumption, though obviously you should always make sure that the water you are using is safe to drink.
+For coffee making, and particularly for espresso machines, safety refers to the hardness of the water that can cause scale buildup inside espresso machines and boilers. Hard water can also cause scale buildup in kettles or automatic brewers.
+
+Water hardness is a measure of the concentration of calcium and magnesium in the water. As water is heated and cooled, these minerals will deposit inside any surface it comes into contact with (pipes, boilers, kettles) and can eventually clog or damage these if not properly treated.
+Water hardness is typically measured in ppm (parts per million) of calcium and magnesium.
+
+<ins>As a general guideline, aim for ~50ppm hardness in your water, with >100ppm considered hard and not recommended for use in espresso machines<ins>
+
+While the typical concern is water being too hard, water with too few minerals (very low ppm or distiller water) is not safe to use either, as it may leech metals, depending on your boiler material.
+
+### How do I measure my water hardness?
+In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
+
+You can also measure your water using two fairly inexpensive methods:
+1. An electronic TDS (total dissolved solids) meter
+2. A water test kit that includes hardness strips
+
+TDS meters measure the conductivity of your water and report the total ppm in the water. This measures all dissolved solids in the water, not just magnesium and calcium, but can give a general direction of hardness - <ins>if your total ppm is between 50 and 100 you're likely ok<ins>
+
+Water test kits are available from espresso machine makers such as La Marzocco and will have test strips specifically for hardness minerals. The tests themselves will not be as specific as TDS measurement but can give a general sense of hardness minerals in your water
+
+
+### What do I do if my water is hard?
+There are several options when considering water treatment / replacement:
+1. Water filters
+2. Store-bought mineral water
+3. Coffee water mineral packets
+4. Custom water recipes
+
+Water filters can help reduce water hardness as well as improve overall water quality for flavor. There is a wide range of water filters, from pitchers such as ZeroWater all the way to plumbed in filtration systems. Keep in mind that if you use a total filtration system, like ZeroWater or Reverse Osmosis (RO), you should add minerals to your water post-filtration, as fully distilled water will both taste bad and may be harmful for your espresso machine.
+
+Some machine manufacturers recommend specific mineral water [brands](https://home.lamarzoccousa.com/water-for-home-espresso-machines/). Generally speaking it is hard to know the exact composition of minerals for different brands, but if your water is particularly hard, this may be a safer option.
+
+Mineral packets / droppers are now widely available to remineralize RO water or distilled water.
+Companies such as [TWW](https://thirdwavewater.com/) and [Lotus](https://lotuscoffeeproducts.com/) offer products with specific mineral content for different brewing technique.
+
+Lastly, many aficionados like to make their own water, starting with RO or distilled water as a base and adding a specific mixture of minerals for their taste and brewing methods.
+
+Continue reading below for a more advanced section on how to make your own water and current popular recipes.
+
+
+
+# Advanced - Making Your Own Water
+## The Simple Water Recipe
 
 A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
 
@@ -25,7 +70,7 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 
 <ins>Method</ins>
 1. Put the Potassium Bicarbonate into the water
-2. Agitate 
+2. Agitate
 3. Let rest for 5-10 mins (This ensures sufficient time for the Potassium Bicarbonate to properly dissolve into the water)
 
 That's it. Really.
@@ -38,9 +83,9 @@ The premise here is that the water acts simply as a carrier for the compounds yo
 
 ### The "But my scale won't measure that accurately"
 
-A shortcoming of the recipe provided above is the difficulty of consistently measuring 0.35g of the buffer. So, yet more perfection and simplification seeking enthusiasts reached the conclusion that a concentrate of buffer can be used to simplify the measurements needed. 
+A shortcoming of the recipe provided above is the difficulty of consistently measuring 0.35g of the buffer. So, yet more perfection and simplification seeking enthusiasts reached the conclusion that a concentrate of buffer can be used to simplify the measurements needed.
 
-To make a 10,000x ppm concentrate, mix 20g of Potassium Bicarbonate into 1L of distilled water. 
+To make a 10,000x ppm concentrate, mix 20g of Potassium Bicarbonate into 1L of distilled water.
 
 To use the concentrate, start with 5mL of concentrate and add water to a total volume of 1L. To make 4L of water, start with 20mL of concentrate and add water to a total volume of 4L.
 
@@ -152,7 +197,7 @@ Increasing general hardness will increase intensity of flavors extracted. Increa
 
 ### The Idea
 
-Coffee is primarily composed of water. Even having good beans and a good grinder, if poor water is used, it will result in a bad coffee. Water quality and minerals varies depending on the area that the user is living in. Some areas just naturally have the ideal soft water for coffee like San Francisco or Seattle. Others like Los Angeles will have water that will make coffee taste bland. One way to get around this is to craft your own water mixture. This page will guide through the idea of remineralizing Reverse Osmosis (RO) or Distilled Water. 
+Coffee is primarily composed of water. Even having good beans and a good grinder, if poor water is used, it will result in a bad coffee. Water quality and minerals varies depending on the area that the user is living in. Some areas just naturally have the ideal soft water for coffee like San Francisco or Seattle. Others like Los Angeles will have water that will make coffee taste bland. One way to get around this is to craft your own water mixture. This page will guide through the idea of remineralizing Reverse Osmosis (RO) or Distilled Water.
 
 ### The main components we will be looking at are:
 
@@ -169,7 +214,7 @@ The concentration of Magnesium and Calcium combined will give the total hardness
 _Alkalinity:_
 This will add more buffer. A higher alkalinity number will help reduce acidity.
 
-There are online calculators and spreadsheet to calculate Alkalinity and Hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness). 
+There are online calculators and spreadsheet to calculate Alkalinity and Hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness).
 
 ## Practical Example:
 
@@ -186,9 +231,9 @@ Rao Allonge Parameters:
 #### _Attempt #1_
 
 Water #1: RPavlis Water
- 
+
 0 GH 50 KH
- 
+
 The shots made with RPavlis water felt very muted in acidity. It made me wonder if adding some hardness would help bring some more of the bean compounds out. It tasted a certain kind of emptiness. I decided to follow another common recipe that I knew for sure would not scale.
 
 
@@ -202,7 +247,7 @@ The addition of Mg to hardness caused a ton of acidity. It felt very sour. It ta
 
 #### _Attempt #3_
 
-Keeping water constant 
+Keeping water constant
 
 80 GH 40 KH
 
@@ -230,7 +275,7 @@ This is great. The acidity from the 2nd attempt shot with Barista Hustle #4 wate
 
 ## Other Water Examples
 
-Johnathan Gagné of Coffee ad Astra has this graph for certain water hardness and alkalinity levels. You can use a spreadsheet and/or calculator to determine how to create your own water mix. 
+Johnathan Gagné of Coffee ad Astra has this graph for certain water hardness and alkalinity levels. You can use a spreadsheet and/or calculator to determine how to create your own water mix.
 
 ![Image of Water Hardness vs Alkalinity](../images/water_coffee_chart-1.png)
 _Graph from Coffee ad Astra's Water Article_
@@ -245,12 +290,12 @@ I compared different extreme amounts of hardness and buffer, using MgSO<sub>4</s
 
 ![Hardness and Buffer Design of Experiments](../images/water_gh_kh_test.png)
 
-* 0GH/0KH was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'. 
+* 0GH/0KH was pretty light and acid forward. I would not call it hollow because there was a whole spectrum of flavors, but all nuances were very light with lots of 'space'.
 * 200GH/0KH was very intense and full but also acidic. Very exciting and attention grabbing, kind of wild.
 * 0GH/100KH was light, mild, mellow, comforting.
 * 200GH/100KH was intense but kind of 'cloudy', a very dense and strong wall of flavors, a bit like a crazy natural.
 
-I did like 0GH/100KH, 100GH/50KH, 200GH/0KH and 200GH/50KH (for different purposes of course), the other options felt too unbalanced. 0GH/0KH and 200GH/100KH, while being on the 'balanced ratio' axis, did not produce balanced or enjoyable results (to me). The other extremes, 0GH/100KH and 200GH/0KH, however where enjoyable for their specific effects. 
+I did like 0GH/100KH, 100GH/50KH, 200GH/0KH and 200GH/50KH (for different purposes of course), the other options felt too unbalanced. 0GH/0KH and 200GH/100KH, while being on the 'balanced ratio' axis, did not produce balanced or enjoyable results (to me). The other extremes, 0GH/100KH and 200GH/0KH, however where enjoyable for their specific effects.
 
 
 My takeaways are:
@@ -259,7 +304,7 @@ My takeaways are:
 * Hardness and buffer should be altered inversely to support the effects of each other.
 
 Practical implications are:
-highly acidic beans, or heavy naturals, will probably benefit from going low GH/ high KH, while balanced coffees can be amped up with high GH/ low KH. 
+highly acidic beans, or heavy naturals, will probably benefit from going low GH/ high KH, while balanced coffees can be amped up with high GH/ low KH.
 A mellow morning coffee can benefit from the former, while attentive pleasure drinking can benefit from the latter.
 
 My experience is that buffer managed the very top acidity, the biting sourness, while the hardness intensifies everything else, the 'meat and bones'. Too low hardness makes it watery, while too high hardness amplifies and compresses the flavors. Too low buffer had biting sourness while too much buffer is just boring and uninteresting.
@@ -268,7 +313,7 @@ My experience is that buffer managed the very top acidity, the biting sourness, 
 I compared MgSO<sub>4</sub>, MgCl<sub>2</sub>, CaSO<sub>4</sub> and CaCl<sub>2</sub> using 80 mg as  CaCO<sub>3</sub> hardness and 40 buffer (NaHCO<sub>3</sub>). The differences are very nuanced.
 I'd say Mg tastes more exciting/harsh than Ca which is more mellow/muted. Cl tastes more creamy than SO which is more neutral. I had a hard time finding the difference between MgCl2 and CaSO<sub>4</sub>, it is very nuanced.
 
-I did a comparison of different buffer minerals, namely NaHCO<sub>3</sub>, KHCO<sub>3</sub>, Ca<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (calcium citrate) and Na<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (sodium citrate). The first observation is that calcium citrate barely dissolves, the concentrate needs to be shaken up well before usage. For tasting I did a cupping with a 1:14 ratio and 74/40 water, using MgCl2 as a hardness source. 
+I did a comparison of different buffer minerals, namely NaHCO<sub>3</sub>, KHCO<sub>3</sub>, Ca<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (calcium citrate) and Na<sub>3</sub>C<sub>12</sub>H<sub>10</sub>O<sub>14</sub> (sodium citrate). The first observation is that calcium citrate barely dissolves, the concentrate needs to be shaken up well before usage. For tasting I did a cupping with a 1:14 ratio and 74/40 water, using MgCl2 as a hardness source.
 
 Taste wise NaHCO<sub>3</sub> was the smoothest. KHCO<sub>3</sub> seemed more 'neutral', it did not alter the coffee taste, but it added a slight bitter metallic taste. Calcium citrate was by far the worst, rather bitter, do not recommend. Sodium citrate was very good, brighter than the rest with a slight added citrus flavour.
 I'd recommend NaHCO<sub>3</sub> for more smoothness and sodium citrate for more brightness
@@ -280,7 +325,7 @@ The tasting was done blind, but it confirmed all taste attributes that I have fo
 
 These three were submitted by Strivefortone (Holy Water, Melbourne Water, and Hendon Water)
 
-* Melbourne water - soft - good for espresso, works well with filter 
+* Melbourne water - soft - good for espresso, works well with filter
 * Holy water - soft - works amazing for filter, ok with espresso
 * Hendon water - harder - works amazing for espresso, a little too hard maybe for filter
 
@@ -319,7 +364,7 @@ For ease of use and taste, epsom salt and baking soda are used.
 
 EDIT(Nov 18, 2021), Chris has created an updated spreadsheet that combined the single dosing sheets into a nice form. It can be found at [https://coffeewater.app/](https://coffeewater.app). The same idea still applies below.
 
-Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's. 
+Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
 
 The first step is to decide if you want to use Sodium Bicarbonate (Baking Soda) or Potassium Bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
 
@@ -352,7 +397,7 @@ Example screenshots below:
 
 ## Other Notes and Thoughts
 
-* If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got. 
+* If purchasing from coffee roasters that are not local, then the water that they use may not match yours. The tasting notes may be different. Using this water would then try to match the water that your coffee roasters use to get the experience that the coffee roasters got.
 * Rao/Perger water is suggested, but the formula is not introduced here because it may cause some detrimental effect for the boiler. If it is a cheap bonavita gooseneck kettle, it may be ok. But not others. Please check Gagne article or AWasteOfCoffee for the recipe.
 * From _strivefortone_: The recommendation of 2:1 H:A ratio. 2:1 ratio comes from SCA specs and was explored a lot by Chris and Maxwell in ‘Water for Coffee’. Truth be told, you can go a lot higher in hardness (3:1, even 4:1 for some coffees) but you’d never want to have an even ratio or less hardness to alkalinity - you only ever end up with flat, muted, very boring coffee
 * Direct Dosing vs Concentrates / Precision vs Accuracy - Do whatever works best for you. For myself, I use direct dosing. I tried using concentrates but I didn't properly store the water. It seemed that there were some bacteria growing a month or two later. Storing the minerals dry seems to help a lot.
@@ -361,10 +406,10 @@ Example screenshots below:
 ## Additional Resources
 
 * Jonathan Gagne Article - [Water for Coffee Extraction](https://coffeeadastra.com/2018/12/16/water-for-coffee-extraction/)
-* Jim Schulman's ["Insanely Long Water FAQ"](http://users.rcn.com/erics/Water%20Quality/Water%20FAQ.pdf). It is very comprehensive and lives up to its name in length, but after reading it you will come out with a much better understanding of why you want to pay attention to the water you use for espresso. 
+* Jim Schulman's ["Insanely Long Water FAQ"](http://users.rcn.com/erics/Water%20Quality/Water%20FAQ.pdf). It is very comprehensive and lives up to its name in length, but after reading it you will come out with a much better understanding of why you want to pay attention to the water you use for espresso.
 * AWasteOfCoffee Methods on [Mixing Water](https://awasteof.coffee/how-to/mixing-water/)
 
-## Appendix: 
+## Appendix:
 
 ### Calculations for Determining how much to add to RO/DI Water for 100 GH and 50 KH.
 
@@ -382,7 +427,7 @@ The result should be in g/L
 
 The following math calculations with are with commentary provided by _strivefortone_
 
-If my target was 50 alkalinity, I’d assume that’s 50 mg/L as CaCO<sub>3</sub>. 
+If my target was 50 alkalinity, I’d assume that’s 50 mg/L as CaCO<sub>3</sub>.
 
 First convert 50 mg/L as CaCO<sub>3</sub> to mg/L as bicarbonate concentration
 
@@ -403,7 +448,7 @@ Hydrogen (H)    1.00794 <br>
 Carbon (C) 12.0107 <br>
 Oxygen (O) 15.9994 (multiply by 3) <br>
 
-We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO<sub>3</sub> = 61.01684 
+We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO<sub>3</sub> = 61.01684
 
 61.01684 is our Atomic Weight
 
@@ -439,7 +484,7 @@ Now multiply this by 10 to get grams needed for 10L batch of water with 50 alkal
 
 —
 
-Multiply this by 0.378 for 1 gallon … 
+Multiply this by 0.378 for 1 gallon …
 
 1 * 0.378 = 0.38g for 1 gallon
 
@@ -449,7 +494,7 @@ So for completions sake - for a recipe with a KH:GH ratio of 1:2, with KHCO<sub>
 
 A 1:2 ratio would require 98.4ppm Mg as CaCO<sub>3</sub>
 
-Convert to mg/L as the ion 
+Convert to mg/L as the ion
 
 98.4 / 4.22 = 24 mg/L Mg as the ion
 
