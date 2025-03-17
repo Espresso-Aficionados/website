@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Bambini aka The Bambino and Bambino Plus
