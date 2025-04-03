@@ -402,10 +402,17 @@ When making custom water recipes, for individual mineral concentrates, combined 
 
 These two questions are the opposites of each other and as such, the same reversible proces can be used to answer both.
 Note that in the following section, "salt" and "mineral" are synonyms.
-The steps of the process are as follows:
-1. salt mass > salt mass concentration
-    * equation: ![Custom Direct Dosing GH / KH Lookup](../images/waterEquations/saltMass2saltMassConcentration.png)
-2. alpha
+Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 2, 1
+1. Salt Mass > Salt Mass Concentration
+    * equation:
+      ![Salt Mass > Salt Mass Concentration](../images/waterEquations/saltMass2saltMassConcentration.png)
+      ![Salt Mass > Salt Mass Concentration - Dark](../images/waterEquations/saltMass2saltMassConcentration_dark.png)
+    * reverse equation:
+      ![Salt Mass > Salt Mass Concentration - Reverse](../images/waterEquations/saltMass2saltMassConcentration_reverse.png)
+      ![Salt Mass > Salt Mass Concentration - Reverse - Dark](../images/waterEquations/saltMass2saltMassConcentration_reverse_dark.png)
+2. Salt Mass Concentration > Ion Mass Concentration
+3. Ion Mass Concentration > Ion Molarity
+4. Ion Molarity > Hardness Equivalents Concentration (HE)
 
 
 ## Other Notes and Thoughts
