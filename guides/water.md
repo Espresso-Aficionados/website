@@ -441,13 +441,71 @@ We want to know how much baking soda we need in how much water.
 So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO3 salt mass) (2, 3, 4, 4, 3, 2, 1)
 
 2. **CaCO3 salt mass concentration > CO3 ion mass concentration**
+   <br>We want KH, so the ion that gives us that is the (CO3)2- ion in CaCO3. so...<br>
+   `CO3MassConcentration (mg CO3/L) = 20,000 (ppm or mg CaCO3/L) * CO3MassFraction (mg CO3 / mg CaCO3)`
+   
+   with a `CO3MassFraction (mg CO3 / mg CaCO3) = (1 * 60.0089 (mg CO3 / mmol)) / 100.0869 (mg CaCO3 / mmol)`<br>
+   `= 0.5995679754 (mg CO3 / mg CaCO3)`
+   
+   so `CO3MassConcentration (mg CO3/L) = 20,000 (mg CaCO3/L) * 0.5995679754 (mg CO3 / mg CaCO3)`<br>
+   `= 11991.359508 (mg CO3/L)`
 3. **CO3 ion mass concentration > CO3 ion molarity**
+   <br>`CO3Molarity (mmol/L) = CO3MassConcentration (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
+   `= 11991.359508 (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
+   `= 199.8263508913 (mmol/L)`
 4. **CO3 ion molarity > hardness equivalents concentration (HE)**
+   <br>`HE(charge/L) = CO3Molarity (mmol/L) * |CO3_CHARGE (charge/mmol)|`
+   
+   with `CO3_CHARGE (charge/mmol) = -2` because the CO3 ion has a charge of negative 2 (-2)
+   
+   so `HE (charge/L) = 199.8263508913 (mmol/L) * |-2 (charge/mmol)|`<br>
+   `= 199.8263508913 (mmol/L) * 2 (charge/mmol)`<br>
+   `= 399.6527017826 (charge/L)`
+   
 <br>_**Note: Here we start to do each step in reverse, but with the ion in our soulte instead of the ion in CaCO3.  **_
+
 5. **(step 4 reverse): hardness equivalents concentration (HE) > HCO3 ion molarity**
+   <br>`HCO3Molarity (mmol/L) = HE (charge/L) / |HCO3_CHARGE (charge/mmol)|`
+   
+   with `HCO3_CHARGE (charge/mmol) = -1` because the HCO3 ion has a charge of negative 1 (-1)
+   
+   so `HCO3Molarity (mmol/L) = 399.6527017826 (charge/L) / |-1 (charge/mmol)|`<br>
+   `= 399.6527017826 (charge/L) / 1 (charge/mmol)`<br>
+   `= 399.6527017826 (mmol/L)`
 6. **(step 3 reverse): HCO3 ion molarity > HCO3 ion mass concentration**
+   <br>`HCO3MassConcentration (mg HCO3/L) = HCO3Molarity (mmol/L) * 61.0174 (mg HCO3/mmol)`<br>
+   `= 399.6527017826 (mmol/L) * 61.0174 (mg HCO3/mmol)`<br>
+   `= 24385.7687657496 (mg HCO3/L)`
 7. **(step 2 reverse): HCO3 ion mass concentration > NaHCO3 salt mass concentration**
+   <br>`NaHCO3MassConcentration (mg NaHCO3/L) = HCO3MassConcentration (mg HCO3/L) / HCO3MassFraction (mg HCO3 / mg NaHCO3)`
+   
+   with `HCO3MassFraction (mg HCO3 / mg NaHCO3) = (1 * 61.0174 (mg HCO3/mmol)) / 84.0066 (mg NaHCO3 / mmol)`<br>
+   `= 0.7263405494 (mg HCO3 / mg NaHCO3)`
+   
+   so `NaHCO3MassConcentration (mg NaHCO3/L) = 24385.7687657496 (mg HCO3/L) / 0.7263405494 (mg HCO3 / mg NaHCO3)`<br>
+   `= 33573.4646590965 (mg NaHCO3/L)`
 8. **(step 1 reverse): NaHCO3 salt mass concentration > NaHCO3 salt mass**
+   <br>`NaHCO3Mass (mg NaHCO3) = NaHCO3MassConcentration (mg NaHCO3/L) * solution value (L)`
+   
+   Now here is where you do some guess & check.<br>
+   What we want is a `solution volume` that we can easily measure on an espresso scale,<br>
+   and an `NaHCO3Mass` that we can easily measure on a milligram scale.<br>
+   "easy to measure" needs a definition... let's make it mean that given our scales, we can measure the required quantities with an error less than +/-1%.
+   
+   Let's assume the espresso scale has an accuracy of +/-0.04g or smaller and precision of 0.1g meaning we can meaningfully measure down to 0.1g.
+   This means to make the `solution volume` easy to measure, we need to measure at least 10g (.010 kg or L) (assuming water density of 1g/mL).
+   Additionally we don't want to make too much at once, so let's limit the `solution volume` to about 500g (.500 kg or L) or so.
+   
+   Let's also assume the milligram scale has an accuracy of +/-0.010g (10mg) and a precision of 0.001g (1mg)... so we can meaningfully measure around 0.010g (10mg)
+   This means to make the `NaHCO3Mass` easy to measure, we need to measure at least 1.000g (1000mg).
+   Additionally, let's assume our milligram scale has a maximum limit of 30g (30,000mg)
+   
+   I can tell you from experience that the water is going to be easier to measure accurately than the salts... so I recommend picking random water values and seeing how much salt they require. Pick the water value whose corresponding salt value is easiest to measure (I like numbers close to whole numbers)
+   
+   so, for example, through trial and error I found 178.7g of water gives:<br>
+   `NaHCO3Mass (mg NaHCO3) = 33573.4646590965 (mg NaHCO3/L) * .1787 (L)`<br>
+   `= 5999.5781345805 (mg NaHCO3)`<br>
+   `= 5.9995781345805 (g NaHCO3)`
 
 ## Other Notes and Thoughts
 
