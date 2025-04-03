@@ -364,7 +364,7 @@ For ease of use and taste, epsom salt and baking soda are used.
 
 EDIT(Nov 18, 2021), Chris has created an updated spreadsheet that combined the single dosing sheets into a nice form. It can be found at [https://coffeewater.app/](https://coffeewater.app). The same idea still applies below.
 
-Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
+Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. That said, some people find it confusing to not know what the spreadsheets are doing under the hood. Still others simply prefer to do it themselves. If that is you, read the [Custom Water Math section](#custom-water-math). Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
 
 The first step is to decide if you want to use sodium bicarbonate (baking soda) or potassium bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
 
@@ -393,6 +393,19 @@ Example screenshots below:
 * [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
 * [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
+
+
+## Custom Water Math
+When making custom water recipes, for individual mineral concentrates, combined concentrates, or direct dosing, people often want the answer to one of the following questions:
+* If I want **c** ppm of hardness from ion **i**, how much mass **m** of mineral **n** do I need and in how much water **w** should I dissolve it?
+* If I put mass **m** of mineral **n** in an amount of water **w**, what ppm **c** will the solution be?
+
+These two questions are the opposites of each other and as such, the same reversible proces can be used to answer both.
+Note that in the following section, "salt" and "mineral" are synonyms.
+The steps of the process are as follows:
+1. salt mass > salt mass concentration
+    * equation: ![Custom Direct Dosing GH / KH Lookup](../images/waterEquations/saltMass2saltMassConcentration.png)
+2. alpha
 
 
 ## Other Notes and Thoughts
