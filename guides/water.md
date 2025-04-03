@@ -10,31 +10,31 @@ nav_order: 4
 
 Water is the main ingredient in coffee. Using good, clean water is important for making good coffee.
 When considering which water to use, there are two main considerations:
-1. Safety - this refers to boiler safety and scale buildup, mainly for espresso.
+1. Safety - this refers to boiler safety (scale buildup and corrosion), mainly for espresso.
 2. Taste - the composition of minerals in water can affect the taste of the final drink and may vary by preparation.
 
 
 ## The Basics - Water Safety
 When we refer to water safety, the focus is not on safety for consumption, though obviously you should always make sure that the water you are using is safe to drink.
-For coffee making, and particularly for espresso machines, safety refers to the hardness of the water that can cause scale buildup inside espresso machines and boilers. Hard water can also cause scale buildup in kettles or automatic brewers.
+For coffee making, and particularly for espresso machines, safety refers to the hardness of the water that can cause scale buildup inside espresso machines and boilers as well as the corrosivity of the water that breaks down the boiler metal over time. Hard water can also cause scale buildup in kettles or automatic brewers.
 
-Water hardness is a measure of the concentration of calcium and magnesium in the water. As water is heated and cooled, these minerals will deposit inside any surface it comes into contact with (pipes, boilers, kettles) and can eventually clog or damage these if not properly treated.
-Water hardness is typically measured in ppm (parts per million) of calcium and magnesium.
+Water general hardness (GH) is mostly a measure of the concentration of calcium and magnesium ions in the water. As water is heated and cooled, these minerals will deposit scale on any surface the water comes into contact with (pipes, boilers, kettles) and can eventually clog or damage these if not properly treated.
+Water hardness is typically measured in ppm (parts per million) as CaCO3 equivalent. That is the milligrams of equivalent CaCO3 per million milligrams (or per liter) of water solution. CaCO3 is just a standard mineral we convert to so that we can compare the hardness provided by one mineral to others with one unit of measurement.
 
 <ins>As a general guideline, aim for ~50ppm hardness in your water, with >100ppm considered hard and not recommended for use in espresso machines<ins>
 
-While the typical concern is water being too hard, water with too few minerals (very low ppm or distiller water) is not safe to use either, as it may leech metals, depending on your boiler material.
+While the typical concern is water being too hard, water with too few minerals (very low ppm or distiller water) is not safe to use either, as it may corrode metals, with different boiler materials corroding at different rates.
 
 ### How do I measure my water hardness?
-In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
+In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (or KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
 
 You can also measure your water using two fairly inexpensive methods:
 1. An electronic TDS (total dissolved solids) meter
 2. A water test kit that includes hardness strips
 
-TDS meters measure the conductivity of your water and report the total ppm in the water. This measures all dissolved solids in the water, not just magnesium and calcium, but can give a general direction of hardness - <ins>if your total ppm is between 50 and 100 you're likely ok<ins>
+TDS meters measure the conductivity of your water and report the total ppm (not as CaCO3) in the water. This measures all dissolved solids in the water, not just magnesium and calcium, but can give a general direction of hardness - <ins>if your TDS ppm is between 50 and 100 you're likely ok<ins>
 
-Water test kits are available from espresso machine makers such as La Marzocco and will have test strips specifically for hardness minerals. The tests themselves will not be as specific as TDS measurement but can give a general sense of hardness minerals in your water
+Water test kits are available from espresso machine makers such as La Marzocco and will have test strips specifically for hardness minerals. The tests themselves will not be as precise as TDS measurement but can give a general sense of hardness minerals in your water
 
 
 ### What do I do if my water is hard?
@@ -44,12 +44,12 @@ There are several options when considering water treatment / replacement:
 3. Coffee water mineral packets
 4. Custom water recipes
 
-Water filters can help reduce water hardness as well as improve overall water quality for flavor. There is a wide range of water filters, from pitchers such as ZeroWater all the way to plumbed in filtration systems. Keep in mind that if you use a total filtration system, like ZeroWater or Reverse Osmosis (RO), you should add minerals to your water post-filtration, as fully distilled water will both taste bad and may be harmful for your espresso machine.
+Water filters can help reduce water hardness as well as improve overall water quality for flavor. There is a wide range of water filters, from pitchers such as ZeroWater all the way to plumbed in filtration systems. Keep in mind that if you use a total filtration (purification) system, like ZeroWater, reverse osmosis (RO) or de-ionization (DI), you should add minerals to your water post-filtration, as fully distilled water will both taste bad and may be harmful for your espresso machine (corrosive).
 
 Some machine manufacturers recommend specific mineral water [brands](https://home.lamarzoccousa.com/water-for-home-espresso-machines/). Generally speaking it is hard to know the exact composition of minerals for different brands, but if your water is particularly hard, this may be a safer option.
 
 Mineral packets / droppers are now widely available to remineralize RO water or distilled water.
-Companies such as [TWW](https://thirdwavewater.com/) and [Lotus](https://lotuscoffeeproducts.com/) offer products with specific mineral content for different brewing technique.
+Companies such as [TWW](https://thirdwavewater.com/) and [Lotus](https://lotuscoffeeproducts.com/) offer products with specific mineral content for different brewing techniques. However, it should be noted that most pre-made mineral concentrates (like [Lotus](https://lotuscoffeeproducts.com/)) use chlorides which can be very corrosive and so are not usually recomended for espresso machines.
 
 Lastly, many aficionados like to make their own water, starting with RO or distilled water as a base and adding a specific mixture of minerals for their taste and brewing methods.
 
@@ -60,7 +60,7 @@ Continue reading below for a more advanced section on how to make your own water
 # Advanced - Making Your Own Water
 ## The Simple Water Recipe
 
-A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
+A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of potassium or sodium bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
 
 <ins>Ingredients</ins>
 
@@ -69,30 +69,30 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 0.35g Potassium Bicarbonate
 
 <ins>Method</ins>
-1. Put the Potassium Bicarbonate into the water
+1. Put the potassium bicarbonate into the water
 2. Agitate
-3. Let rest for 5-10 mins (This ensures sufficient time for the Potassium Bicarbonate to properly dissolve into the water)
+3. Let rest for 5-10 mins (This ensures sufficient time for the potassium bicarbonate to properly dissolve into the water)
 
 That's it. Really.
 
 
 ### The Why
 
-The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of Potassium (or Sodium) Bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
+The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of potassium (or sodium) bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
 
 
 ### The "But my scale won't measure that accurately"
 
 A shortcoming of the recipe provided above is the difficulty of consistently measuring 0.35g of the buffer. So, yet more perfection and simplification seeking enthusiasts reached the conclusion that a concentrate of buffer can be used to simplify the measurements needed.
 
-To make a 10,000x ppm concentrate, mix 20g of Potassium Bicarbonate into 1L of distilled water.
+To make a 10,000x ppm concentrate, mix 20g of potassium bicarbonate into 1L of distilled water.
 
 To use the concentrate, start with 5mL of concentrate and add water to a total volume of 1L. To make 4L of water, start with 20mL of concentrate and add water to a total volume of 4L.
 
 
 ## The More
 
-Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, allow a better extraction. I will stop short of making any qualitative judgement between this approach and the one outlined above.
+Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, change the taste of the brewed coffee. I will stop short of making any qualitative judgement between this approach and the one outlined above.
 Since there are myriad ways to introduce hardness chemicals into your water, we'll continue to add water resources here on the wiki.
 
 
@@ -111,7 +111,7 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 
 
 ## Direct dosing
-The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
+The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10L is used for easy measurements using 0.1g accurate scales. For smaller measurement, jewelry scale that goes to 0.001g could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5g.
 
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH (mg/L of CaCO<sub>3</sub> equiv.) | KH (mg/L of CaCO<sub>3</sub> equiv.) | Comments
@@ -137,10 +137,10 @@ Fam's 69th Wave|10 Liter | 1.478 | 1.511 | 0.000 | 60 | 90 | Targeted towards Li
 
 [Read Detailed Explanations here](#explanations-of-waters-in-the-water-recipe-table)
 
-* Fam's recipe above has been modified for easier use from Potassium Bicarbonate to Baking Soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using Potassium Bicarbonate if desired.
+* Fam's recipe above has been modified for easier use from potassium bicarbonate to baking soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using potassium bicarbonate if desired.
 
 ### Conversion of Baking Soda vs Potassium Bicarbonate
-The use of Baking Soda and Potassium Bicarbonate for this purpose is for alkalinity. To switch between one value to another is simply multiplying it by a factor. The molecular weight of Baking Soda is 84 g/mol. The molecular weight of Potassium Bicarbonate is 100 g/mol.
+The use of baking soda and Potassium bicarbonate for this purpose is for alkalinity. To switch from one value to another you simply multiply it by a factor. The molecular weight of baking soda is 84 g/mol. The molecular weight of potassium bicarbonate is 100 g/mol.
 
 Baking Soda -> Potassium Bicarbonate = (weight you wish to convert) * (mw of Potassium Bicarbonate / mw of Baking Soda) = (weight) * 100/84
 
@@ -164,7 +164,7 @@ An alternative to direct dosing is to pre-mix concentrates, and use those for yo
 
 For example, to make RPavlis 0/50 (GH/KH) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x GH concentrate to 2.3g of 10,000x KH concentrate and adding water to a total volume of 1L.
 
-If scale precision is an issue, 1,000 ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
+If scale precision is an issue, 1,000ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
 
 
 ### GH (aka General Hardness) Concentrates:
@@ -178,7 +178,7 @@ Calcium Chloride Dihydrate | 14.69 | 1,000 | 10,000
 Calcium Sulphate Dihydrate (Gypsum)* | 17.20 | 1,000 | 10,000
 Calcium Hydroxide | 7.40 | 1,000 | 10,000
 
-\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000 mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092 mg/L of CaCO<sub>3</sub> equiv. 1.72g of gypsum in 1,000 mL of water would make a safely dissolved solution with concentration of about 1000 mg/L of CaCO<sub>3</sub> equiv.
+\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092mg/L of CaCO<sub>3</sub> equiv. 1.72g of gypsum in 1,000mL of water would make a safely dissolved solution with concentration of about 1000mg/L of CaCO<sub>3</sub> equiv.
 
 ### KH (aka Carbonate Hardness aka Buffering capacity) Concentrates:
 
@@ -206,15 +206,15 @@ Magnesium Sulfate (Epsom Salt) <br>
 Potassium Bicarbonate <br>
 Sodium Bicarbonate (Baking Soda) <br>
 
-Chlorides and Calcium are also used in the remineralization of water to aid coffee extraction. They are absent from this page because this would give undesirable effects for espresso machines. There may be advanced ways of adding Chloride and Calcium such that they won’t scale, but that requires some additional math and equations that are out of scope of this document.
+Chlorides and calcium are also used in the remineralization of water to achieve different taste profiles. They are absent from this page because this would give undesirable effects for espresso machines. There may be advanced ways of adding chloride and calcium such that they won’t scale, but that requires some additional math and equations that are out of scope of this document.
 
 _Hardness:_
-The concentration of Magnesium and Calcium combined will give the total hardness. More hardness will more easily extract coffee compounds from the coffee beans.
+The concentration of divalent cations (positive ions) - mostly magnesium and calcium - will give the total (or general) hardness. More hardness will generally make the coffee's flavor more intense.
 
 _Alkalinity:_
 This will add more buffer. A higher alkalinity number will help reduce acidity.
 
-There are online calculators and spreadsheet to calculate Alkalinity and Hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness).
+There are online calculators and spreadsheet to calculate alkalinity and hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness).
 
 ## Practical Example:
 
@@ -282,7 +282,7 @@ _Graph from Coffee ad Astra's Water Article_
 
 ## Tasting Minerals by Sagebush
 
-Please note that Sagebush is using a manual machine (Cafelat Robot). This is much less prone to scaling of other espresso machines. What does scale can be easily cleaned off.
+Please note that Sagebush is using a manual machine (Cafelat Robot). This is much less prone to scaling and corrosion compared to other espresso machines. What does scale can be easily cleaned off.
 
 ### Hardness and Buffer Design of Experiments
 
@@ -344,10 +344,10 @@ Revised Hendon water is working very well for turbos. The original formula still
 One of the water that started it all from Barista Hustle. This water works as a nice general purpose water.
 
 ### TWW Espresso Inspired
-A copy of the Hardness and Alkalinity of the TWW Espresso Blend using Epsom salt and a buffer. It is a cost effective way to copy the TWW espresso profile, while not being an exact copy.
+A copy of the hardness and alkalinity of the TWW Espresso Blend using epsom salt and a buffer. It is a cost effective way to copy the TWW espresso profile, while not being an exact copy.
 
 ### RPavlis
-A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine. The original recipe uses Potassium Bicarbonate because it is believe that Sodium Bicarbonate (baking soda) will impart some flavors. It surprisingly works very well for pulling espresso. It tastes a bit weird with longer ratio coffee (like Filter). It is perhaps the most forgiving recipe to create, and would work anywhere from 50 KH to 100 KH. If you only have a 0.1g scale, probably use this water first.
+A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine. The original recipe uses potassium bicarbonate because it is believed that sodium bicarbonate (baking soda) will impart some flavors. It surprisingly works very well for pulling espresso. It tastes a bit weird with longer ratio coffee (like filter). It is perhaps the most forgiving recipe to create, and would work anywhere from 50 KH to 100 KH. If you only have a 0.1g scale, probably use this water first.
 
 ### Fam's 29th and 69th Wave
 
@@ -364,9 +364,9 @@ For ease of use and taste, epsom salt and baking soda are used.
 
 EDIT(Nov 18, 2021), Chris has created an updated spreadsheet that combined the single dosing sheets into a nice form. It can be found at [https://coffeewater.app/](https://coffeewater.app). The same idea still applies below.
 
-Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
+Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. That said, some people find it confusing to not know what the spreadsheets are doing under the hood. Still others simply prefer to do it themselves. If that is you, read the [Custom Water Math section](#custom-water-math). Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
 
-The first step is to decide if you want to use Sodium Bicarbonate (Baking Soda) or Potassium Bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
+The first step is to decide if you want to use sodium bicarbonate (baking soda) or potassium bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
 
 First make a copy of the [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing). Then go to either the "Epsom_Baking" (Sodium Bicarbonate) or Epsom_KHCO3" (Potassium Bicarbonate)
 
@@ -394,6 +394,118 @@ Example screenshots below:
 * [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
 
+
+## Custom Water Math
+When making custom water recipes, for individual mineral concentrates, combined concentrates, or direct dosing, people often want the answer to one of the following questions:
+* If I want **c** ppm of hardness from ion **i**, how much mass **m** of mineral **n** do I need and in how much water **w** should I dissolve it?
+* If I put mass **m** of mineral **n** in an amount of water **w**, what ppm **c** will the solution be?
+
+These two questions are the opposites of each other and as such, the same reversible proces can be used to answer both.
+Note that in the following section, "salt" and "mineral" are synonyms.
+Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 2, 1
+1. **Salt Mass > Salt Mass Concentration**
+    * equation:<br>
+      ![Salt Mass > Salt Mass Concentration](../images/waterEquations/saltMass2saltMassConcentration.png)
+      ![Salt Mass > Salt Mass Concentration - Dark](../images/waterEquations/saltMass2saltMassConcentration_dark.png)
+    * reverse equation:<br>
+      ![Salt Mass > Salt Mass Concentration - Reverse](../images/waterEquations/saltMass2saltMassConcentration_reverse.png)
+      ![Salt Mass > Salt Mass Concentration - Reverse - Dark](../images/waterEquations/saltMass2saltMassConcentration_reverse_dark.png)
+2. **Salt Mass Concentration > Ion Mass Concentration**
+     * main equation:<br>
+       ![Salt Mass Concentration > Ion Mass Concentration](../images/waterEquations/saltMassConcentration2ionMassConcentration.png)
+       ![Salt Mass Concentration > Ion Mass Concentration - Dark](../images/waterEquations/saltMassConcentration2ionMassConcentration_dark.png)
+     * reverse main equation:<br>
+       ![Salt Mass Concentration > Ion Mass Concentration - Reverse](../images/waterEquations/saltMassConcentration2ionMassConcentration_reverse.png)
+       ![Salt Mass Concentration > Ion Mass Concentration - Reverse - Dark](../images/waterEquations/saltMassConcentration2ionMassConcentration_reverse_dark.png)
+     * Ion Mass Fraction:<br>
+       ![Ion Mass Fraction](../images/waterEquations/ionMassFraction.png)
+       ![Ion Mass Fraction - Dark](../images/waterEquations/ionMassFraction_dark.png)
+3. **Ion Mass Concentration > Ion Molarity**
+     * equation:<br>
+       ![Ion Mass Concentration > Ion Molarity](../images/waterEquations/ionMassConcentration2ionMolarity.png)
+       ![Ion Mass Concentration > Ion Molarity - Dark](../images/waterEquations/ionMassConcentration2ionMolarity_dark.png)
+     * reverse equation:<br>
+       ![Ion Mass Concentration > Ion Molarity - Reverse](../images/waterEquations/ionMassConcentration2ionMolarity_reverse.png)
+       ![Ion Mass Concentration > Ion Molarity - Reverse - Dark](../images/waterEquations/ionMassConcentration2ionMolarity_reverse_dark.png)
+5. **Ion Molarity > Hardness Equivalents Concentration (HE)**
+     * equation:<br>
+       ![Ion Molarity > HE](../images/waterEquations/ionMolarity2he.png)
+       ![Ion Molarity > HE - Dark](../images/waterEquations/ionMolarity2he_dark.png)
+     * reverse equation:<br>
+       ![Ion Molarity > HE - Reverse](../images/waterEquations/ionMolarity2he_reverse.png)
+       ![Ion Molarity > HE - Reverse - Dark](../images/waterEquations/ionMolarity2he_reverse_dark.png)
+
+### Example
+Let's say we want 20,000ppm as CaCO3 of KH from baking soda (NaHCO3).
+We want to know how much baking soda we need in how much water.
+So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO3 salt mass) (2, 3, 4, 4, 3, 2, 1)
+
+2. **CaCO3 salt mass concentration > CO3 ion mass concentration**
+   <br>We want KH, so the ion that gives us that is the (CO3)2- ion in CaCO3. so...<br>
+   `CO3MassConcentration (mg CO3/L) = 20,000 (ppm or mg CaCO3/L) * CO3MassFraction (mg CO3 / mg CaCO3)`
+   
+   with a `CO3MassFraction (mg CO3 / mg CaCO3) = (1 * 60.0089 (mg CO3 / mmol)) / 100.0869 (mg CaCO3 / mmol)`<br>
+   `= 0.5995679754 (mg CO3 / mg CaCO3)`
+   
+   so `CO3MassConcentration (mg CO3/L) = 20,000 (mg CaCO3/L) * 0.5995679754 (mg CO3 / mg CaCO3)`<br>
+   `= 11991.359508 (mg CO3/L)`
+3. **CO3 ion mass concentration > CO3 ion molarity**
+   <br>`CO3Molarity (mmol/L) = CO3MassConcentration (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
+   `= 11991.359508 (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
+   `= 199.8263508913 (mmol/L)`
+4. **CO3 ion molarity > hardness equivalents concentration (HE)**
+   <br>`HE(charge/L) = CO3Molarity (mmol/L) * |CO3_CHARGE (charge/mmol)|`
+   
+   with `CO3_CHARGE (charge/mmol) = -2` because the CO3 ion has a charge of negative 2 (-2)
+   
+   so `HE (charge/L) = 199.8263508913 (mmol/L) * |-2 (charge/mmol)|`<br>
+   `= 199.8263508913 (mmol/L) * 2 (charge/mmol)`<br>
+   `= 399.6527017826 (charge/L)`
+   
+<br>_**Note: Here we start to do each step in reverse, but with the ion in our solute instead of the ion in CaCO3.  **_
+
+5. **(step 4 reverse): hardness equivalents concentration (HE) > HCO3 ion molarity**
+   <br>`HCO3Molarity (mmol/L) = HE (charge/L) / |HCO3_CHARGE (charge/mmol)|`
+   
+   with `HCO3_CHARGE (charge/mmol) = -1` because the HCO3 ion has a charge of negative 1 (-1)
+   
+   so `HCO3Molarity (mmol/L) = 399.6527017826 (charge/L) / |-1 (charge/mmol)|`<br>
+   `= 399.6527017826 (charge/L) / 1 (charge/mmol)`<br>
+   `= 399.6527017826 (mmol/L)`
+6. **(step 3 reverse): HCO3 ion molarity > HCO3 ion mass concentration**
+   <br>`HCO3MassConcentration (mg HCO3/L) = HCO3Molarity (mmol/L) * 61.0174 (mg HCO3/mmol)`<br>
+   `= 399.6527017826 (mmol/L) * 61.0174 (mg HCO3/mmol)`<br>
+   `= 24385.7687657496 (mg HCO3/L)`
+7. **(step 2 reverse): HCO3 ion mass concentration > NaHCO3 salt mass concentration**
+   <br>`NaHCO3MassConcentration (mg NaHCO3/L) = HCO3MassConcentration (mg HCO3/L) / HCO3MassFraction (mg HCO3 / mg NaHCO3)`
+   
+   with `HCO3MassFraction (mg HCO3 / mg NaHCO3) = (1 * 61.0174 (mg HCO3/mmol)) / 84.0066 (mg NaHCO3 / mmol)`<br>
+   `= 0.7263405494 (mg HCO3 / mg NaHCO3)`
+   
+   so `NaHCO3MassConcentration (mg NaHCO3/L) = 24385.7687657496 (mg HCO3/L) / 0.7263405494 (mg HCO3 / mg NaHCO3)`<br>
+   `= 33573.4646590965 (mg NaHCO3/L)`
+8. **(step 1 reverse): NaHCO3 salt mass concentration > NaHCO3 salt mass**
+   <br>`NaHCO3Mass (mg NaHCO3) = NaHCO3MassConcentration (mg NaHCO3/L) * solution value (L)`
+   
+   Now here is where you do some guess & check.<br>
+   What we want is a `solution volume` that we can easily measure on an espresso scale,<br>
+   and an `NaHCO3Mass` that we can easily measure on a milligram scale.<br>
+   "easy to measure" needs a definition... let's make it mean that given our scales, we can measure the required quantities with an error less than +/-1%.
+   
+   Let's assume the espresso scale has an accuracy of +/-0.04g or smaller and precision of 0.1g meaning we can meaningfully measure down to 0.1g.
+   This means to make the `solution volume` easy to measure, we need to measure at least 10g (.010 kg or L) (assuming water density of 1g/mL).
+   Additionally we don't want to make too much at once, so let's limit the `solution volume` to about 500g (.500 kg or L) or so.
+   
+   Let's also assume the milligram scale has an accuracy of +/-0.010g (10mg) and a precision of 0.001g (1mg)... so we can meaningfully measure around 0.010g (10mg)
+   This means to make the `NaHCO3Mass` easy to measure, we need to measure at least 1.000g (1000mg).
+   Additionally, let's assume our milligram scale has a maximum limit of 30g (30,000mg)
+   
+   I can tell you from experience that the water is going to be easier to measure accurately than the salts... so I recommend picking random water values and seeing how much salt they require. Pick the water value whose corresponding salt value is easiest to measure (I like numbers close to whole numbers)
+   
+   so, for example, through trial and error I found 178.7g of water gives:<br>
+   `NaHCO3Mass (mg NaHCO3) = 33573.4646590965 (mg NaHCO3/L) * .1787 (L)`<br>
+   `= 5999.5781345805 (mg NaHCO3)`<br>
+   `= 5.9995781345805 (g NaHCO3)`
 
 ## Other Notes and Thoughts
 
@@ -437,11 +549,11 @@ First convert 50 mg/L as CaCO<sub>3</sub> to mg/L as bicarbonate concentration
 
 —
 
-Let’s do Potassium Bicarbonate - KHCO<sub>3</sub>
+Let’s do potassium bicarbonate - KHCO<sub>3</sub>
 
 Molar mass =  100.15 g/mol
 
-That breaks down to Atomic mass of each element:
+That breaks down to atomic mass of each element:
 
 Potassium (K) 39.0983 <br>
 Hydrogen (H)    1.00794 <br>
@@ -450,9 +562,9 @@ Oxygen (O) 15.9994 (multiply by 3) <br>
 
 We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO<sub>3</sub> = 61.01684
 
-61.01684 is our Atomic Weight
+61.01684 is our atomic weight
 
-Divide target concentration by HCO<sub>3</sub> Atomic weight
+Divide target concentration by HCO<sub>3</sub> atomic weight
 
 61 / 61.01684 = 0.99972401
 
@@ -468,7 +580,7 @@ Now you need to convert this to g/L so divide by 1000
 
 —
 
-Now you need to multiply this by the Molar Mass (since K is still physically in the solution) to get grams needed per litre of DI water to achieve target mg/L of 61
+Now you need to multiply this by the molar mass (since K is still physically in the solution) to get grams needed per litre of DI water to achieve target mg/L of 61
 
 0.00099972 * 100.115 = 0.100087369322961
 
@@ -517,7 +629,7 @@ We’re only after magnesium for now, so:
 
 Atomic weight = 24.3050
 
-Divide target concentration by Mg Atomic weight
+Divide target concentration by Mg atomic weight
 
 24 / 24.3050 = 0.987451141740383
 
@@ -533,7 +645,7 @@ Now you need to convert this to g/L so divide by 1000
 
 —
 
-Now you need to multiply this by the Molar Mass (since oxygen, hydrogen, and sulphur are still physically in the solution) to get grams needed per litre of DI water to achieve a target mg/L of 24:
+Now you need to multiply this by the molar mass (since oxygen, hydrogen, and sulphur are still physically in the solution) to get grams needed per litre of DI water to achieve a target mg/L of 24:
 
 0.000987451141740383 * 246.4746 = 0.243381625180004
 
