@@ -60,7 +60,7 @@ Continue reading below for a more advanced section on how to make your own water
 # Advanced - Making Your Own Water
 ## The Simple Water Recipe
 
-A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of Potassium or Sodium Bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
+A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50-100mg/L of potassium or sodium bicarbonate. This water is scale free when used in an espresso machine prevents the need for regular descaling. A simple way to utilize this ratio is as follows:
 
 <ins>Ingredients</ins>
 
@@ -69,23 +69,23 @@ A longtime Espresso enthusiast, Dr. Pavlis, simplified the recipe as follows: 50
 0.35g Potassium Bicarbonate
 
 <ins>Method</ins>
-1. Put the Potassium Bicarbonate into the water
+1. Put the potassium bicarbonate into the water
 2. Agitate
-3. Let rest for 5-10 mins (This ensures sufficient time for the Potassium Bicarbonate to properly dissolve into the water)
+3. Let rest for 5-10 mins (This ensures sufficient time for the potassium bicarbonate to properly dissolve into the water)
 
 That's it. Really.
 
 
 ### The Why
 
-The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of Potassium (or Sodium) Bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
+The premise here is that the water acts simply as a carrier for the compounds you are trying to extract from your beans. We start with distilled or de-ionized water as a base because these have little to no TDS (a measure of the amount of dissolved particles of other substances are in the water). In order to neutralize the corrosive effect this will have on your machine, and to improve the extraction of desirable coffee compounds, Dr. Pavlis settled on the use of potassium (or sodium) bicarbonate. In this application the bicarbonate acts as a "buffer", bringing the pH of the distilled water closer to 7 (neutral pH) while also raising TDS a little bit.
 
 
 ### The "But my scale won't measure that accurately"
 
 A shortcoming of the recipe provided above is the difficulty of consistently measuring 0.35g of the buffer. So, yet more perfection and simplification seeking enthusiasts reached the conclusion that a concentrate of buffer can be used to simplify the measurements needed.
 
-To make a 10,000x ppm concentrate, mix 20g of Potassium Bicarbonate into 1L of distilled water.
+To make a 10,000x ppm concentrate, mix 20g of potassium bicarbonate into 1L of distilled water.
 
 To use the concentrate, start with 5mL of concentrate and add water to a total volume of 1L. To make 4L of water, start with 20mL of concentrate and add water to a total volume of 4L.
 
@@ -111,7 +111,7 @@ Potassium Bicarbonate = KHCO<sub>3</sub>
 
 
 ## Direct dosing
-The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10 L is used for easy measurements using 0.1 g accurate scales. For smaller measurement, jewelry scale that goes to 0.001 could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5 grams.
+The method I am proposing is to direct dose into the final container without any concentrates. You add these amounts, and then fill the water to the proper volume. Scale up or down as needed. 10L is used for easy measurements using 0.1g accurate scales. For smaller measurement, jewelry scale that goes to 0.001g could be used. AWasteOfCoffee recommended [these](https://www.amazon.com/dp/B011J88S8M/ref=cm_sw_r_cp_apan_glt_fabc_1GFN17ASKK0BN4KCY9K8?_encoding=UTF8&psc=1), and I got them. Concentrates could also be used if your scale does not weigh fine enough. If only a 0.1g scale is on hand, then I recommend starting with RPavlis as a forgiving water recipe. (0.38g Potassium Bicarbonate to 1 gallon of water). Aim for 0.4 to 0.5g.
 
 
 Name | Volume | Epsom Salt (g) | Baking Soda (g) | Potassium Bicarbonate (g) | GH (mg/L of CaCO<sub>3</sub> equiv.) | KH (mg/L of CaCO<sub>3</sub> equiv.) | Comments
@@ -137,10 +137,10 @@ Fam's 69th Wave|10 Liter | 1.478 | 1.511 | 0.000 | 60 | 90 | Targeted towards Li
 
 [Read Detailed Explanations here](#explanations-of-waters-in-the-water-recipe-table)
 
-* Fam's recipe above has been modified for easier use from Potassium Bicarbonate to Baking Soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using Potassium Bicarbonate if desired.
+* Fam's recipe above has been modified for easier use from potassium bicarbonate to baking soda. According to Sagebush "Baking Soda smoothes out the brightness quiet a bit. Potassium is more flavour transparent but adds a distinct metallic taste." Use the factors below to switch back to using potassium bicarbonate if desired.
 
 ### Conversion of Baking Soda vs Potassium Bicarbonate
-The use of Baking Soda and Potassium Bicarbonate for this purpose is for alkalinity. To switch between one value to another is simply multiplying it by a factor. The molecular weight of Baking Soda is 84 g/mol. The molecular weight of Potassium Bicarbonate is 100 g/mol.
+The use of baking soda and Potassium bicarbonate for this purpose is for alkalinity. To switch from one value to another you simply multiply it by a factor. The molecular weight of baking soda is 84 g/mol. The molecular weight of potassium bicarbonate is 100 g/mol.
 
 Baking Soda -> Potassium Bicarbonate = (weight you wish to convert) * (mw of Potassium Bicarbonate / mw of Baking Soda) = (weight) * 100/84
 
@@ -164,7 +164,7 @@ An alternative to direct dosing is to pre-mix concentrates, and use those for yo
 
 For example, to make RPavlis 0/50 (GH/KH) water, take 5g of 10,000x KH concentrate and add water up to a total volume of 1L. Holy water (62/23) can be made by adding 6.2g of 10,000x GH concentrate to 2.3g of 10,000x KH concentrate and adding water to a total volume of 1L.
 
-If scale precision is an issue, 1,000 ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
+If scale precision is an issue, 1,000ppm concentrates can be made by diluting 100ml of 10,000x concentration with water to a total volume of 1L.
 
 
 ### GH (aka General Hardness) Concentrates:
@@ -178,7 +178,7 @@ Calcium Chloride Dihydrate | 14.69 | 1,000 | 10,000
 Calcium Sulphate Dihydrate (Gypsum)* | 17.20 | 1,000 | 10,000
 Calcium Hydroxide | 7.40 | 1,000 | 10,000
 
-\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000 mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092 mg/L of CaCO<sub>3</sub> equiv. 1.72g of gypsum in 1,000 mL of water would make a safely dissolved solution with concentration of about 1000 mg/L of CaCO<sub>3</sub> equiv.
+\* Note: Only around 3.6g of gypsum will fully dissolve in 1,000mL of water at room temperature. This means the highest concentration, fully dissolved gypsum concenrate you can make is around 2,092mg/L of CaCO<sub>3</sub> equiv. 1.72g of gypsum in 1,000mL of water would make a safely dissolved solution with concentration of about 1000mg/L of CaCO<sub>3</sub> equiv.
 
 ### KH (aka Carbonate Hardness aka Buffering capacity) Concentrates:
 
@@ -206,15 +206,15 @@ Magnesium Sulfate (Epsom Salt) <br>
 Potassium Bicarbonate <br>
 Sodium Bicarbonate (Baking Soda) <br>
 
-Chlorides and Calcium are also used in the remineralization of water to aid coffee extraction. They are absent from this page because this would give undesirable effects for espresso machines. There may be advanced ways of adding Chloride and Calcium such that they won’t scale, but that requires some additional math and equations that are out of scope of this document.
+Chlorides and calcium are also used in the remineralization of water to achieve different taste profiles. They are absent from this page because this would give undesirable effects for espresso machines. There may be advanced ways of adding chloride and calcium such that they won’t scale, but that requires some additional math and equations that are out of scope of this document.
 
 _Hardness:_
-The concentration of Magnesium and Calcium combined will give the total hardness. More hardness will more easily extract coffee compounds from the coffee beans.
+The concentration of divalent cations (positive ions) - mostly magnesium and calcium - will give the total (or general) hardness. More hardness will generally make the coffee's flavor more intense.
 
 _Alkalinity:_
 This will add more buffer. A higher alkalinity number will help reduce acidity.
 
-There are online calculators and spreadsheet to calculate Alkalinity and Hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness).
+There are online calculators and spreadsheet to calculate alkalinity and hardness. They are linearly independent. But for thoroughness, look at the end for an example to make 50 KH (alkalinity) and 100 GH (hardness).
 
 ## Practical Example:
 
@@ -344,10 +344,10 @@ Revised Hendon water is working very well for turbos. The original formula still
 One of the water that started it all from Barista Hustle. This water works as a nice general purpose water.
 
 ### TWW Espresso Inspired
-A copy of the Hardness and Alkalinity of the TWW Espresso Blend using Epsom salt and a buffer. It is a cost effective way to copy the TWW espresso profile, while not being an exact copy.
+A copy of the hardness and alkalinity of the TWW Espresso Blend using epsom salt and a buffer. It is a cost effective way to copy the TWW espresso profile, while not being an exact copy.
 
 ### RPavlis
-A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine. The original recipe uses Potassium Bicarbonate because it is believe that Sodium Bicarbonate (baking soda) will impart some flavors. It surprisingly works very well for pulling espresso. It tastes a bit weird with longer ratio coffee (like Filter). It is perhaps the most forgiving recipe to create, and would work anywhere from 50 KH to 100 KH. If you only have a 0.1g scale, probably use this water first.
+A recipe meant to help keep the machine from scaling, while also providing enough mineral content to not harm the espresso machine. The original recipe uses potassium bicarbonate because it is believed that sodium bicarbonate (baking soda) will impart some flavors. It surprisingly works very well for pulling espresso. It tastes a bit weird with longer ratio coffee (like filter). It is perhaps the most forgiving recipe to create, and would work anywhere from 50 KH to 100 KH. If you only have a 0.1g scale, probably use this water first.
 
 ### Fam's 29th and 69th Wave
 
@@ -366,7 +366,7 @@ EDIT(Nov 18, 2021), Chris has created an updated spreadsheet that combined the s
 
 Since last updated (~July 2021, now ~Sep 2021), I've moved from the TWW Espresso Inspired to 75/25 GH/KH and now back to Barista Hustle #4 (80/40). But say you want to try recipes like 20/90, 60/90 or something that is not listed in the tables. There are ways to calculate it manually, but the easiest I have found for myself is to use the spreadsheets already written. We do not need to reinvent the wheel. Jonathan Gagné and David Seng have made their spreadsheet calculators. They do work either in Google Docs or Excel. I have found David Seng's calculator to be very advanced for my needs, so I will document using Gagné's.
 
-The first step is to decide if you want to use Sodium Bicarbonate (Baking Soda) or Potassium Bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
+The first step is to decide if you want to use sodium bicarbonate (baking soda) or potassium bicarbonate as your buffer. You can try both to see if there are any flavor differences. Then go to the appropriate sheet in the spreadsheet. I will detail the steps for 1 gallon below (3780 mL), but feel free to change it to your end target, say 5L (5000 mL) or 10 L (10000 mL).
 
 First make a copy of the [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing). Then go to either the "Epsom_Baking" (Sodium Bicarbonate) or Epsom_KHCO3" (Potassium Bicarbonate)
 
@@ -437,11 +437,11 @@ First convert 50 mg/L as CaCO<sub>3</sub> to mg/L as bicarbonate concentration
 
 —
 
-Let’s do Potassium Bicarbonate - KHCO<sub>3</sub>
+Let’s do potassium bicarbonate - KHCO<sub>3</sub>
 
 Molar mass =  100.15 g/mol
 
-That breaks down to Atomic mass of each element:
+That breaks down to atomic mass of each element:
 
 Potassium (K) 39.0983 <br>
 Hydrogen (H)    1.00794 <br>
@@ -450,9 +450,9 @@ Oxygen (O) 15.9994 (multiply by 3) <br>
 
 We don’t care about the potassium for now, we want bicarbonate elements, so it’s 1.00794 + 1.00794 + (15.9994*3) for HCO<sub>3</sub> = 61.01684
 
-61.01684 is our Atomic Weight
+61.01684 is our atomic weight
 
-Divide target concentration by HCO<sub>3</sub> Atomic weight
+Divide target concentration by HCO<sub>3</sub> atomic weight
 
 61 / 61.01684 = 0.99972401
 
@@ -468,7 +468,7 @@ Now you need to convert this to g/L so divide by 1000
 
 —
 
-Now you need to multiply this by the Molar Mass (since K is still physically in the solution) to get grams needed per litre of DI water to achieve target mg/L of 61
+Now you need to multiply this by the molar mass (since K is still physically in the solution) to get grams needed per litre of DI water to achieve target mg/L of 61
 
 0.00099972 * 100.115 = 0.100087369322961
 
@@ -517,7 +517,7 @@ We’re only after magnesium for now, so:
 
 Atomic weight = 24.3050
 
-Divide target concentration by Mg Atomic weight
+Divide target concentration by Mg atomic weight
 
 24 / 24.3050 = 0.987451141740383
 
@@ -533,7 +533,7 @@ Now you need to convert this to g/L so divide by 1000
 
 —
 
-Now you need to multiply this by the Molar Mass (since oxygen, hydrogen, and sulphur are still physically in the solution) to get grams needed per litre of DI water to achieve a target mg/L of 24:
+Now you need to multiply this by the molar mass (since oxygen, hydrogen, and sulphur are still physically in the solution) to get grams needed per litre of DI water to achieve a target mg/L of 24:
 
 0.000987451141740383 * 246.4746 = 0.243381625180004
 
