@@ -92,7 +92,7 @@ To use the concentrate, start with 5mL of concentrate and add water to a total v
 
 ## The More
 
-Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, chnage the taste of the brewed coffee. I will stop short of making any qualitative judgement between this approach and the one outlined above.
+Some espresso enthusiasts have found the "Pavlis Water" recipe is lacking a component. The thought here is that calcium or magnesium (commonly considered "hardness" minerals), in carefully controlled doses, change the taste of the brewed coffee. I will stop short of making any qualitative judgement between this approach and the one outlined above.
 Since there are myriad ways to introduce hardness chemicals into your water, we'll continue to add water resources here on the wiki.
 
 
@@ -462,7 +462,7 @@ So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO
    `= 199.8263508913 (mmol/L) * 2 (charge/mmol)`<br>
    `= 399.6527017826 (charge/L)`
    
-<br>_**Note: Here we start to do each step in reverse, but with the ion in our soulte instead of the ion in CaCO3.  **_
+<br>_**Note: Here we start to do each step in reverse, but with the ion in our solute instead of the ion in CaCO3.  **_
 
 5. **(step 4 reverse): hardness equivalents concentration (HE) > HCO3 ion molarity**
    <br>`HCO3Molarity (mmol/L) = HE (charge/L) / |HCO3_CHARGE (charge/mmol)|`
