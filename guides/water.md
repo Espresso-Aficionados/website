@@ -435,6 +435,19 @@ Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 
        ![Ion Molarity > HE - Reverse](../images/waterEquations/ionMolarity2he_reverse.png)
        ![Ion Molarity > HE - Reverse - Dark](../images/waterEquations/ionMolarity2he_reverse_dark.png)
 
+### Example
+Let's say we want 20,000ppm as CaCO3 of KH from baking soda (NaHCO3).
+We want to know how much baking soda we need in how much water.
+So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO3 salt mass) (2, 3, 4, 4, 3, 2, 1)
+
+2. **CaCO3 salt mass concentration > CO3 ion mass concentration**
+3. **CO3 ion mass concentration > CO3 ion molarity**
+4. **CO3 ion molarity > hardness equivalents concentration (HE)**
+<br>_**Note: Here we start to do each step in reverse, but with the ion in our soulte instead of the ion in CaCO3.  **_
+5. **(step 4 reverse): hardness equivalents concentration (HE) > HCO3 ion molarity**
+6. **(step 3 reverse): HCO3 ion molarity > HCO3 ion mass concentration**
+7. **(step 2 reverse): HCO3 ion mass concentration > NaHCO3 salt mass concentration**
+8. **(step 1 reverse): NaHCO3 salt mass concentration > NaHCO3 salt mass**
 
 ## Other Notes and Thoughts
 
