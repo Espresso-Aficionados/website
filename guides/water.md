@@ -402,7 +402,69 @@ When making custom water recipes, for individual mineral concentrates, combined 
 
 These two questions are the opposites of each other and as such, the same reversible proces can be used to answer both.
 Note that in the following section, "salt" and "mineral" are synonyms.
-Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 2, 1
+
+* First we'll cover what to do - the steps - and why each step is needed.
+* Then we'll show the equations you need to carry out each step.
+* Then we'll go through a practical example, applying the equations.
+
+### Steps & Reasoning
+#### Target ppm as CaCO3 > salt mass (forwards)
+2. (equation 2) CaCO3 salt mass concentration > hardness ion mass concentration
+   <br>In this step, we are figuring out what part of the total mass of CaCO3 comes just from the ion we care about.<br>
+   If we want GH, we care about the Ca2+ ion<br>
+   If we want KH, we care about the (CO3)2- ion
+3. (equation 3) hardness ion mass concentration > hardness ion molarity
+   <br>Here, we are converting the mass concentration of the relevant ion, to a number of ion molecules concentration (molarity)<br>
+   (because we care about hardness and the hardness contribution is a function of charge - which is dependent on number of molecules, not mass...<br>
+   i.e. a heavy ion could contribute the same hardness as a light one)
+4. (equation 4) hardness ion molarity > hardness equivalents concentration (HE)
+   <br>Here we are converting the molarity to hardness equivalents concentration (which is based on charge)<br>
+   (because hardness contribution is what we actually care about,<br>
+   i.e. we want some amount of salt that gives the _**equivalent hardness**_ as some amount of CaCO3)
+
+<br>_**Note: Here we start to do each step in reverse, but with the ion in our solute instead of the ion in CaCO3.  **_
+
+5. (equation 4 reverse) hardness equivalents concentration (HE) > salt ion molarity
+   <br>Here we are converting from hardness (related to charge) to number of salt hardness ion molecules concentration (molarity)<br>
+   (because we are adding ions via salt, not hardness directly)
+6. (equation 3 reverse) salt ion molarity > salt ion mass concentration
+   <br>Here we are converting molarity to mass concentration (because what we measure on the scale is mass, not molecules)
+7. (equation 2 reverse) salt ion mass concentration > salt mass concentration
+   <br>Here we are converting salt hardness ion mass concentration to total salt mass concentration (because we aren't adding/measuring individual ions, we are adding/measuring salt)
+8. (equation 1 reverse) salt mass concentration > salt mass
+   <br>Here we are converting salt mass concentration to salt mass<br>
+   (because we are making a specific amount of concentrate solution that requires a sepcific amount of salt)
+
+#### Salt mass > result ppm as CaCO3 (backwards)
+1. (equation 1) salt mass > salt mass concentration
+   <br>Here we convert from a specific amount of salt to a mass concnetration<br>
+   (because at the end we want the _**concentration**_ of equivalent CaCO3)
+2. (equation 2) salt mass concentration > salt ion mass concentration
+   <br>Here we figure out how much of the total mass of the salt comes from the hardness ion we care about.<br>
+   For example, in baking soda, the hardness ion is (HCO3)1-
+3. (equation 3) salt ion mass concentration > salt ion molarity
+   <br>Here we are converting the mass concentration of the relevant ion, to a number of ion molecules concentration (molarity)<br>
+   (because we care about hardness and the hardness contribution is a function of charge - which is dependent on number of molecules, not mass...<br>
+   i.e. a heavy ion could contribute the same hardness as a light one)
+4. (equation 4) salt ion molarity > hardness equivalents concentration (HE)
+   <br>Here we convert the molarity to hardness equivalents concentration (which is based on charge)<br>
+   (because hardness contribution is what we actulaly care about,<br>
+   i.e. we want to know how much CaCO3 gives the _**equivalent hardness**_ as the amount of salt we started with)
+
+<br>_**Note: Here we start to do each step in reverse, but with the ion in our solute instead of the ion in CaCO3.  **_
+
+5. (equation 4 reverse) hardness equivalents concentration (HE) > hardness ion molarity
+   <br>Here we are converting from hardness (related to charge) to number of number of relevant ion molecules (from CaCO3) concentration (molarity)<br>
+   (because the number we want is an amount of CaCO3, not charge)
+6. (equation 3 reverse) hardness ion molarity > hardness ion mass concentration
+   <br>Here we convert molarity to ion mass concentration (because ppm is in terms of mass, not molecules)
+7. (equation 2 reverse) hardness ion mass concentration > CaCO3 salt mass concentration
+   <br>Here we convert from ion mass concentration to CaCO3 mass concentration<br>
+   (because ppm is measuring mass _**of CaCO3**_, not only the mass of only the relevant ion)
+
+A concrete example of the "forward" process follows the equations below:
+
+### Equations
 1. **Salt Mass > Salt Mass Concentration**
     * equation:<br>
       ![Salt Mass > Salt Mass Concentration](../images/waterEquations/saltMass2saltMassConcentration.png)
@@ -435,7 +497,7 @@ Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 
        ![Ion Molarity > HE - Reverse](../images/waterEquations/ionMolarity2he_reverse.png)
        ![Ion Molarity > HE - Reverse - Dark](../images/waterEquations/ionMolarity2he_reverse_dark.png)
 
-### Example
+### Forward Example
 Let's say we want 20,000ppm as CaCO3 of KH from baking soda (NaHCO3).
 We want to know how much baking soda we need in how much water.
 So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO3 salt mass) (2, 3, 4, 4, 3, 2, 1)
@@ -459,7 +521,7 @@ So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO
    `CO3Molarity (mmol/L) = CO3MassConcentration (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
    `= 11991.359508 (mg CO3/L) / 60.0089 (mg CO3/mmol)`<br>
    `= 199.8263508913 (mmol/L)`
-5. **CO3 ion molarity > hardness equivalents concentration (HE)**
+4. **CO3 ion molarity > hardness equivalents concentration (HE)**
    <br>Here we are converting the molarity to hardness equivalents concentration (which is based on charge)<br>
    (because hardness contribution is what we actually care about,<br>
    i.e. we want some amount of salt that gives the _**equivalent hardness**_ as some amount of CaCO3)<br>
