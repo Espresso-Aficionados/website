@@ -411,8 +411,17 @@ Generally you will follow these steps 1, 2, 3, 4, 4, 3, 2 ... or 2, 3, 4, 4, 3, 
       ![Salt Mass > Salt Mass Concentration - Reverse](../images/waterEquations/saltMass2saltMassConcentration_reverse.png)
       ![Salt Mass > Salt Mass Concentration - Reverse - Dark](../images/waterEquations/saltMass2saltMassConcentration_reverse_dark.png)
 2. Salt Mass Concentration > Ion Mass Concentration
-3. Ion Mass Concentration > Ion Molarity
-4. Ion Molarity > Hardness Equivalents Concentration (HE)
+     * main equation:
+       ![Salt Mass Concentration > Ion Mass Concentration](../images/waterEquations/saltMassConcentration2ionMassConcentration.png)
+       ![Salt Mass Concentration > Ion Mass Concentration - Dark](../images/waterEquations/saltMassConcentration2ionMassConcentration_dark.png)
+     * reverse main equation:
+       ![Salt Mass Concentration > Ion Mass Concentration - Reverse](../images/waterEquations/saltMassConcentration2ionMassConcentration_reverse.png)
+       ![Salt Mass Concentration > Ion Mass Concentration - Reverse - Dark](../images/waterEquations/saltMassConcentration2ionMassConcentration_reverse_dark.png)
+     * Ion Mass Fraction:
+       ![Ion Mass Fraction](../images/waterEquations/ionMassFraction.png)
+       ![Ion Mass Fraction - Dark](../images/waterEquations/ionMassFraction_dark.png)
+4. Ion Mass Concentration > Ion Molarity
+5. Ion Molarity > Hardness Equivalents Concentration (HE)
 
 
 ## Other Notes and Thoughts
