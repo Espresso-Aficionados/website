@@ -10,31 +10,31 @@ nav_order: 4
 
 Water is the main ingredient in coffee. Using good, clean water is important for making good coffee.
 When considering which water to use, there are two main considerations:
-1. Safety - this refers to boiler safety and scale buildup, mainly for espresso.
+1. Safety - this refers to boiler safety (scale buildup and corrosion), mainly for espresso.
 2. Taste - the composition of minerals in water can affect the taste of the final drink and may vary by preparation.
 
 
 ## The Basics - Water Safety
 When we refer to water safety, the focus is not on safety for consumption, though obviously you should always make sure that the water you are using is safe to drink.
-For coffee making, and particularly for espresso machines, safety refers to the hardness of the water that can cause scale buildup inside espresso machines and boilers. Hard water can also cause scale buildup in kettles or automatic brewers.
+For coffee making, and particularly for espresso machines, safety refers to the hardness of the water that can cause scale buildup inside espresso machines and boilers as well as the corrosivity of the water that breaks down the boiler metal over time. Hard water can also cause scale buildup in kettles or automatic brewers.
 
-Water hardness is a measure of the concentration of calcium and magnesium in the water. As water is heated and cooled, these minerals will deposit inside any surface it comes into contact with (pipes, boilers, kettles) and can eventually clog or damage these if not properly treated.
-Water hardness is typically measured in ppm (parts per million) of calcium and magnesium.
+Water general hardness (GH) is mostly a measure of the concentration of calcium and magnesium ions in the water. As water is heated and cooled, these minerals will deposit scale on any surface the water comes into contact with (pipes, boilers, kettles) and can eventually clog or damage these if not properly treated.
+Water hardness is typically measured in ppm (parts per million) as CaCO3 equivalent. That is the milligrams of equivalent CaCO3 per million milligrams (or per liter) of water solution. CaCO3 is just a standard mineral we convert to so that we can compare the hardness provided by one mineral to others with one unit of measurement.
 
 <ins>As a general guideline, aim for ~50ppm hardness in your water, with >100ppm considered hard and not recommended for use in espresso machines<ins>
 
-While the typical concern is water being too hard, water with too few minerals (very low ppm or distiller water) is not safe to use either, as it may leech metals, depending on your boiler material.
+While the typical concern is water being too hard, water with too few minerals (very low ppm or distiller water) is not safe to use either, as it may corrode metals, with different boiler materials corroding at different rates.
 
 ### How do I measure my water hardness?
-In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
+In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (or KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
 
 You can also measure your water using two fairly inexpensive methods:
 1. An electronic TDS (total dissolved solids) meter
 2. A water test kit that includes hardness strips
 
-TDS meters measure the conductivity of your water and report the total ppm in the water. This measures all dissolved solids in the water, not just magnesium and calcium, but can give a general direction of hardness - <ins>if your total ppm is between 50 and 100 you're likely ok<ins>
+TDS meters measure the conductivity of your water and report the total ppm (not as CaCO3) in the water. This measures all dissolved solids in the water, not just magnesium and calcium, but can give a general direction of hardness - <ins>if your TDS ppm is between 50 and 100 you're likely ok<ins>
 
-Water test kits are available from espresso machine makers such as La Marzocco and will have test strips specifically for hardness minerals. The tests themselves will not be as specific as TDS measurement but can give a general sense of hardness minerals in your water
+Water test kits are available from espresso machine makers such as La Marzocco and will have test strips specifically for hardness minerals. The tests themselves will not be as precise as TDS measurement but can give a general sense of hardness minerals in your water
 
 
 ### What do I do if my water is hard?
@@ -44,12 +44,12 @@ There are several options when considering water treatment / replacement:
 3. Coffee water mineral packets
 4. Custom water recipes
 
-Water filters can help reduce water hardness as well as improve overall water quality for flavor. There is a wide range of water filters, from pitchers such as ZeroWater all the way to plumbed in filtration systems. Keep in mind that if you use a total filtration system, like ZeroWater or Reverse Osmosis (RO), you should add minerals to your water post-filtration, as fully distilled water will both taste bad and may be harmful for your espresso machine.
+Water filters can help reduce water hardness as well as improve overall water quality for flavor. There is a wide range of water filters, from pitchers such as ZeroWater all the way to plumbed in filtration systems. Keep in mind that if you use a total filtration (purification) system, like ZeroWater, reverse osmosis (RO) or de-ionization (DI), you should add minerals to your water post-filtration, as fully distilled water will both taste bad and may be harmful for your espresso machine (corrosive).
 
 Some machine manufacturers recommend specific mineral water [brands](https://home.lamarzoccousa.com/water-for-home-espresso-machines/). Generally speaking it is hard to know the exact composition of minerals for different brands, but if your water is particularly hard, this may be a safer option.
 
 Mineral packets / droppers are now widely available to remineralize RO water or distilled water.
-Companies such as [TWW](https://thirdwavewater.com/) and [Lotus](https://lotuscoffeeproducts.com/) offer products with specific mineral content for different brewing technique.
+Companies such as [TWW](https://thirdwavewater.com/) and [Lotus](https://lotuscoffeeproducts.com/) offer products with specific mineral content for different brewing techniques. However, it should be noted that most pre-made mineral concentrates (like [Lotus](https://lotuscoffeeproducts.com/)) use chlorides which can be very corrosive and so are not usually recomended for espresso machines.
 
 Lastly, many aficionados like to make their own water, starting with RO or distilled water as a base and adding a specific mixture of minerals for their taste and brewing methods.
 
