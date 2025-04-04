@@ -471,8 +471,6 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 A concrete example of the "forward" process follows the equations below:
 
 ### Equations
-<details>
-<summary>Click to show</summary>
 
 1. **Salt Mass > Salt Mass Concentration**
     * equation:<br>
@@ -508,8 +506,6 @@ A concrete example of the "forward" process follows the equations below:
 </details>
 
 ### Forward Example
-<details>
-<summary>Click to show</summary>
 
 Let's say we want 20,000ppm as CaCO3 of KH from baking soda (NaHCO3).
 We want to know how much baking soda we need in how much water.
