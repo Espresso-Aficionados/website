@@ -400,7 +400,7 @@ When making custom water recipes, for individual mineral concentrates, combined 
 * If I want **c** ppm of hardness from ion **i**, how much mass **m** of mineral **n** do I need and in how much water **w** should I dissolve it?
 * If I put mass **m** of mineral **n** in an amount of water **w**, what ppm **c** will the solution be?
 
-These two questions are the opposites of each other and as such, the same reversible proces can be used to answer both.
+These two questions are the opposites of each other and as such, the same reversible process can be used to answer both.
 Note that in the following section, "salt" and "mineral" are synonyms.
 
 * First we'll cover what to do - the steps - and why each step is needed.
@@ -408,8 +408,8 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 * Then we'll go through a practical example, applying the equations.
 
 ### Steps & Reasoning
-<details>
-<summary>Target ppm as CaCO3 > salt mass (forwards)</summary>
+
+#### Target ppm as CaCO3 > salt mass (forwards)
 
 2. (equation 2) CaCO3 salt mass concentration > hardness ion mass concentration
    <br>In this step, we are figuring out what part of the total mass of CaCO3 comes just from the ion we care about.<br>
@@ -435,14 +435,13 @@ Note that in the following section, "salt" and "mineral" are synonyms.
    <br>Here we are converting salt hardness ion mass concentration to total salt mass concentration (because we aren't adding/measuring individual ions, we are adding/measuring salt)
 8. (equation 1 reverse) salt mass concentration > salt mass
    <br>Here we are converting salt mass concentration to salt mass<br>
-   (because we are making a specific amount of concentrate solution that requires a sepcific amount of salt)
-</details>
+   (because we are making a specific amount of concentrate solution that requires a specific amount of salt)
 
-<details>
-<summary>Salt mass > result ppm as CaCO3 (backwards)</summary>
+
+#### Salt mass > result ppm as CaCO3 (backwards)
 
 1. (equation 1) salt mass > salt mass concentration
-   <br>Here we convert from a specific amount of salt to a mass concnetration<br>
+   <br>Here we convert from a specific amount of salt to a mass concentration<br>
    (because at the end we want the _**concentration**_ of equivalent CaCO3)
 2. (equation 2) salt mass concentration > salt ion mass concentration
    <br>Here we figure out how much of the total mass of the salt comes from the hardness ion we care about.<br>
@@ -453,7 +452,7 @@ Note that in the following section, "salt" and "mineral" are synonyms.
    i.e. a heavy ion could contribute the same hardness as a light one)
 4. (equation 4) salt ion molarity > hardness equivalents concentration (HE)
    <br>Here we convert the molarity to hardness equivalents concentration (which is based on charge)<br>
-   (because hardness contribution is what we actulaly care about,<br>
+   (because hardness contribution is what we actually care about,<br>
    i.e. we want to know how much CaCO3 gives the _**equivalent hardness**_ as the amount of salt we started with)
 
 <br>_**Note: Here we start to do each step in reverse, but with the ion in our solute instead of the ion in CaCO3.  **_
@@ -466,7 +465,6 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 7. (equation 2 reverse) hardness ion mass concentration > CaCO3 salt mass concentration
    <br>Here we convert from ion mass concentration to CaCO3 mass concentration<br>
    (because ppm is measuring mass _**of CaCO3**_, not only the mass of only the relevant ion)
-</details>
 
 A concrete example of the "forward" process follows the equations below:
 
@@ -503,7 +501,6 @@ A concrete example of the "forward" process follows the equations below:
      * reverse equation:<br>
        ![Ion Molarity > HE - Reverse](../images/waterEquations/ionMolarity2he_reverse.png)
        ![Ion Molarity > HE - Reverse - Dark](../images/waterEquations/ionMolarity2he_reverse_dark.png)
-</details>
 
 ### Forward Example
 
@@ -573,7 +570,7 @@ So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO
    `= 33573.4646590965 (mg NaHCO3/L)`
 8. **(step 1 reverse): NaHCO3 salt mass concentration > NaHCO3 salt mass**
    <br>Here we are converting salt mass concentration to salt mass<br>
-   (because we are making a specific amount of concentrate solution that requires a sepcific amount of salt)<br>
+   (because we are making a specific amount of concentrate solution that requires a specific amount of salt)<br>
    <br>
    `NaHCO3Mass (mg NaHCO3) = NaHCO3MassConcentration (mg NaHCO3/L) * solution value (L)`
    
@@ -596,7 +593,6 @@ So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO
    `NaHCO3Mass (mg NaHCO3) = 33573.4646590965 (mg NaHCO3/L) * .1787 (L)`<br>
    `= 5999.5781345805 (mg NaHCO3)`<br>
    `= 5.9995781345805 (g NaHCO3)`
-</details>
 
 ## Other Notes and Thoughts
 
