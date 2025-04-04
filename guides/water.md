@@ -408,7 +408,9 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 * Then we'll go through a practical example, applying the equations.
 
 ### Steps & Reasoning
-#### Target ppm as CaCO3 > salt mass (forwards)
+<details>
+<summary>Target ppm as CaCO3 > salt mass (forwards)</summary>
+
 2. (equation 2) CaCO3 salt mass concentration > hardness ion mass concentration
    <br>In this step, we are figuring out what part of the total mass of CaCO3 comes just from the ion we care about.<br>
    If we want GH, we care about the Ca2+ ion<br>
@@ -434,8 +436,11 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 8. (equation 1 reverse) salt mass concentration > salt mass
    <br>Here we are converting salt mass concentration to salt mass<br>
    (because we are making a specific amount of concentrate solution that requires a sepcific amount of salt)
+</details>
 
-#### Salt mass > result ppm as CaCO3 (backwards)
+<details>
+<summary>Salt mass > result ppm as CaCO3 (backwards)</summary>
+
 1. (equation 1) salt mass > salt mass concentration
    <br>Here we convert from a specific amount of salt to a mass concnetration<br>
    (because at the end we want the _**concentration**_ of equivalent CaCO3)
@@ -461,10 +466,14 @@ Note that in the following section, "salt" and "mineral" are synonyms.
 7. (equation 2 reverse) hardness ion mass concentration > CaCO3 salt mass concentration
    <br>Here we convert from ion mass concentration to CaCO3 mass concentration<br>
    (because ppm is measuring mass _**of CaCO3**_, not only the mass of only the relevant ion)
+</details>
 
 A concrete example of the "forward" process follows the equations below:
 
 ### Equations
+<details>
+<summary>Click to show</summary>
+
 1. **Salt Mass > Salt Mass Concentration**
     * equation:<br>
       ![Salt Mass > Salt Mass Concentration](../images/waterEquations/saltMass2saltMassConcentration.png)
@@ -496,8 +505,12 @@ A concrete example of the "forward" process follows the equations below:
      * reverse equation:<br>
        ![Ion Molarity > HE - Reverse](../images/waterEquations/ionMolarity2he_reverse.png)
        ![Ion Molarity > HE - Reverse - Dark](../images/waterEquations/ionMolarity2he_reverse_dark.png)
+</details>
 
 ### Forward Example
+<details>
+<summary>Click to show</summary>
+
 Let's say we want 20,000ppm as CaCO3 of KH from baking soda (NaHCO3).
 We want to know how much baking soda we need in how much water.
 So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO3 salt mass) (2, 3, 4, 4, 3, 2, 1)
@@ -587,6 +600,7 @@ So we are going forwards in the process (CaCO3 salt mass concentration >>> NaHCO
    `NaHCO3Mass (mg NaHCO3) = 33573.4646590965 (mg NaHCO3/L) * .1787 (L)`<br>
    `= 5999.5781345805 (mg NaHCO3)`<br>
    `= 5.9995781345805 (g NaHCO3)`
+</details>
 
 ## Other Notes and Thoughts
 
