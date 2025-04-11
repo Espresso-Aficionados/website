@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vibration To Rotary Pump Modification For Home Espresso Machines
+parent: Guides
+nav_order: 14
+---
+
 # Vibration To Rotary Pump Modification For Home Espresso Machines
 Many vibration pump machines have enough space inside for a small rotary vane or gear pump with an integrated motor. If you're after low noise and potentially more linear pump-based flow profiling, this conversion is often possible! However
 
