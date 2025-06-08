@@ -16,7 +16,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - Quick Mill Silvano Evo (solid build, and by far the lowest price for two separate water paths)
 
 
-#### Breville Dual Boiler ($1600 US) 
+### Breville Dual Boiler ($1600 US) 
 *In Short*: This is the stripped down, more manual version of Breville's flagship Oracle automatic machine. It's probably the best machine in this range in terms of temperature stability and user interface - if you can deal with its large size, mediocre build, and questionable aesthetics. 
 
 **The Good:**
@@ -44,7 +44,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - Portafilters are not a common size. 
 - Parts are hard to come by, even consumables like group heat collar inserts. 
 
-#### Rancilio Silvia Pro X ($1940 US)
+### Rancilio Silvia Pro X ($1940 US)
 *In Short:* My personal choice for this price range. Built like a tank and easy to work on with very strong steaming performance and great flat profile shots.
 
 **The Good:**
@@ -69,7 +69,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - Make sure all panels are tightened down all the way to keep noise down - if they are not, they will rattle like mad. 
  
 
-#### Profitec Pro 300 ($1800 US)
+### Profitec Pro 300 ($1800 US)
 *In Short:* An overall similar machine to the Silvia Pro X, but with a slightly rebalanced feature set. Good choice if you want flat profile shots and don't need massive steam power.
 
 **The Good:**
@@ -89,7 +89,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 
 
 
-#### Lelit Elizabeth ($1800 US): 
+### Lelit Elizabeth ($1800 US): 
 *In Short:* Take a Breville Dual Boiler, give it a standard E61 sized group, shrink it down, and give it a heavier frame. You now have a Lelit Elizabeth. 
 
 **The Good:**
@@ -106,7 +106,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - The stock tamper is a crappy nylon one, which isn't really forgivable at this price point. 
  
 
-#### Ascaso Steel Duo PID ($1625 US) 
+### Ascaso Steel Duo PID ($1625 US) 
 *In Short:* A unique machine - instead of dual boilers, it uses dual thermocoils (advanced thermoblocks). Great if you need a quick-heating machine and don't have much space. 
 
 **The Good:**
@@ -124,7 +124,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - No manual (semiautomatic) option.
 - Pressure set high (~11 bars) from factory with not much ability to adjust down.
 
-#### Lucca A53 by La Spaziale ($2000 US via Clive Coffee) 
+### Lucca A53 by La Spaziale ($2000 US via Clive Coffee) 
 *In Short:* A customized La Spaziale Vivaldi II. This machine has much more steam boiler volume than any other dual machine here. It is unfortunately hamstrung by its rather oddball 53mm group head, large size, and poor cup clearance.
 
 **The Good:**
@@ -142,7 +142,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - Quite large footprint.
 - Only one pump, so dispensing hot water and brewing simultaneously is not recommended.
 
-#### Lelit MaraX ($1700 US, less in Europe)
+### Lelit MaraX ($1700 US, less in Europe)
 *In Short:* The best home Heat Exchanger on the market, bar none. The cheapest usable option for E61 flow control. However its low debit pump and poor quality feet do hamper it somewhat.
 
 **The Good:** 
@@ -166,7 +166,7 @@ Before I go in depth, the short list for pump machines below $2000 is:
 - Extremely low water debit (no-restriction flow from group) at about 5ml/s - a result of the low power low noise pump.
 - Small footprint means limited cup storage on top.
 
-#### Bezzera BZ13 PM ($1550 US)
+### Bezzera BZ13 PM ($1550 US)
 _In Short:_ One of only two HX machines that made it to the recommended list, it makes it solely for its ridiculous build quality and super fast heatup time. Also, it's cheap.
 
 **The Good:**
@@ -188,7 +188,7 @@ _In Short:_ One of only two HX machines that made it to the recommended list, it
 - Stock baskets aren't great
 
   
-#### Quick Mill Silvano Evo ($1250 via Chris' Coffee)
+### Quick Mill Silvano Evo ($1250 via Chris' Coffee)
 _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and a thermoblock for on demand steam. An absolute value king here, being the only machine under $1500 that lands in the recommended category. Nearly identical to the Seattle Coffee Gear house brand Diletta Mio - which is in fact a slightly modified Silvano Evo.
 
 **The Good:**
@@ -209,7 +209,7 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - Cup clearance is poor.
 - The stock shower screen seems to hang onto a lot of coffee grounds, so it's worth spending $20 on the IMS precision (RA200IM) screen solely for ease of cleaning.
 
-#### ECM Puristika ($1549 US)
+### ECM Puristika ($1549 US)
 *In short:* Chic, tiny, single-boiler, <u>espresso only</u> machine.
 
 **The Good:**
@@ -229,7 +229,7 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 ## Not Recommended:
  Compared to the above options, these machines are generally too expensive for the features and functionality they offer. If you get a good deal on one used, then it may be worth considering.
  
-#### Profitec Pro 500 or almost any PID HX machine
+### Profitec Pro 500 or almost any PID HX machine
 
 *In Short:* Most PID heat exchanger machines from the likes of Quick Mill, ECM, Rocket, and so on are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it offers basically no more control than a pressurestat and still relies on getting the thermosiphon tuning correct and/or flushing the group.
 
@@ -243,7 +243,7 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 - PID control, but only of steam boiler temperature. Group thermometer is almost mandatory.
 - Generally quite expensive for its feature set
 
-#### Nuova Simonelli Oscar II ($1400 US)
+### Nuova Simonelli Oscar II ($1400 US)
 *In short:* Wildly overpriced in the US. This machine lands firmly on the "don't buy" list from truly baffling shortcomings for the price. 
 
 **The Good:**
