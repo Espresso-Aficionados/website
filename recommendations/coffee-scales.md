@@ -143,4 +143,4 @@ The timemore black mirror nano is an older design and therefore doesn't have a s
 
 
 ## Bluetooth Scales
-To be added (bookoo themis mini, acaia lunar, difluid microbalance, eureka precisa, decent scale, felicita arc, varia aku mini, etc.)
+To be added (scales like bookoo themis mini, acaia lunar, difluid microbalance, eureka precisa, decent scale, felicita arc, varia aku mini, etc.)
