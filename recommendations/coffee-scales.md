@@ -143,6 +143,7 @@ The timemore black mirror nano is an older design and therefore doesn't have a s
 
 
 ## Bluetooth Scales
+
 {: .notice }
 This section is under development
 
