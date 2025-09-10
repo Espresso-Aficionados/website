@@ -36,9 +36,24 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Test your changes locally
 
-To preview a rendered version of the site locally, you will need a basic [Ruby](https://www.ruby-lang.org/en/downloads/) development setup.
+To preview a rendered version of the site locally, you will need to have Ruby installed and available.  The easiest way is to use [asdf](https://asdf-vm.com/guide/getting-started.html) or [mise-en-place](https://mise.jdx.dev/getting-started.html).
 
-To install the necessary software and run a version of the page locally, navigate to this folder on your local disk and execute the following commands:
+This project uses a `.tool-versions` file to manage the required Ruby version if you use asdf/mise-en-place.
+
+#### Using asdf (Linux/macOS)
+
+1.  Add the Ruby plugin: `asdf plugin add ruby`
+2.  Install the version: `asdf install`
+
+#### Using mise (Windows/macOS/Linux)
+
+1.  Install the version: `mise install`
+
+#### Manual Ruby installation
+
+Alternatively, you can install a basic [Ruby](https://www.ruby-lang.org/en/downloads/) development setup. (Check the version in `.tool-versions` to see which version you need.)
+
+Once Ruby is installed, you can run a version of the page locally by navigating to this folder on your local disk and executing the following commands:
 
 ```sh
 bundle install
