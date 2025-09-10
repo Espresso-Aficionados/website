@@ -100,6 +100,7 @@ To remedy both of these solutions, you can mix your own water.  This is a _huge_
 When making water for coffee, the water is described in terms of GH/KH as parts-per-million (ppm).  A common light roast recipe is Holy Water which is 60/23.  That is, a given volume of Holy Water will have 60ppm magnesium/calcium ions and 23ppm carbonate/bicarbonate ions.
 
 Common sources for GH are Magnesium Sulfate / MgSO~4~ (aka Epsom Salt) and Magnesium Chloride / MgCl~2~.
+
 Common sources for KH are Sodium Bicarbonate / NaHCO~3~ (aka Baking Soda) and Potassium Chloride / KHCO~4~.
 
 Finally, when dealing with any custom water recipes you need to start from a source of water that has 0ppm GH and KH.  This can be distilled water (bought at the store or distilled yourself), RO water (store-bought or from home), or zero water (water that has been filtered through a ZeroWater filter or equivalent).
