@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORB Soup
+title: Oxo Rapid Brewer Soup
 parent: Guides
 nav_order: 15
 ---
