@@ -1,4 +1,11 @@
-# A Souper's Guide to the ORB
+---
+layout: default
+title: ORB Soup
+parent: Guides
+nav_order: 15
+---
+
+# A Souper's Guide to the Oxo Rapid Brewer (ORB)
 _or An ORBer's Guide to Soup?_
 
 ## The Basics
@@ -18,7 +25,7 @@ That tends to be an excellent starting point for a wide variety of beans and sho
 
 This concept is similar to the idea of "pre-infusion" from espresso or perhaps "bloom" from pour over.  Essentially, though, before we begin fully extracting the shot in earnest, we want to wet the bed thoroughly... no pun intended.
 
-After filling the water reservior, quickly screw on the pump and begin to slowly, gently, and consistently press down on the plunger. You will know that the soak is complete when the bottom of the screen is coated evenly with coffee.
+After filling the water reservoir, quickly screw on the pump and begin to slowly, gently, and consistently press down on the plunger. You will know that the soak is complete when the bottom of the screen is coated evenly with coffee.
 
 An ideal soak would:
 
