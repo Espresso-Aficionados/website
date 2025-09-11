@@ -47,7 +47,9 @@ The ORB seems to be very comfortable in the 15g ~ 30g range.  Some people have g
 
 As for the water ratio, people have reported success with everything from 1:2 to 1:8, but a good starting point is 1:4.
 
-For the ORB we measure the ratio as _input_ water, not _output_.  So if you were to use a 20g dose, you would add 80g of water to the reservoir.
+~~For the ORB we measure the ratio as _input_ water, not _output_.  So if you were to use a 20g dose, you would add 80g of water to the reservoir.~~
+
+<img width="2637" height="233" alt="image" src="https://github.com/user-attachments/assets/56b6e0a8-268c-47a9-8f77-6d99257a85e5" />
 
 > Also, as a quick note, the water reservoir tends to rapidly cool the water.  So using water that is just off the boil is a good starting point as well.
 
