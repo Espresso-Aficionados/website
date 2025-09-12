@@ -9,6 +9,10 @@ nav_order: 15
 _or An ORBer's Guide to Soup?_
 
 ## The Basics
+
+Soup is a coffee brewing method that uses an espresso portafilter but where the coffee is ground coarser than for espresso such that no or very little pressure builds up during the shot (generally less than 1 bar) yet the flow rate is high.
+In addition, the puck is soaked as gently as possible at the beginning of the shot in order to avoid compressing the puck, which helps overall extraction and obtaining a high flow rate.
+
 ### Grind
 
 Generally speaking, you want the grind to be somewhere between pour over and espresso.  Going coarser tends to increase clarity at the cost of body / texture. Going finer tends to increase body / texture at the cost of clarity.
