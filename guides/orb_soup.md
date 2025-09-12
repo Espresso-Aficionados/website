@@ -24,6 +24,7 @@ You might hear that you want to start with a gap of 450um, or that you want "dou
 If you're not familiar enough with your grinder or you haven't yet dialed in your particular bean for a v60 / turboshot, the best way, in my opinion, is to coarsen the grind until water drips through the bed while you're filling the water.  Then, tighten up the grind until it _just_ doesn't drip until you rest your hand on the plunger.
 
 That tends to be an excellent starting point for a wide variety of beans and should give excellent flavor and clarity, if not your particular preference of body / texture.
+But this is really just a starting point: the whole range of grind settings that allow for gentle soaking and then a relatively fast flow rate produces interesting soup. It just changes character and brings out different characteristics of the coffee: experiment!
 
 ### Soaking
 
