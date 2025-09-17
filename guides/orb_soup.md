@@ -54,14 +54,34 @@ Don't feel confined by trying to land your grind between what you use for v60 an
 
 The soup regime with the ORB exists across a fairly broad range of grind sizes. Where you want to land along this spectrum from the finer end to the coarser end will come down to your flavor preferences, the coffee you’re using, and the grinder.
 
-* "Holes" that never close - Too coarse, no longer in the soup regime
-* "Holes" that close into uniformity - Coarser end of the spectrum that tends to highlight clarity in the cup
-* Uniform - middle of the spectrum that tends to find a balance in the cup
-* Donut that closes to uniform - Finer end of the spectrum that tends to highlight body and texture in the cup
-* Ring / "Holes" that never close - Too fine, no longer in the soup regime
-* Gradient pattern - uneven bed surface
+* **"Holes" that never close** - _Too coarse, no longer in the soup regime_
+* **"Holes" that close into uniformity** - _Coarser end of the spectrum that tends to highlight clarity in the cup_
+* **Uniform** - _Middle of the spectrum that tends to find a balance in the cup_
+* **Donut that closes to uniform** - _Finer end of the spectrum that tends to highlight body and texture in the cup_
+* **Ring / "Holes" that never close** - _Too fine, no longer in the soup regime_
+* **Gradient pattern** - _Uneven bed surface_
 
 You can use the combination of the screen soak pattern and what you're tasting in the cup to help refine you grind setting toward your personal preferences.
+
+#### Soak Example Videos
+
+
+
+<iframe width="420" height="315" src="/images/soup/IMG_6914.mov" frameborder="0" allowfullscreen></iframe>
+_First is an example from Bailey. It's a nice and gentle soak with a donut pattern that closes to uniformity._
+
+---
+
+<iframe width="315" height="420" src="/images/soup/PXL_20250917_201534225.mp4" frameborder="0" allowfullscreen></iframe>
+_Next is an example from assets (your's truly, so I can speak more to this particular brew!).  Like Bailey's there is a slight donut pattern that closes in uniformly.  Mine filled in very quickly, but that soak was actually driven entirely by the weight of my hand on the plunger.  As soon as the screen was soaked, I started the extraction in earnest._
+
+---
+
+<iframe width="420" height="315" src="/images/soup/IMG_3935.mov" frameborder="0" allowfullscreen></iframe>
+_Finally, here is an example that is distinctly different from the previous two from mrc.  He said that this particular brew required two pumps for the soak.  The first pump had very little resistance, then he pumped again to finish the soak.  He mentioned that there was less clarity than normal in this brew, but that it was likely due to waiting 5~10 seconds between the soak and the extraction._ 
+
+_His grind appears to be quite fine, bordering on the boundary between a donut pattern and the ring pattern, but it **did** result in a uniform soak.  I would consider this to be a good example of a brew at the boundary of the soup regime on the finer end of the spectrum._
+
 
 ### Dosing / Ratio
 
