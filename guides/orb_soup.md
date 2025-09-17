@@ -46,6 +46,23 @@ As a reference for what I mean when I say gentle, I try to grind coarse enough t
 
 Finally, I noticed a phenomenon where people often want to rush the end of the soak.  I would encourage you to be patient and consistent and wait for the plunger to fully depress with gentle pressure.  Then you can really drive the flow and finish out the extraction.
 
+### Putting Grind + Soak Together
+
+Now that we've covered the basics of the grind and the soak, the key is to really follow the bean and the easiest way that I know to do that is by visually, by following screen soak pattern, and, of course, by taste.  
+
+Don't feel confined by trying to land your grind between what you use for v60 and espresso.  Likewise, don't feel confined by needing complete the soak in a single pump of the plunger.  These are all just guidelines to get you to a good starting point.
+
+The soup regime with the ORB exists across a fairly broad range of grind sizes. Where you want to land along this spectrum from the finer end to the coarser end will come down to your flavor preferences, the coffee you’re using, and the grinder.
+
+* "Holes" that never close - Too coarse, no longer in the soup regime
+* "Holes" that close into uniformity - Coarser end of the spectrum that tends to highlight clarity in the cup
+* Uniform - middle of the spectrum that tends to find a balance in the cup
+* Donut that closes to uniform - Finer end of the spectrum that tends to highlight body and texture in the cup
+* Ring / "Holes" that never close - Too fine, no longer in the soup regime
+* Gradient pattern - uneven bed surface
+
+You can use the combination of the screen soak pattern and what you're tasting in the cup to help refine you grind setting toward your personal preferences.
+
 ### Dosing / Ratio
 
 The ORB seems to be very comfortable in the 15g ~ 30g range.  Some people have gone as low as 10g or as high as 40g and reported excellent shots, but the norm seems to be 20g ~ 22g (especially after Lance Hendrick's SOUP Guide where he recommends 22g).
