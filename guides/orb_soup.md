@@ -91,7 +91,6 @@ _Finally, here is an example that is distinctly different from the previous two 
 
 _His grind appears to be quite fine, bordering on the boundary between a donut pattern and the ring pattern, but it **did** result in a uniform soak.  I would consider this to be a good example of a brew at the boundary of the soup regime on the finer end of the spectrum._
 
-
 ### Dosing / Ratio
 
 The ORB seems to be very comfortable in the 15g ~ 30g range.  Some people have gone as low as 10g or as high as 40g and reported excellent shots, but the norm seems to be 20g ~ 22g (especially after Lance Hendrick's SOUP Guide where he recommends 22g).
