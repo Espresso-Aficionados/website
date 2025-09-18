@@ -67,17 +67,26 @@ You can use the combination of the screen soak pattern and what you're tasting i
 
 
 
-<iframe width="420" height="315" src="/images/soup/IMG_6914.mov" frameborder="0" allowfullscreen></iframe>
+<video controls>
+  <source src="/images/soup/IMG_6914.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 _First is an example from Bailey. It's a nice and gentle soak with a donut pattern that closes to uniformity._
 
 ---
 
-<iframe width="315" height="420" src="/images/soup/PXL_20250917_201534225.mp4" frameborder="0" allowfullscreen></iframe>
+<video controls>
+  <source src="/images/soup/PXL_20250917_201534225.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 _Next is an example from assets (your's truly, so I can speak more to this particular brew!).  Like Bailey's there is a slight donut pattern that closes in uniformly.  Mine filled in very quickly, but that soak was actually driven entirely by the weight of my hand on the plunger.  As soon as the screen was soaked, I started the extraction in earnest._
 
 ---
 
-<iframe width="420" height="315" src="/images/soup/IMG_3935.mov" frameborder="0" allowfullscreen></iframe>
+<video controls>
+  <source src="/images/soup/IMG_3935.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 _Finally, here is an example that is distinctly different from the previous two from mrc.  He said that this particular brew required two pumps for the soak.  The first pump had very little resistance, then he pumped again to finish the soak.  He mentioned that there was less clarity than normal in this brew, but that it was likely due to waiting 5~10 seconds between the soak and the extraction._ 
 
 _His grind appears to be quite fine, bordering on the boundary between a donut pattern and the ring pattern, but it **did** result in a uniform soak.  I would consider this to be a good example of a brew at the boundary of the soup regime on the finer end of the spectrum._
