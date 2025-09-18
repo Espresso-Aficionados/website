@@ -46,6 +46,52 @@ As a reference for what I mean when I say gentle, I try to grind coarse enough t
 
 Finally, I noticed a phenomenon where people often want to rush the end of the soak.  I would encourage you to be patient and consistent and wait for the plunger to fully depress with gentle pressure.  Then you can really drive the flow and finish out the extraction.
 
+### Putting Grind + Soak Together
+
+Now that we've covered the basics of the grind and the soak, the key is to really follow the bean and the easiest way that I know to do that is by visually, by following screen soak pattern, and, of course, by taste.  
+
+Don't feel confined by trying to land your grind between what you use for v60 and espresso.  Likewise, don't feel confined by needing complete the soak in a single pump of the plunger.  These are all just guidelines to get you to a good starting point.
+
+The soup regime with the ORB exists across a fairly broad range of grind sizes. Where you want to land along this spectrum from the finer end to the coarser end will come down to your flavor preferences, the coffee you’re using, and the grinder.
+
+* **"Holes" that never close** - _Too coarse, no longer in the soup regime_
+* **"Holes" that close into uniformity** - _Coarser end of the spectrum that tends to highlight clarity in the cup_
+* **Uniform** - _Middle of the spectrum that tends to find a balance in the cup_
+* **Donut that closes to uniform** - _Finer end of the spectrum that tends to highlight body and texture in the cup_
+* **Ring / "Holes" that never close** - _Too fine, no longer in the soup regime_
+* **Gradient pattern** - _Uneven bed surface_
+
+You can use the combination of the screen soak pattern and what you're tasting in the cup to help refine you grind setting toward your personal preferences.
+
+#### Soak Example Videos
+
+
+
+<video controls>
+  <source src="/images/soup/IMG_6914.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+_First is an example from Bailey. It's a nice and gentle soak with a donut pattern that closes to uniformity._
+
+---
+
+<video controls>
+  <source src="/images/soup/PXL_20250917_201534225.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+_Next is an example from assets (your's truly, so I can speak more to this particular brew!).  Like Bailey's there is a slight donut pattern that closes in uniformly.  Mine filled in very quickly, but that soak was actually driven entirely by the weight of my hand on the plunger.  As soon as the screen was soaked, I started the extraction in earnest._
+
+---
+
+<video controls>
+  <source src="/images/soup/IMG_3935.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+_Finally, here is an example that is distinctly different from the previous two from mrc.  He said that this particular brew required two pumps for the soak.  The first pump had very little resistance, then he pumped again to finish the soak.  He mentioned that there was less clarity than normal in this brew, but that it was likely due to waiting 5~10 seconds between the soak and the extraction._ 
+
+_His grind appears to be quite fine, bordering on the boundary between a donut pattern and the ring pattern, but it **did** result in a uniform soak.  I would consider this to be a good example of a brew at the boundary of the soup regime on the finer end of the spectrum._
+
+
 ### Dosing / Ratio
 
 The ORB seems to be very comfortable in the 15g ~ 30g range.  Some people have gone as low as 10g or as high as 40g and reported excellent shots, but the norm seems to be 20g ~ 22g (especially after Lance Hendrick's SOUP Guide where he recommends 22g).
