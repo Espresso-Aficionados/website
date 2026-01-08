@@ -390,7 +390,7 @@ Example screenshots below:
 ![Custom Direct Dosing GH / KH Lookup](../images/water_calc_p4.png)
 
 * [Jonathan Gagné](https://coffeeadastra.com/2019/08/23/a-tool-and-videos-for-crafting-custom-brew-water/)
-* [David Seng](https://www.espressoschool.com.au/coffee-water-calculators/)
+* [David Seng](https://docs.google.com/spreadsheets/d/1Vk5TXlev-2tK0TJmfbrL6zTc82r8z_Cg4yD_ikvf8zg/edit?usp=drivesdk)
 * [Water for Coffee Crafter](https://docs.google.com/spreadsheets/d/1SRY9sn1NiWYfOms7knH__j_Iw-OwW6vU2JpWjA4P3jY/edit?usp=sharing)
 
 
