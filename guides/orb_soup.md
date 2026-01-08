@@ -119,7 +119,9 @@ If you want to simplify things, you can use a 2.5 inch diameter filter for both 
 
 You can also opt to use 58mm paper filters on the bottom and they'll cover the screen perfectly.
 
-Finally, if you prefer to get some exact, custom filters you can use an [adjustable](https://a.co/d/2DgMR6y) [circle](https://a.co/d/ircyCvW) [cutter](https://a.co/d/f4dZTh5).
+If you prefer to get some exact, custom filters you can use an [adjustable](https://a.co/d/2DgMR6y) [circle](https://a.co/d/ircyCvW) [cutter](https://a.co/d/f4dZTh5).
+
+Finally, you can also buy pre-cut filters, Good Brothers offers specific sizes in Chemex paper: use Size K for the top and Size J for the bottom. Additionally, you can find filters from EAF members, such as wonderllama, in the marketplace section.
 
 > If you find that the top of your puck is often lop-sided or has holes dug into it, the most likely cause is from pouring the water to fill the reservoir.  A simple solution is to get a 58mm puck screen and drop it into the water reservoir, then pour on top of it.  It'll break up the flow and leave the top surface undisturbed!
 
