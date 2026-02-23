@@ -46,16 +46,6 @@ To edit your profile:
 ![Run Edit Profile](/images/sprobotguide/runeditprofile.png){:height="50%" width="50%"}
 
 
-### Saving a profile image via Right Click
-1. Post an image, maybe in #setups
-2. Right click on the post (**NOT** the image itself), or Long Press on mobile
-3. Click on `Apps >`.
-3. Click on either `Save as Coffee Setup Image` or `Save as Roaster Setup Image`. 
-
-![Save Image](/images/sprobotguide/saveimage.png){:height="50%" width="50%"}
-![Mobile Long Press](/images/sprobotguide/long_press.png){:height="50%" width="50%"}
-![Mobile Menu](/images/sprobotguide/mobile_menu.png){:height="50%" width="50%"}
-
 ## Deleting Profile or Image
 
 **THIS IS PERMANENT, WE CANNOT GET IT BACK**
