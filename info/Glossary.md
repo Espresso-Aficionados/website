@@ -63,3 +63,165 @@ All of these can be fitted into handles of various types such as bits of cork, e
 
 ## Yield ##
 The wet weight of the extracted coffee.
+
+---
+
+# Common Shorthand/Acronyms
+
+A non-exhaustive list of commonly used acronyms and alphanumeric shorthand on the EAF Discord server
+
+## General Terminology ##
+
+| Abbreviation | Meaning |
+|---|---|
+| 3WC | Third Wave Coffee |
+| AA | Kenyan coffee grade (large screen size) |
+| AB | (1) A/B comparison; (2) coffee grade below AA |
+| ACE | Alliance for Coffee Excellence |
+| AE | AliExpress |
+| BANA | Bean Addicts Non Anonymous |
+| CM | Carbonic Maceration (processing/fermentation) |
+| COE | Cup of Excellence |
+| CQI | Coffee Quality Institute |
+| CSP | SCA Coffee Skills Program |
+| CVA | Coffee Value Assessment |
+| DB | Dual Boiler |
+| DBM | Dual Boiler Machine |
+| DP | Double Picked (green coffee sorting) |
+| DT | Direct Trade |
+| EAF | Espresso Aficionados (Discord/community) |
+| EP | European Preparation (green coffee sorting) |
+| ESP | Baratza model variant shorthand (Encore ESP) |
+| EY | Extraction Yield |
+| FT | Fair Trade certification |
+| FTO | Fair Trade Organic certification |
+| GBW | Grind-by-Weight (grinder feature) |
+| GE | Gesha/Geisha (variety shorthand) |
+| HB | Hard Bean (high-altitude designation) |
+| HS | H&S Coffee Roasters |
+| HU | High Uniformity (SSP burr type) |
+| KWF | Kalita Wave filter code prefix |
+| LM | La Marzocco (brand shorthand) |
+| LPE | Low Pressure Extraction |
+| LU | Low Uniformity (burr type shorthand) |
+| MASL | Meters Above Sea Level |
+| MM | Moccamaster (brand shorthand) |
+| MP | Multi Purpose (SSP burr type) |
+| ND | Niche Duo (informal shorthand) |
+| NZ | Niche Zero (informal shorthand) |
+| OPV | Over Pressure Valve |
+| PCS | Preliminary Crushing System (pre-crush stage before burrs) |
+| PF | Portafilter |
+| PI | Pre-infusion |
+| PID | Proportional–Integral–Derivative controller |
+| PLA | Polylactic Acid (3D printing filament) |
+| PO | Pour-over |
+| POB | Pour-Over Burr (Kinu M47 burr set) |
+| POS | Point of Sale |
+| PSPH | Pull Soft / Pull Hard (espresso profile shorthand) |
+| Q | Q Grader (licensed coffee quality grader) |
+| RA | Rainforest Alliance certification |
+| RDT | Ross Droplet Technique |
+| RNG | Random Number Generator |
+| RoR | Rate of Rise (roasting) |
+| SBDU | Single Boiler, Dual Use |
+| SCA | Specialty Coffee Association |
+| SCAA | Specialty Coffee Association of America (legacy name) |
+| SCP | Specialty Coffee Professional (informal) |
+| SDRM | Monolith grinder/burr configuration shorthand |
+| SHB | Strictly Hard Bean (high-altitude designation) |
+| SHG | Strictly High Grown (high-altitude designation) |
+| SLS | Selective Laser Sintering (3D printing) |
+| SO | Single Origin |
+| SOUP | Spro Only Unpressurized (backronym for "soup" brew method popularized by Lance Hedrick) |
+| SSP | SSP Grinding Solution (burr manufacturer) |
+| T-90 | CAFEC filter paper code |
+| T90/2/6 | CAFEC filter paper code variant |
+| TAM | Total Addressable Market |
+| TDS | Total Dissolved Solids |
+| TPC | The Picky Chemist coffee roaster |
+| TP | Triple Picked (green coffee sorting) |
+| TWC | Third Wave Coffee |
+| UC | Ultrasonic cleaner |
+| UC | Undercounter (equipment category) |
+| UL | Ultra Light |
+| ULC | Ultra Low Contact (Decent espresso profile shorthand) |
+| ULF | Ultra Low Fines (burr/grinder shorthand) |
+| ULR | Ultra Light Roast |
+| UTZ | UTZ Certified (now part of Rainforest Alliance) |
+| WDT | Weiss Distribution Technique |
+| Yeet | fast-extraction shot/profile slang |
+
+## Popular Equipment Models ##
+
+| Abbreviation | Meaning |
+|---|---|
+| 102HU | SSP 102mm High Uniformity burr set |
+| 064s | Timemore Sculptor grinder model |
+| 078s | Timemore Sculptor grinder model |
+| 1203 | Ditting grinder model |
+| 1403 | Ditting grinder model |
+| 807 | Ditting grinder model |
+| A4Z | Femobook grinder model |
+| AP | AeroPress brewer |
+| B75 | Timemore flat-bottom dripper model |
+| BDB | Breville Dual Boiler espresso machine |
+| BES870 | Breville Barista Express model |
+| BES878 | Breville Barista Express model |
+| BES920 | Breville Dual Boiler model |
+| BES990 | Breville Oracle Touch model |
+| CBS | Fetco batch brewer series prefix |
+| CT2 | Strietman manual lever espresso machine model |
+| CWT | Bunn brewer model prefix (commonly CWTF) |
+| DE1 | Decent Espresso machine model |
+| DF54 | DF-series grinder model |
+| DF64 | DF-series grinder model |
+| DF64E | DF-series grinder model |
+| DF64P | DF-series grinder model |
+| DF83 | DF-series grinder model |
+| DR100 | Mazzer grinder model |
+| E20 | Agtron color meter model |
+| E55 | Starseeker electric grinder model |
+| E80 | Mahlkönig grinder model |
+| EK43 | Mahlkönig grinder model |
+| EK43S | Mahlkönig grinder model |
+| F18 | Sanremo espresso machine model |
+| F5 | Fiorenzato grinder model |
+| F64 | Fiorenzato grinder model |
+| F71 | Fiorenzato grinder model |
+| F83 | Fiorenzato grinder model |
+| FB80 | La Marzocco espresso machine model |
+| GCP | Gaggia Classic Pro espresso machine |
+| GB5 | La Marzocco espresso machine model |
+| GS3 | La Marzocco espresso machine model |
+| ICB | Bunn brewer line |
+| J90 | Jura espresso machine model |
+| K30 | Mahlkönig grinder model line |
+| KB90 | La Marzocco espresso machine model |
+| KBGV | Moccamaster brewer model |
+| KBGT | Moccamaster brewer model |
+| L100 | Roest roaster model |
+| LMLM | La Marzocco Linea Mini espresso machine |
+| M-Basic | Agtron color meter model |
+| M01 | Timemore hand grinder model |
+| M47 | Kinu hand grinder model |
+| MVP | Synesso espresso machine line |
+| ORB | OXO Rapid Brewer |
+| P01 | Lagom grinder model |
+| P64 | Lagom grinder model |
+| P80 | Lagom grinder model |
+| P100 | Lagom grinder model |
+| R1 | Aillio Bullet roaster model |
+| R2 | DiFluid refractometer model |
+| SD40 | Turin / Solo-style grinder model |
+| SD50 | Turin / Solo-style grinder model |
+| SD64 | Turin / Solo-style grinder model |
+| Strada | La Marzocco espresso machine line |
+| TB3 | Bunn tea/coffee brewer model |
+| V60 | Hario V60 dripper |
+| X1 | La Marzocco Strada X1 espresso machine model |
+| X64 | Mahlkönig grinder model |
+| Z1 | Zerno grinder model |
+| Z2 | Zerno grinder model |
+| ZM | Mazzer grinder model |
+| ZP6 | 1Zpresso manual grinder model |
