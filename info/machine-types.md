@@ -16,7 +16,7 @@ These machines are the least expensive home machines and are using the pressure 
     * Compact footprint for small kitchens or offices
     * Simple one-knob operation makes them very easy to use for beginners
 * Cons:
-    * Only produces 1.5-3.5 bars of pressure, far from the 9 bars required for traditional styles of espresso
+    * Can only produce 1.5-3.5 bars of pressure, far from the 9 bars required for traditional styles of espresso
     * Water must reach a boil to create pressure, often leading to bitter or burnt tasting shots due to high temperatures
     * Safety cap design prevents immediate refilling; you must wait for the boiler to cool and depressurize before opening
     * Steam wand quality is generally very poor, making it difficult to achieve latte art capable foam
