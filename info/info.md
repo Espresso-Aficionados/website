@@ -8,11 +8,3 @@ mermaid: true
 ---
 
 # Useful Information
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
