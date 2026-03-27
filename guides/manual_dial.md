@@ -64,6 +64,3 @@ Manual machines allow you to rescue a bad shot by changing the extraction variab
 * Bloom it: Extend the pre-infusion, you're now doing a **blooming shot**. Let the puck sit at 1 bar and saturate for however long necessary for the bottom to completely bead up and start dripping. This can sometimes take 30-60 seconds.  
 * Gentle Pressure: Ramp up gently to the highest pressure that doesn't make the shot spray out. 
 * Reduce the ratio: These shots get bitter faster because of the high amount of contact time and fines, so you will want to pull the shot shorter (e.g. 1:1.5). 
-
-> ### Channeling tip
-> If you feel the lever "give way" (a channel has formed), ease off the pressure instantly. Dropping to 2–3 bars allows the puck to relax and sometimes "reseal" the hole, saving the cup from becoming an undrinkable astringent mess.
