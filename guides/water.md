@@ -381,8 +381,9 @@ Here is an example of 60/90 with Epsom Salt and Potassium Bicarbonate.
 
 ## Spreadsheet Calculators
 * [CoffeeWater by Chris](https://coffeewater.app/)
+* 
 
-Example screenshots below:
+Example screenshots the [EAF Gdoc](https://docs.google.com/spreadsheets/d/1nFnvUGzP8NvngkYgNaknQgA1QO0o5tQYwyWZcyRGsO0/edit?usp=drivesdk), below:
 
 ![Easy Direct Dosing Recipe Picker](../images/water_calc_p1.png)
 ![Easy Direct Dosing Recipe Chart](../images/water_calc_p2.png)
