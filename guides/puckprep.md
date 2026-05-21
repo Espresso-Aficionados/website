@@ -5,7 +5,7 @@ parent: Guides
 nav_order: 2
 ---
 
-# What is Puck Preperation?
+# What is Puck Preparation?
 
 Puck preparation is everything you do to your puck after you grind it but before you tamp it. Making sure you have a effective workflow here can help make sure your espresso is evenly extracted and consistent.  
 
@@ -32,6 +32,6 @@ Leveling tools, also known as distributors, are tools that you place on top of y
 
 ## The People's WDT Tool
 
-If you're looking for an accessible, affordable but also excellent WDT tool, [jkim_makes](https://www.thingiverse.com/jkim_makes) aka Chill'd on the EAF Discord has created a [3D-printed 9-prong WDT design](https://www.thingiverse.com/thing:4819617) that has since become a cult favourite and our #1 recommendation for anyone looking for a WDT tool. The design file is free to download and print yourself. If you do not have access to a 3D-printer, you're likely to find someone in EAF's #maker-space channel who will print one for you!
+If you're looking for an accessible, affordable but also excellent WDT tool, [jkim_makes](https://www.thingiverse.com/jkim_makes) aka Chill'd on the EAF Discord has created a [3D-printed 9-prong WDT design](https://www.thingiverse.com/thing:4819617) that has since become a cult favorite and our #1 recommendation for anyone looking for a WDT tool. The design file is free to download and print yourself. If you do not have access to a 3D-printer, you're likely to find someone in EAF's #maker-space channel who will print one for you!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YxRgqz-_BYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
