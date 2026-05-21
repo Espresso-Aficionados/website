@@ -286,4 +286,4 @@ These machines are similar to the Single Boiler/Dual Use machines listed above b
 
 #### Cons:
 - Similar cons to the Infuser
-- Grinder is not particularly easy to dial in and is faily unreliable
+- Grinder is not particularly easy to dial in and is fairly unreliable
