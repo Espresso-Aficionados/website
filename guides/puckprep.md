@@ -18,17 +18,17 @@ To do this, the coffee is ground into a portafilter with a funnel to decrease me
 Over the years the process has been refined, especially with the commercial availability of funnels and WDT tools. The video below by James Hoffmann will show you what a modern WDT process looks like breaking up clumps it addition to various WDT tools available.
 
 #### Weiss Distribution Technique (WDT) tools: DIY & needles vs loops
-<iframe width="560" height="315" src="https://youtu.be/xb3IxAr4RCo?t=290&si=Fip4Q945_wjWiKSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xb3IxAr4RCo?si=OyA76s8eQJsF4LVu&amp;start=290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Using the WDT
-<iframe width="560" height="315" src="https://youtu.be/xb3IxAr4RCo?t=362&si=gB5EAOOR40X87FAf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xb3IxAr4RCo?si=EExw9EF5HErnq2XM&amp;start=362" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## What About Leveling/Distributors?
 
 Leveling tools, also known as distributors, are tools that you place on top of your basket and rotate in order to flatten the bed of your puck. While these seem to make an even and consistent puck, they actually do not distribute grinds. Rather, they smooth out the puck and create inconsistent compression. They do not help remove clumps or create consistency, and have been found to decrease extraction. Rather than only using one of these, distributors are best used in conjunction with WDT tools to both evenly distribute and rake the ground to provide a level tamping surface. 
 
 #### Wedge Distributors Use 
-<iframe width="560" height="315" src="https://youtu.be/xb3IxAr4RCo?t=398&si=-VJ-aWeEetYCJCXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xb3IxAr4RCo?si=Hc-dS-7yy9fqzCdk&amp;start=398" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The People's WDT Tool
 
