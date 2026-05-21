@@ -257,6 +257,6 @@ _In Short:_ A somewhat unique machine, it uses a traditional boiler for brew and
 **The Not So Good:**
 - Cheap plastic panels. Even Breville, often derided as "appliance grade", has metal outer panels.
 - Wildly overpriced in the US - these are around €720 in Europe, which makes them a more compelling option.
-- Copper boiler more scale prone
+- Copper boiler more scale prone.
 - Older versions don't come with an OPV installed.
 - Uses a less common (Simonelli/Bezzera type) portafilter shape.
