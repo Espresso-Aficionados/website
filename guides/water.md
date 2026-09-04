@@ -28,6 +28,8 @@ While the typical concern is water being too hard, water with too few minerals (
 ### How do I measure my water hardness?
 In some areas, municipal water supplies post regular water reports which can be found by googling "town name water report". The key factors to look for are general hardness (GH) and alkalinity (or KH). In the United States, this is often reported as parts per million (aka mg/L of CaCO<sub>3</sub> equivalent). Keep in mind that these reports are not always accurate or up to date, but can be a good starting point  - <ins>if your municipality reports high levels of hardness you should consider filtering or making your own water<ins> (more on water recipes below).
 
+If a report lists calcium and magnesium separately instead of total hardness, this [water hardness calculator](https://www.calculatorcampus.com/calculators/water-hardness-calculator) can combine them into total hardness in mg/L as CaCO<sub>3</sub> and convert the result to other common hardness units.
+
 You can also measure your water using two fairly inexpensive methods:
 1. An electronic TDS (total dissolved solids) meter
 2. A water test kit that includes hardness strips
